@@ -191,4 +191,30 @@
  {:id :virus
   :name "Virus"}
  {:id :weapon
-  :name "Weapon"}]
+  :name "Weapon"}
+ {:id :covert
+  :name "Covert"}
+ {:id :counterops
+  :name "Counter Ops"}
+ {:id :curfew
+  :name "Curfew"}
+ {:id :daily
+  :name "Daily"}
+ {:id :duality
+  :name "Duality"}
+ {:id :onrez
+  :name "OnRez"}
+ {:id :optional
+  :name "Optional"}
+ {:id :prep
+  :name "Prep"}
+ {:id :announcement
+  :name "Announcement"}
+ {:id :singularity
+  :name "Singularity"}
+ {:id :pressrelease
+  :name "Press Release"}
+ {:id :repo
+  :name "Repo"}
+ {:id :trending
+  :name "Trending"}]

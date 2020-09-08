@@ -1,0 +1,112 @@
+[{:card-id "LOBOIncorporated"
+  :code "99001"
+  :flavor "Just sit still, it won’t take but a second"
+  :illustrator "J Elias Epp"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 1
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "LUX"
+  :code "99002"
+  :flavor "Why settle for less when you can have everything?"
+  :illustrator "Kieran Belkus"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 2
+  :quantity 3
+  :set-id "mnemic"}  
+ {:card-id "NewClearEnergies"
+  :code "99003"
+  :flavor "”We keep the world turning.”"
+  :illustrator "Jan Urschel"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 3
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "GuardiansInc"
+  :code "99004"
+  :flavor "”Serve the public, protect the innocent, uphold the law.”"
+  :illustrator "Frederic Bennett"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 4
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "RegistrationAct"
+  :code "99005"
+  :flavor "“Voluntary Registration is available 24/7. Also true for our service compliance scanners.” - L.O.B.O. Service Announcement."
+  :illustrator "Pawel Nowakowski"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 5
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "PrizePool"
+  :code "99006"
+  :flavor "“Aaaaaaaaaaaand we're off to the races!”"
+  :illustrator "Jan Urschel"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 6
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "DreamProject"
+  :code "99007"
+  :flavor "“Dream big. Dream of upgrades.”"
+  :illustrator "Gino Whitehall"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 7
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "ArchitectsDream"
+  :code "99008"
+  :flavor "This was their first idea to improve their workflow. Of course, there would be more to come."
+  :illustrator "Carl Holden"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 8
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "AbandonedMoonWarehouse"
+  :code "99009"
+  :flavor "If a place looks abandoned, there couldn't be anything of value there, right?"
+  :illustrator "Atey Ghailan"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 9
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "LOBOProcedure"
+  :code "99010"
+  :flavor "”You wake up strapped to a surgical chair. You don't remember how you got here. You leave.”"
+  :illustrator "Bowen Ellames"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 10
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "OverwatchSentinel"
+  :code "99011"
+  :flavor "They see. They find. They hurt."
+  :illustrator "Evgenij Kungur"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 11
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "EncryptedServers"
+  :code "99012"
+  :flavor "ufXgX18hdSS7aPyihpf3mASRhvMbn8tp+lHf5gKLqy4="
+  :illustrator "Manuel Fuentes"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 12
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "RemoteControllers"
+  :code "99013"
+  :flavor "Built-in efficiency."
+  :illustrator "John Polidora"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 13
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "GridControl"
+  :code "99014"
+  :flavor "Just keep doing what you're doing. You're already doing it great."
+  :illustrator "Rico De Zoysa"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 14
+  :quantity 3
+  :set-id "mnemic"}]

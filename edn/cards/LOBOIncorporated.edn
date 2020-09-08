@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "LOBOIncorporated"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "X[recurring-credit]\nUse these credits for anything.\nX is the number of brain damage the Runner has."
+ :title "L.O.B.O. Incorporated: Targeted Relief for Pain"
+ :type :identity
+ :uniqueness false}

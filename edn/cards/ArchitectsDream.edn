@@ -1,0 +1,11 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ArchitectsDream"
+ :side :corp
+ :subtype [:research]
+ :text "2[recurring-credit]\nUse these credits to rez ice."
+ :title "Architect's Dream"
+ :type :agenda
+ :uniqueness false}

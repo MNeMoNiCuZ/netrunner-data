@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "GuardiansInc"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:subsidiary]
+ :text "When your turn begins, if there are 3 or more <strong>ritzy</strong> Corp cards rezzed, or in your score area, you may gain [click]. If you do, you may not score agendas this turn.\n"
+ :title "Guardians Inc: Do No Harm"
+ :type :identity
+ :uniqueness false}

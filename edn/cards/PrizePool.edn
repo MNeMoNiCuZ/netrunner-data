@@ -1,0 +1,11 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "PrizePool"
+ :side :corp
+ :subtype [:ritzy]
+ :text "When your turn begins, gain 1[credit]."
+ :title "Prize Pool"
+ :type :agenda
+ :uniqueness false}

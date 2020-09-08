@@ -1,0 +1,11 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "EncryptedServers"
+ :side :corp
+ :subtype [:security]
+ :text "When this agenda is scored, place 5 agenda counters on it.\n<strong>Hosted agenda counter:</strong> Increase the strength of an ice encountered by 2 until the end of the run. Only use this ability once per encounter."
+ :title "Encrypted Servers"
+ :type :agenda
+ :uniqueness false}

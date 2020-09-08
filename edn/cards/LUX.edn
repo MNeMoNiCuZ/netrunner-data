@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "LUX"
+ :influence-limit 17
+ :minimum-deck-size 50
+ :side :corp
+ :subtype [:division]
+ :text "When your turn begins, if there are 3 or more <strong>ritzy</strong> Corp cards rezzed, or in your score area, you may gain [click]. If you do, you may not score agendas this turn.\n"
+ :title "L.U.X: Luxury is Forever"
+ :type :identity
+ :uniqueness false}

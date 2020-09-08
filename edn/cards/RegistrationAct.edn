@@ -1,0 +1,11 @@
+{:advancement-requirement 5
+ :agenda-points 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "RegistrationAct"
+ :side :corp
+ :subtype [:security]
+ :text "When the Runner's turn begins, <strong>Trace<sup><strong>¹</strong></sup></strong> – If successful, do 1 brain damage."
+ :title "Registration Act"
+ :type :agenda
+ :uniqueness false}
