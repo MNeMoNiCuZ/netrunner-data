@@ -109,4 +109,9 @@
   :name "Magnum Opus Reprint"
   :position 28
   :rotated false
+  :size 1}
+ {:id "mnemic-cycle"
+  :name "MNeMiCs Cycle"
+  :position 29
+  :rotated false
   :size 1}]

@@ -639,12 +639,12 @@
   :set-type :data-pack
   :size 65}
  {:code "mn"
-  :cycle-id "mnemic"
+  :cycle-id "mnemic-cycle"
   :date-release "2020-06-28"
   :deluxe false
   :ffg-id nil
   :id "mnemic"
-  :name "MNeMiCs"
-  :position 3
+  :name "MNeMiC"
+  :position 1
   :set-type :expansion
-  :size 410}]
+  :size 14}]
