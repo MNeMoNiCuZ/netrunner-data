@@ -2,9 +2,8 @@
   :agenda-points 3
   :deck-limit 3
   :faction :haas-bioroid
-  :id "LOBOProcedure
+  :id "LOBOProcedure"
   :side :corp
-  :subtype [:security]
   :text "When this agenda is scored, do 1 brain damage."
   :title "L.O.B.O. Procedure"
   :type :agenda

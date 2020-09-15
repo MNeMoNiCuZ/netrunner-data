@@ -2,9 +2,8 @@
   :agenda-points 2
   :deck-limit 3
   :faction :haas-bioroid
-  :id "RemoteControllers
+  :id "RemoteControllers"
   :side :corp
-  :subtype [:research]
   :text "When this agenda is scored, place 5 agenda counters on it.\n<strong>Hosted agenda counter: </strong>Lower the cost of an ice being rezzed by 2[credit]. Use this ability only once per ice being rezzed."
   :title "Remote Controllers"
   :type :agenda

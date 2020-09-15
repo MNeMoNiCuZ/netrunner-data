@@ -2,9 +2,8 @@
   :agenda-points 1
   :deck-limit 3
   :faction :haas-bioroid
-  :id "FutureProofing
+  :id "FutureProofing"
   :side :corp
-  :subtype [:initiative]
   :text "[trash]: Gain 1[click] Use this ability only during your turn."
   :title "Future-Proofing"
   :type :agenda

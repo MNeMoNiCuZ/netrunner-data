@@ -2,9 +2,8 @@
   :agenda-points 3
   :deck-limit 3
   :faction :haas-bioroid
-  :id "AbandonedMoonWarehouse
+  :id "AbandonedMoonWarehouse"
   :side :corp
-  :subtype [:research]
   :text "[click][click]: Rez an ice, ignoring all costs."
   :title "Abandoned Moon Warehouse"
   :type :agenda
