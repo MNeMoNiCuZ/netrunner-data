@@ -1,192 +1,192 @@
 [{:card-id "GuardiansInc"
- :code "99001"
- :flavor "Serve the public, protect the innocent, uphold the law."
- :illustrator "FredericBennett"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/GuardiansInc.jpg"
- :position 1
- :quantity 3
- :set-id "mnemic"}
-{:card-id "HaasBioroidUprezzingYourLife"
- :code "99002"
- :flavor "Become the best you can be."
- :illustrator "Carl Holden"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/HaasBioroidUprezzingYourLife.jpg"
- :position 2
- :quantity 3
- :set-id "mnemic"}
-{:card-id "HaasBioroidTheBoard"
- :code "99003"
- :flavor "The Board always knows what to do."
- :illustrator "Leon Tukker"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/HaasBioroidTheBoard.jpg"
- :position 3
- :quantity 3
- :set-id "mnemic"}
-{:card-id "Jotunn"
- :code "99004"
- :flavor "Sá einn veit er víða ratar ok hefr fjölð um farit hverju geði stýrir gumna hverr sá er vitandi er vits. - Hávamál - Stanza 18"
- :illustrator "Leon Tukker"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/Jotunn.jpg"
- :position 4
- :quantity 3
- :set-id "mnemic"}
-{:card-id "KairosHoppers"
- :code "99005"
- :flavor "Hyperclocked? More like quantum-clocked!"
- :illustrator "Tyler Edlin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/KairosHoppers.jpg"
- :position 5
- :quantity 3
- :set-id "mnemic"}
-{:card-id "LOBOIncorporated"
- :code "99006"
- :flavor "Just sit still, it won’t take but a second"
- :illustrator "J Elias Epp"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/LOBOIncorporated.jpg"
- :position 6
- :quantity 3
- :set-id "mnemic"}
-{:card-id "LUX"
- :code "99007"
- :flavor "Why settle for less when you can have everything?"
- :illustrator "Kieran Belkus"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/LUX.jpg"
- :position 7
- :quantity 3
- :set-id "mnemic"}
-{:card-id "NewClearEnergies"
- :code "99008"
- :flavor "We keep the world turning."
- :illustrator "Jan Urschel"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/NewClearEnergies.jpg"
- :position 8
- :quantity 3
- :set-id "mnemic"}
-{:card-id "OmegAlpha"
- :code "99009"
- :flavor "Twice as fun!"
- :illustrator "Rob Brown"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/OmegAlpha.jpg"
- :position 9
- :quantity 3
- :set-id "mnemic"}
-{:card-id "Perpetua"
- :code "99010"
- :flavor "An unstoppable force that can keep going forever."
- :illustrator "Maxim Ostapenko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/Perpetua.jpg"
- :position 10
- :quantity 3
- :set-id "mnemic"}
-{:card-id "SklarIndustries"
- :code "99011"
- :flavor "Before taking your first turn, you may search your deck for up to 2 pieces of ice, reveal and install them, paying any install cost."
- :illustrator "Alex Ichim"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/SklarIndustries.jpg"
- :position 11
- :quantity 3
- :set-id "mnemic"}
-{:card-id "SpecializedData"
- :code "99012"
- :flavor "That's very interesting! We'll take that."
- :illustrator "Claudio Pilia"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/SpecializedData.jpg"
- :position 12
- :quantity 3
- :set-id "mnemic"}
-{:card-id "AbandonedMoonWarehouse"
- :code "99013"
- :flavor "If a place looks abandoned, there couldn't be anything of value there, right?"
- :illustrator "Atey Ghailan"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/AbandonedMoonWarehouse.jpg"
- :position 13
- :quantity 3
- :set-id "mnemic"}
-{:card-id "ArchitectsDream"
- :code "99014"
- :flavor "This was their first idea to improve their workflow. Of course, there would be more to come."
- :illustrator "Carl Holden"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/ArchitectsDream.jpg"
- :position 14
- :quantity 3
- :set-id "mnemic"}
-{:card-id "DreamProject"
- :code "99015"
- :flavor "Dream big. Dream of upgrades."
- :illustrator "Gino Whitehall"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/DreamProject.jpg"
- :position 15
- :quantity 3
- :set-id "mnemic"}
-{:card-id "EncryptedServers"
- :code "99016"
- :flavor "ufXgX18hdSS7aPyihpf3mASRhvMbn8tp+lHf5gKLqy4="
- :illustrator "Manuel Fuentes"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/EncryptedServers.jpg"
- :position 16
- :quantity 3
- :set-id "mnemic"}
-{:card-id "FutureProofing"
- :code "99017"
- :flavor "Wait... did we just invent a 26th hour?"
- :illustrator "Sylvain Sarrailh"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/FutureProofing.jpg"
- :position 17
- :quantity 3
- :set-id "mnemic"}
-{:card-id "GridControl"
- :code "99018"
- :flavor "Just keep doing what you're doing. You're already doing it great."
- :illustrator "Rico De Zoysa"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/GridControl.jpg"
- :position 18
- :quantity 3
- :set-id "mnemic"}
-{:card-id "HaasBioroidUltimatum"
- :code "99019"
- :flavor "They demanded a 90% majority for the high council seats."
- :illustrator "Hugo Fredoueil"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/HaasBioroidUltimatum.jpg"
- :position 19
- :quantity 3
- :set-id "mnemic"}
-{:card-id "LOBOProcedure"
- :code "99020"
- :flavor "You wake up strapped to a surgical chair. You don't remember how you got here. You leave."
- :illustrator "Bowen Ellames"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/LOBOProcedure.jpg"
- :position 20
- :quantity 3
- :set-id "mnemic"}
-{:card-id "OverwatchSentinel"
- :code "99021"
- :flavor "They see. They find. They hurt."
- :illustrator "Evgenij Kungur"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/OverwatchSentinel.jpg"
- :position 21
- :quantity 3
- :set-id "mnemic"}
-{:card-id "PrizePool"
- :code "99022"
- :flavor "Aaaaaaaaaaaand we're off to the races!"
- :illustrator "Jan Urschel"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/PrizePool.jpg"
- :position 22
- :quantity 3
- :set-id "mnemic"}
-{:card-id "RegistrationAct"
- :code "99023"
- :flavor "Voluntary Registration is available 24/7. Also true for our service compliance scanners. - L.O.B.O. Service Announcement."
- :illustrator "Pawel Nowakowski"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/RegistrationAct.jpg"
- :position 23
- :quantity 3
- :set-id "mnemic"}
-{:card-id "RemoteControllers"
- :code "99024"
- :flavor "Built-in efficiency."
- :illustrator "John Polidora"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/RemoteControllers.jpg"
- :position 24
- :quantity 3
- :set-id "mnemic"}]
+  :code "99001"
+  :flavor "Serve the public, protect the innocent, uphold the law."
+  :illustrator "FredericBennett"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/GuardiansInc.jpg"
+  :position 1
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "HaasBioroidUprezzingYourLife"
+  :code "99002"
+  :flavor "Become the best you can be."
+  :illustrator "Carl Holden"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/HaasBioroidUprezzingYourLife.jpg"
+  :position 2
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "HaasBioroidTheBoard"
+  :code "99003"
+  :flavor "The Board always knows what to do."
+  :illustrator "Leon Tukker"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/HaasBioroidTheBoard.jpg"
+  :position 3
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "Jotunn"
+  :code "99004"
+  :flavor "Sá einn veit er víða ratar ok hefr fjölð um farit hverju geði stýrir gumna hverr sá er vitandi er vits. - Hávamál - Stanza 18"
+  :illustrator "Leon Tukker"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/Jotunn.jpg"
+  :position 4
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "KairosHoppers"
+  :code "99005"
+  :flavor "Hyperclocked? More like quantum-clocked!"
+  :illustrator "Tyler Edlin"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/KairosHoppers.jpg"
+  :position 5
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "LOBOIncorporated"
+  :code "99006"
+  :flavor "Just sit still, it won’t take but a second"
+  :illustrator "J Elias Epp"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/LOBOIncorporated.jpg"
+  :position 6
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "LUX"
+  :code "99007"
+  :flavor "Why settle for less when you can have everything?"
+  :illustrator "Kieran Belkus"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/LUX.jpg"
+  :position 7
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "NewClearEnergies"
+  :code "99008"
+  :flavor "We keep the world turning."
+  :illustrator "Jan Urschel"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/NewClearEnergies.jpg"
+  :position 8
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "OmegAlpha"
+  :code "99009"
+  :flavor "Twice as fun!"
+  :illustrator "Rob Brown"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/OmegAlpha.jpg"
+  :position 9
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "Perpetua"
+  :code "99010"
+  :flavor "An unstoppable force that can keep going forever."
+  :illustrator "Maxim Ostapenko"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/Perpetua.jpg"
+  :position 10
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "SklarIndustries"
+  :code "99011"
+  :flavor "Before taking your first turn, you may search your deck for up to 2 pieces of ice, reveal and install them, paying any install cost."
+  :illustrator "Alex Ichim"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/SklarIndustries.jpg"
+  :position 11
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "SpecializedData"
+  :code "99012"
+  :flavor "That's very interesting! We'll take that."
+  :illustrator "Claudio Pilia"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/SpecializedData.jpg"
+  :position 12
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "AbandonedMoonWarehouse"
+  :code "99013"
+  :flavor "If a place looks abandoned, there couldn't be anything of value there, right?"
+  :illustrator "Atey Ghailan"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/AbandonedMoonWarehouse.jpg"
+  :position 13
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "ArchitectsDream"
+  :code "99014"
+  :flavor "This was their first idea to improve their workflow. Of course, there would be more to come."
+  :illustrator "Carl Holden"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/ArchitectsDream.jpg"
+  :position 14
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "DreamProject"
+  :code "99015"
+  :flavor "Dream big. Dream of upgrades."
+  :illustrator "Gino Whitehall"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/DreamProject.jpg"
+  :position 15
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "EncryptedServers"
+  :code "99016"
+  :flavor "ufXgX18hdSS7aPyihpf3mASRhvMbn8tp+lHf5gKLqy4="
+  :illustrator "Manuel Fuentes"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/EncryptedServers.jpg"
+  :position 16
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "FutureProofing"
+  :code "99017"
+  :flavor "Wait... did we just invent a 26th hour?"
+  :illustrator "Sylvain Sarrailh"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/FutureProofing.jpg"
+  :position 17
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "GridControl"
+  :code "99018"
+  :flavor "Just keep doing what you're doing. You're already doing it great."
+  :illustrator "Rico De Zoysa"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/GridControl.jpg"
+  :position 18
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "HaasBioroidUltimatum"
+  :code "99019"
+  :flavor "They demanded a 90% majority for the high council seats."
+  :illustrator "Hugo Fredoueil"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/HaasBioroidUltimatum.jpg"
+  :position 19
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "LOBOProcedure"
+  :code "99020"
+  :flavor "You wake up strapped to a surgical chair. You don't remember how you got here. You leave."
+  :illustrator "Bowen Ellames"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/LOBOProcedure.jpg"
+  :position 20
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "OverwatchSentinel"
+  :code "99021"
+  :flavor "They see. They find. They hurt."
+  :illustrator "Evgenij Kungur"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/OverwatchSentinel.jpg"
+  :position 21
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "PrizePool"
+  :code "99022"
+  :flavor "Aaaaaaaaaaaand we're off to the races!"
+  :illustrator "Jan Urschel"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/PrizePool.jpg"
+  :position 22
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "RegistrationAct"
+  :code "99023"
+  :flavor "Voluntary Registration is available 24/7. Also true for our service compliance scanners. - L.O.B.O. Service Announcement."
+  :illustrator "Pawel Nowakowski"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/RegistrationAct.jpg"
+  :position 23
+  :quantity 3
+  :set-id "mnemic"}
+ {:card-id "RemoteControllers"
+  :code "99024"
+  :flavor "Built-in efficiency."
+  :illustrator "John Polidora"
+  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/RemoteControllers.jpg"
+  :position 24
+  :quantity 3
+  :set-id "mnemic"}]
