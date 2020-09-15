@@ -1,11 +1,11 @@
 {:deck-limit 1
-  :faction :haas-bioroid
-  :id "KairosHoppers"
-  :influence-limit 15
-  :minimum-deck-size 45
-  :side :corp
-  :subtype [:subsidiary]
-  :text "<strong>Double</strong> and <strong>triple</strong> operations require one fewer [click] to play."
-  :title "Kairos Hoppers : Hyperclocking"
-  :type :identity
-  :uniqueness false}
+ :faction :haas-bioroid
+ :id "KairosHoppers"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:subsidiary]
+ :text "<strong>Double</strong> and <strong>triple</strong> operations require one fewer [click] to play."
+ :title "Kairos Hoppers : Hyperclocking"
+ :type :identity
+ :uniqueness false}

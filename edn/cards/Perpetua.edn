@@ -1,11 +1,11 @@
 {:deck-limit 1
-  :faction :haas-bioroid
-  :id "Perpetua"
-  :influence-limit 15
-  :minimum-deck-size 45
-  :side :corp
-  :subtype [:subsidiary]
-  :text "When your turn ends, gain 1[credit] and draw 1 card.\nEach piece of ice has -1 strength."
-  :title "Perpetua : Maximum Efficiency"
-  :type :identity
-  :uniqueness false}
+ :faction :haas-bioroid
+ :id "Perpetua"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:subsidiary]
+ :text "When your turn ends, gain 1[credit] and draw 1 card.\nEach piece of ice has -1 strength."
+ :title "Perpetua : Maximum Efficiency"
+ :type :identity
+ :uniqueness false}

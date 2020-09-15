@@ -1,11 +1,11 @@
 {:deck-limit 1
-  :faction :haas-bioroid
-  :id "HaasBioroidTheBoard"
-  :influence-limit 17
-  :minimum-deck-size 45
-  :side :corp
-  :subtype [:megacorp]
-  :text "When deck-building, you may have a <strong>side board</strong> of up to 5 non-agenda cards. Before drawing your starting hand, you may swap cards from the <strong>side board</strong> and your deck, costing the same amount of influence."
-  :title "Haas-Bioroid : The Board"
-  :type :identity
-  :uniqueness false}
+ :faction :haas-bioroid
+ :id "HaasBioroidTheBoard"
+ :influence-limit 17
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:megacorp]
+ :text "When deck-building, you may have a <strong>side board</strong> of up to 5 non-agenda cards. Before drawing your starting hand, you may swap cards from the <strong>side board</strong> and your deck, costing the same amount of influence."
+ :title "Haas-Bioroid : The Board"
+ :type :identity
+ :uniqueness false}

@@ -1,11 +1,11 @@
 {:deck-limit 1
-  :faction :haas-bioroid
-  :id "Jotunn"
-  :influence-limit 15
-  :minimum-deck-size 45
-  :side :corp
-  :subtype [:division]
-  :text "When your turn ends, if you advanced a card this turn, <strong>icebreakers</strong> have -1 strength until the start of your next turn."
-  :title "Jotunn : Giants In All Sizes"
-  :type :identity
-  :uniqueness false}
+ :faction :haas-bioroid
+ :id "Jotunn"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "When your turn ends, if you advanced a card this turn, <strong>icebreakers</strong> have -1 strength until the start of your next turn."
+ :title "Jotunn : Giants In All Sizes"
+ :type :identity
+ :uniqueness false}

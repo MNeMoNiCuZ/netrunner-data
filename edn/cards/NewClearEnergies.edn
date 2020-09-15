@@ -1,11 +1,11 @@
 {:deck-limit 1
-  :faction :haas-bioroid
-  :id "NewClearEnergies"
-  :influence-limit 15
-  :minimum-deck-size 45
-  :side :corp
-  :subtype [:division]
-  :text "The first time you install, play or rez a card each turn, you may trash the top card of R&D to lower it's install, play or rez cost by 2[credit]."
-  :title "New Clear Energies : Fuelling the Future"
-  :type :identity
-  :uniqueness false}
+ :faction :haas-bioroid
+ :id "NewClearEnergies"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "The first time you install, play or rez a card each turn, you may trash the top card of R&D to lower it's install, play or rez cost by 2[credit]."
+ :title "New Clear Energies : Fuelling the Future"
+ :type :identity
+ :uniqueness false}

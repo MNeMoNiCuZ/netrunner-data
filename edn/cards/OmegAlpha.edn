@@ -1,11 +1,11 @@
 {:deck-limit 1
-  :faction :haas-bioroid
-  :id "OmegAlpha"
-  :influence-limit 15
-  :minimum-deck-size 45
-  :side :corp
-  :subtype [:division]
-  :text "Your <strong>when your turn begins</strong>, and <strong>when your turn ends</strong> effects fires twice."
-  :title "OmegAlpha : Beginning of the End"
-  :type :identity
-  :uniqueness false}
+ :faction :haas-bioroid
+ :id "OmegAlpha"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "Your <strong>when your turn begins</strong>, and <strong>when your turn ends</strong> effects fires twice."
+ :title "OmegAlpha : Beginning of the End"
+ :type :identity
+ :uniqueness false}

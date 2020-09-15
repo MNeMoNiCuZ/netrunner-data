@@ -1,11 +1,11 @@
 {:deck-limit 1
-  :faction :haas-bioroid
-  :id "SklarIndustries"
-  :influence-limit 15
-  :minimum-deck-size 45
-  :side :corp
-  :subtype [:corporation]
-  :text "Before taking your first turn, you may search your deck for a copy of <strong>Veni</strong>, <strong>Vidi</strong> and <strong>Vici</strong>, and install them, paying all install costs.\nWhen your turn begins, you may swap the position of any rezzed copies of <strong>Veni</strong>, <strong>Vidi</strong>, <strong>Vici</strong>."
-  :title "Sklar Industries : Proprietary Solutions"
-  :type :identity
-  :uniqueness false}
+ :faction :haas-bioroid
+ :id "SklarIndustries"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:corporation]
+ :text "Before taking your first turn, you may search your deck for a copy of <strong>Veni</strong>, <strong>Vidi</strong> and <strong>Vici</strong>, and install them, paying all install costs.\nWhen your turn begins, you may swap the position of any rezzed copies of <strong>Veni</strong>, <strong>Vidi</strong>, <strong>Vici</strong>."
+ :title "Sklar Industries : Proprietary Solutions"
+ :type :identity
+ :uniqueness false}
