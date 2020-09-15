@@ -112,7 +112,7 @@
  :set-id "mnemic"}
 {:card-id "DreamProject"
  :code "99015"
- :flavor ""Dream big. Dream of upgrades.""
+ :flavor "Dream big. Dream of upgrades."
  :illustrator "Gino Whitehall"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/DreamProject.jpg"
  :position 15
@@ -128,7 +128,7 @@
  :set-id "mnemic"}
 {:card-id "FutureProofing"
  :code "99017"
- :flavor ""Wait... did we just invent a 26th hour?""
+ :flavor "Wait... did we just invent a 26th hour?"
  :illustrator "Sylvain Sarrailh"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/FutureProofing.jpg"
  :position 17
@@ -152,7 +152,7 @@
  :set-id "mnemic"}
 {:card-id "LOBOProcedure"
  :code "99020"
- :flavor ""You wake up strapped to a surgical chair. You don't remember how you got here. You leave.""
+ :flavor "You wake up strapped to a surgical chair. You don't remember how you got here. You leave."
  :illustrator "Bowen Ellames"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/LOBOProcedure.jpg"
  :position 20
@@ -176,7 +176,7 @@
  :set-id "mnemic"}
 {:card-id "RegistrationAct"
  :code "99023"
- :flavor "“Voluntary Registration is available 24/7. Also true for our service compliance scanners.” - L.O.B.O. Service Announcement."
+ :flavor "Voluntary Registration is available 24/7. Also true for our service compliance scanners. - L.O.B.O. Service Announcement."
  :illustrator "Pawel Nowakowski"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/RegistrationAct.jpg"
  :position 23
@@ -189,4 +189,5 @@
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/RemoteControllers.jpg"
  :position 24
  :quantity 3
- :set-id "mnemic"}]
+ :set-id "mnemic"}
+]
