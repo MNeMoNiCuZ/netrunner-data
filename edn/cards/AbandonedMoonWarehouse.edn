@@ -1,10 +1,10 @@
 {:advancement-requirement 5
-  :agenda-points 3
-  :deck-limit 3
-  :faction :haas-bioroid
-  :id "AbandonedMoonWarehouse"
-  :side :corp
-  :text "[click][click]: Rez an ice, ignoring all costs."
-  :title "Abandoned Moon Warehouse"
-  :type :agenda
-  :uniqueness false}
+ :agenda-points 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "AbandonedMoonWarehouse"
+ :side :corp
+ :text "[click][click]: Rez an ice, ignoring all costs."
+ :title "Abandoned Moon Warehouse"
+ :type :agenda
+ :uniqueness false}

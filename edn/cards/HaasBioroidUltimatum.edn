@@ -1,10 +1,10 @@
 {:advancement-requirement 5
-  :agenda-points 3
-  :deck-limit 3
-  :faction :haas-bioroid
-  :id "HaasBioroidUltimatum"
-  :side :corp
-  :text "<strong>[click][click][click][click]:</strong> Place 1 agenda counter on this card.\nThis agenda is worth 1 additional agenda point while it has at least 1 agenda counter on it."
-  :title "Haas-Bioroid Ultimatum"
-  :type :agenda
-  :uniqueness false}
+ :agenda-points 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "HaasBioroidUltimatum"
+ :side :corp
+ :text "<strong>[click][click][click][click]:</strong> Place 1 agenda counter on this card.\nThis agenda is worth 1 additional agenda point while it has at least 1 agenda counter on it."
+ :title "Haas-Bioroid Ultimatum"
+ :type :agenda
+ :uniqueness false}

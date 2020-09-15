@@ -1,10 +1,10 @@
 {:advancement-requirement 3
-  :agenda-points 1
-  :deck-limit 3
-  :faction :haas-bioroid
-  :id "OverwatchSentinel"
-  :side :corp
-  :text "The first time the Runner installs a card each turn, <strong>trace<sup><strong>¹</strong></sup></strong> – If successful, do 1 brain damage."
-  :title "Overwatch Sentinel"
-  :type :agenda
-  :uniqueness false}
+ :agenda-points 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "OverwatchSentinel"
+ :side :corp
+ :text "The first time the Runner installs a card each turn, <strong>trace<sup><strong>¹</strong></sup></strong> – If successful, do 1 brain damage."
+ :title "Overwatch Sentinel"
+ :type :agenda
+ :uniqueness false}
