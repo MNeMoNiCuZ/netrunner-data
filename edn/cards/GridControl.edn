@@ -1,11 +1,11 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "GridControl"
- :side :corp
- :subtype [:expansion]
- :text "The first time each turn a card is rezzed, gain 1 credit."
- :title "Grid Control"
- :type :agenda
- :uniqueness false}
+{:advancement-requirement: 4
+  :agenda-points 2
+  :deck-limit 3
+  :faction :haas-bioroid
+  :id "GridControl
+  :side :corp
+  :subtype [:expansion]
+  :text "The first time each turn a card is rezzed, gain 1 credit."
+  :title "Grid Control"
+  :type :agenda
+  :uniqueness true}

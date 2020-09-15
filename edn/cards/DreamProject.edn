@@ -1,11 +1,11 @@
-{:advancement-requirement 5
- :agenda-points 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "DreamProject"
- :side :corp
- :subtype [:research]
- :text "Agendas require 1 fewer advancement tokens to be scored.\nThe cost of the basic action to place 1 advancement token on a card is increased by 1[credit]."
- :title "Dream Project"
- :type :agenda
- :uniqueness false}
+{:advancement-requirement: 5
+  :agenda-points 2
+  :deck-limit 3
+  :faction :haas-bioroid
+  :id "DreamProject
+  :side :corp
+  :subtype [:research]
+  :text "Agendas require 1 fewer advancement tokens to be scored.\nThe cost of the basic action to place 1 advancement token on a card is increased by 1[credit]."
+  :title "Dream Project"
+  :type :agenda
+  :uniqueness false}
