@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :ai] 
  :text "<strong>Trash an installed connection resource</strong>:\n+4 strength. Break up to 4 subroutines, if able."
- :title "BRG.BRN
+ :title "BRG.BRN"
  :type :program
  :uniqueness false}

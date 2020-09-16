@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :decoder] 
  :text "1[credit]: Break <strong>code gate</strong> subroutine.\nX is twice the number <strong>decoders</strong> in the heap."
- :title "Wolf.bin
+ :title "Wolf.bin"
  :type :program
  :uniqueness false}

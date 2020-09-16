@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :killer :duality] 
  :text "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +1 strength.\nKrays has +3 strength if the other copy of Krays is installed.\nYour deck must contain 2 copies of this card."
- :title "Krays
+ :title "Krays"
  :type :program
  :uniqueness false}

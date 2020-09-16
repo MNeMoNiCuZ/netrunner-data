@@ -8,6 +8,6 @@
  :strength 2
  :subtype [:icebreaker :ai] 
  :text "[click], X[credit]: Add or remove X power counters from this program. This program has +1 strength for each power counter on it.\nWhenever an encounter ends where you used this program, remove 1 power counter from it.\n1[credit]: Break ice subroutine on a piece of ice that has strength equal to this program's strength."
- :title "Inner Self
+ :title "Inner Self"
  :type :program
  :uniqueness false}

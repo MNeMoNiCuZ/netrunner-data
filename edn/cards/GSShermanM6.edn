@@ -8,6 +8,6 @@
  :strength 2
  :subtype [:icebreaker :fracter :cloud] 
  :text "If you have at least 4[link], the memory cost of GS Sherman M6 is 0, even if it is not installed.\n1[credit]: Break any number of <strong>barrier</strong> subroutines.\n2[credit]: +3 strength."
- :title "GS Sherman M6
+ :title "GS Sherman M6"
  :type :program
  :uniqueness false}

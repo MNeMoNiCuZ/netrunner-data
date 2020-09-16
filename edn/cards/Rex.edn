@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :fracter :virus] 
  :text "Whenever you use Rex to break all subroutines on an encountered ice, place 1 virus counter on that ice.\n<strong>Virus counter from any installed card</strong>:<br/>Break <strong>barrier</strong> subroutine.\n<strong>2 virus counters from the ice currently being encountered</strong>:<br/>Break any number of <strong>barrier</strong> subroutines.\n<strong>1[credit], 1 virus counter from any installed card</strong>: +1 strength."
- :title "Rex
+ :title "Rex"
  :type :program
  :uniqueness false}

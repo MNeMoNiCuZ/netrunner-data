@@ -8,6 +8,6 @@
  :strength 2
  :subtype [:icebreaker :ai] 
  :text "[interrupt] X[credit]: Bypass the outermost ice protecting a server if it is rezzed and this program matches it's strength.\nX is the difference in Strength of this program and an ice being approached."
- :title "Horizon Effect
+ :title "Horizon Effect"
  :type :program
  :uniqueness false}

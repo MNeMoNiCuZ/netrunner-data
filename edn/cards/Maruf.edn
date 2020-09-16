@@ -7,6 +7,6 @@
  :side :runner
  :subtype [:daemon] 
  :text "Maruf can host up to 3 programs with printed install costs of 0 or 1.\nThe memory costs of hosted programs do not count against your memory limit."
- :title "Maruf
+ :title "Maruf"
  :type :program
  :uniqueness false}

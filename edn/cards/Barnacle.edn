@@ -7,6 +7,6 @@
  :side :runner
  :subtype [:virus] 
  :text "Install this program only on a piece of ice.\nThe first time each turn all subroutines of host ice are broken during the same encounter, add two virus counter to this program.\nHost ice has -1 strength for every 2 virus counter on this program.."
- :title "Barnacle
+ :title "Barnacle"
  :type :program
  :uniqueness false}

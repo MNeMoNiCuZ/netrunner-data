@@ -7,6 +7,6 @@
  :side :runner
  :subtype [:virus] 
  :text "The first time each turn a virus counter is placed on another card, place 1 virus counter to Virus Counter.\n[trash]: Gain 1[credit] per virus counter on Virus Counter."
- :title "Virus Counter
+ :title "Virus Counter"
  :type :program
  :uniqueness false}

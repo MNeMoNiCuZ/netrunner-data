@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:fracter :seedy] 
  :text "This program has + strength equal to your maximum hand size.\n1[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +1 strength."
- :title "H(y)5
+ :title "H(y)5"
  :type :program
  :uniqueness false}

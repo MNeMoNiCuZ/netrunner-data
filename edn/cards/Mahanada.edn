@@ -6,6 +6,6 @@
  :memory-cost 1
  :side :runner 
  :text "2[recurring-credit]\nUse these credits to install programs or hardware. You cannot use this effect to install a program that trashes this one."
- :title "Mahanada
+ :title "Mahanada"
  :type :program
  :uniqueness false}

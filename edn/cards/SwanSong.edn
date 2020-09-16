@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :ai] 
  :text "<strong>Suffer 1 brain damage</strong>: Break up to 2 ice subroutines.\n<strong>Suffer 1 brain damage</strong>: +3 strength."
- :title "Swan Song
+ :title "Swan Song"
  :type :program
  :uniqueness false}

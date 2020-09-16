@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :decoder] 
  :text "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +1 strength.\nFive Eyes has +3 strength if the Corp has more scored agenda points than you."
- :title "Five Eyes
+ :title "Five Eyes"
  :type :program
  :uniqueness false}

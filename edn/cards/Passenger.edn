@@ -8,6 +8,6 @@
  :strength 2
  :subtype [:icebreaker :ai] 
  :text "1[credit]: Break up to 2 ice subroutines.\n1[credit]: +2 strength.\nUse this program only by spending [recurring-credit] credits."
- :title "Passenger
+ :title "Passenger"
  :type :program
  :uniqueness false}

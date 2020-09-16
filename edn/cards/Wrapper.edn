@@ -6,6 +6,6 @@
  :memory-cost 1
  :side :runner 
  :text ":1mu:\n+1[link]\n+1 maximum hand size."
- :title "Wrapper
+ :title "Wrapper"
  :type :program
  :uniqueness false}

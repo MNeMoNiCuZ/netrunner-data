@@ -7,6 +7,6 @@
  :side :runner
  :subtype [:virus] 
  :text "The first time each turn you install a <strong>virus</strong> card, place 1 virus counter on this program.\n[trash]: Reveal the top X cards of R&D. X is the number of <strong>virus</strong> counters on this program. Place one of the revealed cards at the top of R&D."
- :title "Research Backdoor
+ :title "Research Backdoor"
  :type :program
  :uniqueness false}

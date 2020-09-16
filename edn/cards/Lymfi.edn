@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :killer :virus] 
  :text "When a <strong>virus</strong> card is played or trashed, place 3 virus counters on this program.\n<strong>Hosted virus counter:</strong> Break <strong>sentry</strong> subroutine.\n<strong>Hosted virus counter:</strong> +1 strength.\nWhen your turn ends, if there are 5 or more hosted virus counters on this card, trash an installed virus card."
- :title "Lymfi
+ :title "Lymfi"
  :type :program
  :uniqueness false}

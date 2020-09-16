@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :fracter] 
  :text "1[credit]: Break up to 2 <strong>barrier</strong> subroutines.  Use this ability only by spending a credit from a <strong>stealth</strong> card.\n1[credit]: +2 strength. Use this ability only if you have no installed <strong>virtual</strong> resources.\n1[credit]: +1 strength."
- :title "Heron
+ :title "Heron"
  :type :program
  :uniqueness false}

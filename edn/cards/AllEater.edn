@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :fracter] 
  :text "<strong>Remove 1 card in your heap from the game:</strong>\nBreak 1 <strong>barrier</strong> subroutine.\n<strong>Remove 2 cards in your heap from the game</strong>:\n+1 strength."
- :title "All-eater
+ :title "All-eater"
  :type :program
  :uniqueness false}

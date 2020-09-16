@@ -8,6 +8,6 @@
  :strength 2
  :subtype [:icebreaker :fracter] 
  :text "Whenever a card is put into Archives, you must pay 2[credit] or trash this program.\nThis program has +1 strength for each card in Archives.\n1[credit]: Break <strong>barrier</strong> subroutine."
- :title "Gorger
+ :title "Gorger"
  :type :program
  :uniqueness false}

@@ -8,6 +8,6 @@
  :strength 2
  :subtype [:fracter] 
  :text "0[credit]:  Break <strong>barrier</strong> subroutine.\n1[credit]: +1 strength.\nWhen you break a <strong>barrier</strong> subroutine with this program, lose 1[credit]. The first time each turn you lose 5[credit] or more in a single run this way, the Corp must trash 3 cards from HQ or the top of R&D."
- :title "Wrecking Ball
+ :title "Wrecking Ball"
  :type :program
  :uniqueness false}

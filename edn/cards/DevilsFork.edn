@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :killer] 
  :text "As an additional cost to install this program, trash an installed <strong>fracter</strong> or <strong>decoder</strong>.\nThis program has +1 strength for each <strong>icebreaker</strong> in your heap.\n2[credit]: Break up to 2 <strong>sentry</strong> subroutines."
- :title "Devil's Fork
+ :title "Devil's Fork"
  :type :program
  :uniqueness false}

@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :killer] 
  :text "<strong>Lose 1[credit]</strong>: Break <strong>sentry</strong> subroutine.\n<strong>Lose [click]</strong>: +3 strength for the remainder of this run."
- :title "Urashima
+ :title "Urashima"
  :type :program
  :uniqueness false}

@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :decoder :virus] 
  :text "Whenever you use Raptor to break all subroutines on an encountered ice, place 1 virus counter on that ice.\n<strong>Virus counter from any installed card</strong>:<br/>Break <strong>code gate</strong> subroutine.\n<strong>2 virus counters from the ice currently being encountered</strong>:<br/>Break any number of <strong>code gate</strong> subroutines.\n1[credit]: +1 strength."
- :title "Raptor
+ :title "Raptor"
  :type :program
  :uniqueness false}

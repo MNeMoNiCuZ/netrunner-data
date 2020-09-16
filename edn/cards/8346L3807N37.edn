@@ -1,6 +1,6 @@
 {:cost 4
  :deck-limit 3
- :faction :sunny
+ :faction :sunny-lebeau
  :id "8346L3807N37"
  :influence-cost 5
  :memory-cost 2
@@ -8,6 +8,6 @@
  :strength 2
  :subtype [:icebreaker :ai :link] 
  :text "+1[link]\n1[credit]: Break ice subroutine.\n3[credit]: +1 strength.\n2[credit]: +1 strength for each [link] you have. Use this ability only once per encounter."
- :title "8346L3 807N37
+ :title "8346L3 807N37"
  :type :program
  :uniqueness false}

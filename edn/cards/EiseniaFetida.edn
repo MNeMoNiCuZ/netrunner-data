@@ -7,6 +7,6 @@
  :side :runner
  :subtype [:virus] 
  :text "[click][click]: Remove from the game a card from your grip. Install a card of the same type from the heap, ignoring the install cost.\nTrash this program if the Corp purges virus counters."
- :title "Eisenia Fetida
+ :title "Eisenia Fetida"
  :type :program
  :uniqueness false}

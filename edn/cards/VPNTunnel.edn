@@ -7,6 +7,6 @@
  :side :runner
  :subtype [:link :virtual] 
  :text "+2[link]"
- :title "VPN Tunnel
+ :title "VPN Tunnel"
  :type :program
  :uniqueness false}

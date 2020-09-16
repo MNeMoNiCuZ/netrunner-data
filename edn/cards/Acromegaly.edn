@@ -7,6 +7,6 @@
  :side :runner
  :subtype [:chip] 
  :text "Your maximum hand size is increased by 2."
- :title "Acromegaly
+ :title "Acromegaly"
  :type :program
  :uniqueness false}

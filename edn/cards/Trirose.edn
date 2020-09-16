@@ -8,6 +8,6 @@
  :strength 1
  :subtype [:icebreaker :decoder] 
  :text "When this program is installed, you may install another <strong>icebreaker</strong> from your grip and make a run. When that run ends, end your turn.\n1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +2 strength for the remainder of this run."
- :title "Trirose
+ :title "Trirose"
  :type :program
  :uniqueness false}

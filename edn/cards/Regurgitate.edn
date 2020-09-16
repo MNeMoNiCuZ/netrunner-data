@@ -6,6 +6,6 @@
  :memory-cost 2
  :side :runner 
  :text "When Regurgitate is installed, shuffle 3 non-event cards from your heap into your stack. Remove the rest of the cards in your heap from the game.\n[trash]: Remove Regurgitate from game and install 3 cards from your heap facedown."
- :title "Regurgitate
+ :title "Regurgitate"
  :type :program
  :uniqueness false}

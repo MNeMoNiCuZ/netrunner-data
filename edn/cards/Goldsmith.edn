@@ -7,6 +7,6 @@
  :side :runner
  :subtype [:virus] 
  :text "Install this program in the root of HQ or R&D.\nWhenever an upgrade is installed in this server, trash this program.\nWhenever you access cards from this server, access one additional card."
- :title "Goldsmith
+ :title "Goldsmith"
  :type :program
  :uniqueness true}

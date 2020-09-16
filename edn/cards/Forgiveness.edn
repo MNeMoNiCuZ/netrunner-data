@@ -6,6 +6,6 @@
  :memory-cost 1
  :side :runner 
  :text "[click], <strong>remove 1 bad publicity:</strong> Gain 10[credit]."
- :title "Forgiveness
+ :title "Forgiveness"
  :type :program
  :uniqueness false}

@@ -6,6 +6,6 @@
  :memory-cost 1
  :side :runner 
  :text "When your turn begins, you may trash a card from your grip to install a card of the same type from your grip."
- :title "SPD.RUN
+ :title "SPD.RUN"
  :type :program
  :uniqueness false}
