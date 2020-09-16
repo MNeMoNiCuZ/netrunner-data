@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "Whenever an installed Runner card is trashed: Place 1 Power Counter on Garbage Collector.\n:1mu: for every 4 power counters on Garbage Collector.\n<strong>2 hosted power counters:</strong> Draw 1 card or gain 1[credit]."
- :title "Garbage Collector
+ :title "Garbage Collector"
  :type :hardware
  :uniqueness true}

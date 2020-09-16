@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:ambush] 
  :text "If Brain Parlor is accessed from R&D, the Runner must reveal it.\nThis card can be advanced.\nIf you pay 3[credit] When the Runner accesses Brain Parlor, do 1 brain damage. Ignore this ability if this card is accessed from Archives."
- :title "Brain Parlor
+ :title "Brain Parlor"
  :trash-cost 1
  :type :asset
  :uniqueness false}

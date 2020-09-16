@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual :directive] 
  :text "You can't have more than 12[credit].\nWhen your turn begins, gain 1[credit] if you have fewer than 6[credit]."
- :title "At Any Cost
+ :title "At Any Cost"
  :type :resource
  :uniqueness true}

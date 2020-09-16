@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:gray-ops] 
  :text "Play only if the Runner made a successful run during their last turn.\n<strong>Trace<sup><strong>³</strong></sup></strong> – If successful, host up to 3 <strong>connection</strong> and / or <strong>location</strong> resources on Warrant.\nThe text box of hosted cards are blank.\nAt the end of the Runner's turn, the Corp returns one of the hosted resources to play.\nThis card is not trashed until it has no hosted resources on it."
- :title "Warrant
+ :title "Warrant"
  :trash-cost 3
  :type :operation
  :uniqueness false}

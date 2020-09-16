@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual :companion] 
  :text "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nYou have +:1mu: for each credit on this resource.\nYou may spend hosted credits to install programs.\nWhen your turn ends, if there are 3 or more hosted credits, you must lose 1[credit] per hosted credit, or trash this card."
- :title "Digital Assistant
+ :title "Digital Assistant"
  :type :resource
  :uniqueness false}

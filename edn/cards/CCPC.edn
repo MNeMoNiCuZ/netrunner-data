@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:console] 
  :text "+:1mu:\nYour icebreakers has +1 strength if the Corp has more scored agenda points than you.\nLimit 1 <strong>console</strong> per player."
- :title "CCPC
+ :title "CCPC"
  :type :hardware
  :uniqueness true}

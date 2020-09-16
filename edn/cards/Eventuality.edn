@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "Play an event from your grip, lowering the play cost by 3."
- :title "Eventuality
+ :title "Eventuality"
  :type :event
  :uniqueness false}

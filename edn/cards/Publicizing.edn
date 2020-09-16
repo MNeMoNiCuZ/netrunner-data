@@ -5,6 +5,6 @@
  :influence-cost 4
  :side :runner 
  :text "Play only if the you stole an agenda this turn, or if the Corp scored an agenda during their last turn.\nForce the Corp to “<strong>Trace<sup><strong>⁴</strong></sup></strong> – If unsuccessful, the Corp takes 1 bad publicity. Remove Publicizing from the game instead of trashing it.“"
- :title "Publicizing
+ :title "Publicizing"
  :type :event
  :uniqueness false}

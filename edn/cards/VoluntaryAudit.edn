@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp 
  :text "Install only in the root of HQ or R&D\nWhenever there is a successful run this server, gain 3[credit].\nWhenever the Runner accesses cards from HQ or R&D, they access one additional card."
- :title "Voluntary Audit
+ :title "Voluntary Audit"
  :trash-cost 4
  :type :upgrade
  :uniqueness false}

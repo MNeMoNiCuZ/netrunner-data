@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:connection :seedy] 
  :text "When your turn begins, if there are fewer than 4 power counters on this resource, gain 3[credit] and place 1 power counter on this resource. Otherwise, suffer 2 meat damage, or lose 9:credits: and remove this resource from the game.\nWhen this resource is trashed, suffer 4 meat damage."
- :title "Loanshark
+ :title "Loanshark"
  :type :resource
  :uniqueness true}

@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:triple :illicit] 
  :text "As an additional cost to play this operation, spend [click][click] and trash a rezzed piece of ice.\nGain 5[credit].\nPlace 5 advancement tokens on an installed card. You cannot score that card until your next turn begins."
- :title "Pain and Glory
+ :title "Pain and Glory"
  :type :operation
  :uniqueness false}

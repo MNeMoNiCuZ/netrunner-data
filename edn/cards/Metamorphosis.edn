@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virus :virtual] 
  :text "Whenever the corp rezzes a piece of ice, place 2 virus counters on this resource.\n[trash]: Shuffle an ice with strength equal to or less than the number of virus counters into R&D. Use this ability only during the next paid ability window after breaking all subroutines that ice."
- :title "Metamorphosis
+ :title "Metamorphosis"
  :type :resource
  :uniqueness true}

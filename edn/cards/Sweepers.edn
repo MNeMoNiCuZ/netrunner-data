@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:political] 
  :text "Increase the base trace strength of this asset by 2[credit] if the Runner has suffered any brain damage.\nWhen your turn begins, <strong>trace<sup><strong>¹</strong></sup></strong> – If successful, do 1 brain damage if there is no ice protecting this server.\nWhen the Runner trashes this asset, <strong>trace<sup><strong>¹</strong></sup></strong> – If successful, do 1 brain damage."
- :title "Sweepers
+ :title "Sweepers"
  :trash-cost 2
  :type :asset
  :uniqueness false}

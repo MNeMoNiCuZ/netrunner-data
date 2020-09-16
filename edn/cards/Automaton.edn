@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:console] 
  :text "+:2mu:\nWhen your turn begins, you may install 1 card from your grip facedown.\nThe first time you install a card facedown during your turn, you may play a <strong>run</strong> event (without spending a click).\nLimit 1 <strong>console</strong> per player."
- :title "Automaton
+ :title "Automaton"
  :type :hardware
  :uniqueness true}

@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:illicit] 
  :text "When you rez this asset, take 1 bad publicity.\nWhen your turn begins gain 2[credit]."
- :title "Illegal Drug Factory
+ :title "Illegal Drug Factory"
  :trash-cost 6
  :type :asset
  :uniqueness false}

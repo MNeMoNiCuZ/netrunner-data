@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:illicit] 
  :text "When you rez this asset, take 1 bad publicity.\nThe first time each turn the Runner takes one or more tags, gain 4[credit]."
- :title "Bounty Sleeper
+ :title "Bounty Sleeper"
  :trash-cost 5
  :type :asset
  :uniqueness false}

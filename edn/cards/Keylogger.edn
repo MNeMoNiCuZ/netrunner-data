@@ -5,6 +5,6 @@
  :influence-cost 4
  :side :runner 
  :text "At the end of a turn where the Corp drew multiple cards, the Corp must trash one card from HQ if able."
- :title "Keylogger
+ :title "Keylogger"
  :type :hardware
  :uniqueness true}

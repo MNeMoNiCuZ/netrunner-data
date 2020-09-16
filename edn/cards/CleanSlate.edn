@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:double :black-ops] 
  :text "As an additional cost to play this operation, spend [click].\nTurn all cards in Archives faceup. Deal 1 meat damage per agenda point on agendas turned this way. The Runner may suffer 2 brain damage to prevent this. Remove this operation from the game instead of trashing it."
- :title "“Clean Slate“
+ :title "“Clean Slate“"
  :type :operation
  :uniqueness false}

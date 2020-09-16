@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:executive] 
  :text "If this asset is trashed while being accessed, the Runner may place 6 advancement tokens on unrezzed pieces of ice to add this card to their score area as an agenda worth 1 agenda point.\n<strong>Public</strong> agendas are considered having 2 more advancement tokens on them for purposes other than scoring."
- :title "Krishnan Sareen
+ :title "Krishnan Sareen"
  :trash-cost 5
  :type :asset
  :uniqueness true}

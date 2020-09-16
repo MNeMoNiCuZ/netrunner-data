@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:sysop] 
  :text "When your turn begins you may rez a <strong>bioroid</strong> or <strong>NEXT</strong> ice protecting this server, lowering it's rez cost by 3[credit].\n[click]: Move this upgrade to another server."
- :title "Architect's Vision
+ :title "Architect's Vision"
  :trash-cost 3
  :type :upgrade
  :uniqueness false}

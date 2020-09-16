@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:triple :ritzy :condition] 
  :text "As an additional cost to play this operation, spend [click],[click].\nRez an ice and install Eliza's DIY Kit on that ice as a hosted condition counter with the text “Host ice gains <strong>ritzy</strong>.“"
- :title "Eliza's DIY Kit
+ :title "Eliza's DIY Kit"
  :type :operation
  :uniqueness false}

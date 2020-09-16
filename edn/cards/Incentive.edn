@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "The Corp may install any number of cards from HQ, paying install costs.\nGain 4[credit] for each card in HQ."
- :title "Incentive
+ :title "Incentive"
  :type :event
  :uniqueness false}

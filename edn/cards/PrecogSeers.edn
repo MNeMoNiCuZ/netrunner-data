@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:sysop :clone] 
  :text "1[credit]: All ice protecting this server has +1 strength until the start of your next turn. Use this ability once per turn.\n2[credit]: Move this upgrade to, or to the root of another server."
- :title "Precog Seers
+ :title "Precog Seers"
  :trash-cost 2
  :type :upgrade
  :uniqueness false}

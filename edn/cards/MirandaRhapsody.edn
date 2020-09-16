@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:character :advertisement] 
  :text "All <strong>advertisement</strong> ice gains: “[subroutine]End the run.“, after their printed subroutines.\n[trash]: Gain 3[credit]."
- :title "Miranda Rhapsody
+ :title "Miranda Rhapsody"
  :trash-cost 3
  :type :asset
  :uniqueness true}

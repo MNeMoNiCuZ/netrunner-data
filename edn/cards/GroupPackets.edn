@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp 
  :text "The trash cost of cards in this server is increased by the number of cards installed in this server. This applies even during the run on which the Runner trashes Group Packets."
- :title "Group Packets
+ :title "Group Packets"
  :trash-cost 3
  :type :upgrade
  :uniqueness false}

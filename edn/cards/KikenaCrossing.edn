@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:region] 
  :text "Whenever an agenda is scored or stolen from this server, the Runner takes 1 net damage. This applies even during the run on which the Runner trashes Kikena Crossing.\nLimit 1 <strong>region</strong> per server."
- :title "Kikena Crossing
+ :title "Kikena Crossing"
  :trash-cost 3
  :type :upgrade
  :uniqueness false}

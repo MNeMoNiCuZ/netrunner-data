@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:connection] 
  :text "The first time each turn you lose 1[credit] or more, gain 1[credit]."
- :title "Insurance Contact
+ :title "Insurance Contact"
  :type :resource
  :uniqueness true}

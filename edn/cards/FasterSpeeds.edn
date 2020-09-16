@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "When your turn begins, gain 1[credit] and draw 1 card.\nWhen your turn begins the Corp may gain 1[credit] and draw 1 card."
- :title "Faster Speeds
+ :title "Faster Speeds"
  :type :resource
  :uniqueness true}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:connection] 
  :text "The first time each turn you access a card with at least one advancement token on it, gain 3[credit]."
- :title "Information Trader
+ :title "Information Trader"
  :type :resource
  :uniqueness true}

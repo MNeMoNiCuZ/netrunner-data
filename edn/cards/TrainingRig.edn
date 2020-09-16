@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:console] 
  :text ":1mu:\n[click]: Make a run at a server with at least 1 unrezzed ice. During this run, the rez cost of each ice is lowered to half, rounded down. When the run ends, derez any ice rezzed during this run. Use this ability only once per turn.\nLimit 1 <strong>console</strong> per player."
- :title "Training Rig
+ :title "Training Rig"
  :type :hardware
  :uniqueness true}

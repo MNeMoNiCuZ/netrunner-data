@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:daily :announcement] 
  :text "Rez only during your action phase.\nWhenever the Runner makes a successful run on this server, they may install a card from their grip without spending a [click], reducing it's install cost by 2[credit].\nWhen your turn begins you may install a non-agenda card from your hand reducing the install cost by 3, if the Runner did not make any successful runs on this server during their last turn."
- :title "Automated Service Drones
+ :title "Automated Service Drones"
  :trash-cost 3
  :type :asset
  :uniqueness false}

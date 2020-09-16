@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:double :reprisal :gray-ops] 
  :text "Play only if the Runner stole an agenda during their last turn.\nAs an additional cost to play this operation, spend [click].\nThe Runner chooses any number of modes.\n• The Runner loses 4[credit].\n• The Runner trashes 2 installed Runner cards.\n• Remove from the game the top 3 cards of the stack.\nFor each mode not chosen, do 2 net damage."
- :title "Rhetorical Query
+ :title "Rhetorical Query"
  :type :operation
  :uniqueness false}

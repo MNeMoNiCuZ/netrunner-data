@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:console :duality] 
  :text "Your deck must contain 2 copies of this card.\n[click][click]: Host a copy of this card from your grip on this <strong>console</strong>\nWhile this card has a hosted copy, the parenthetical text is active instead.\n+:1mu: (+:2mu:)\n1[recurring-credit] (2[recurring-credit])\nUse these credits to pay for installing programs and hardware.\nLimit 1 <strong>console</strong> per player."
- :title "Yin-Yang Socket
+ :title "Yin-Yang Socket"
  :type :hardware
  :uniqueness true}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:seedy] 
  :text "Play only if you made a successful run on HQ this turn.\nSelect a remote server. The Corp installs this card in that server as an upgrade with the text:\n“Agendas in this server cannot be scored.\nThis card cannot be trashed.\n[click][click]: Remove this card from the game.“"
- :title "Server Lockdown
+ :title "Server Lockdown"
  :type :event
  :uniqueness true}

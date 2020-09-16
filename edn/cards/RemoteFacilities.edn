@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:facility] 
  :text "The trash cost of all <strong>facility</strong> cards are increased by 2.\nThis applies even during the run on which the Runner trashes this asset."
- :title "Remote Facilities
+ :title "Remote Facilities"
  :trash-cost 2
  :type :asset
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:priority] 
  :text "Make a run on a server.\nWhen the run ends, you may suffer 1 brain damage to make another run on the same server. Repeat this effect."
- :title "Bullheaded
+ :title "Bullheaded"
  :type :event
  :uniqueness false}

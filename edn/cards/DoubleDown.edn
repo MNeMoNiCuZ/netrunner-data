@@ -5,7 +5,7 @@
  :influence-cost 4
  :side :corp 
  :text "When an agenda is scored you may forfeit it to double the agenda counters on an agenda in a score area."
- :title "Double Down
+ :title "Double Down"
  :trash-cost 3
  :type :asset
  :uniqueness false}

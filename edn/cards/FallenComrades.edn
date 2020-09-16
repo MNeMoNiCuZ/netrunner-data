@@ -5,6 +5,6 @@
  :influence-cost 0
  :side :runner 
  :text "Gain 3[credit] for each different <strong>connection</strong> resource in the heap."
- :title "Fallen Comrades
+ :title "Fallen Comrades"
  :type :event
  :uniqueness false}

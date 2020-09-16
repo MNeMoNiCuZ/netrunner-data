@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:government] 
  :text "Whenever a faceup card is advanced, gain 1[credit]."
- :title "Public Stock
+ :title "Public Stock"
  :trash-cost 3
  :type :asset
  :uniqueness false}

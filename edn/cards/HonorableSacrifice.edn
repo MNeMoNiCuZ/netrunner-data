@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:terminal] 
  :text "After you resolve this operation, your action phase ends.\nTrash any number of cards from HQ. Install up to the same number of cards from HQ and place 2 advancement counters on each card installed this way."
- :title "Honorable Sacrifice
+ :title "Honorable Sacrifice"
  :type :operation
  :uniqueness false}

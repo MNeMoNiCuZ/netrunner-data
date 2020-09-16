@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:terminal] 
  :text "After you resolve this operation, your action phase ends.\nGain 8[credit].\n<strong>Archived [click], 5[credit]:</strong> Gain 8[credit].\n<i>(Use this ability only from the archives, then remove it from the game. If the Runner accesses this card in the archives, remove it from the game.</i>)"
- :title "Rainy-Day Funds
+ :title "Rainy-Day Funds"
  :type :operation
  :uniqueness false}

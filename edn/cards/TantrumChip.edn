@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:chip] 
  :text "Gain 1[credit] the first time each turn a non-<strong>tracer</strong> subroutine fires."
- :title "Tant[R]um Chip
+ :title "Tant[R]um Chip"
  :type :hardware
  :uniqueness false}

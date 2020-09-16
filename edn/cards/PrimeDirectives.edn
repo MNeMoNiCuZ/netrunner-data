@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:trending] 
  :text "When your turn starts, add 1 power counter to this card. Instead of gaining your allotted clicks, gain 1[click] per installed <strong>directive</strong> resource and trash 1 installed <strong>directive</strong> resource.\nRemove Prime Directives from the game if it has 3 or more power counters on it."
- :title "Prime Directives
+ :title "Prime Directives"
  :type :resource
  :uniqueness true}

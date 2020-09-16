@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:transaction] 
  :text "Gain 1[credit] for each card in HQ."
- :title "Think Tank
+ :title "Think Tank"
  :type :operation
  :uniqueness false}

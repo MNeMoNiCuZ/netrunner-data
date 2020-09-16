@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:priority :terminal :sabotage] 
  :text "After you resolve this event, your action phase ends.\nPlay only as your first [click].\nRemove all but 1 tag."
- :title "Evidence Destruction
+ :title "Evidence Destruction"
  :type :event
  :uniqueness false}

@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:sysop] 
  :text "As an additional cost to make a successful run on this server, the Runner must take 1 tag or pay 4[credit]."
- :title "Minerva Wethern
+ :title "Minerva Wethern"
  :trash-cost 2
  :type :upgrade
  :uniqueness true}

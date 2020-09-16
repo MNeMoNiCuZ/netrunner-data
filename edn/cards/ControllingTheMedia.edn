@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp 
  :text "[trash]: Remove all active <strong>currents</strong> and all <strong>currents</strong> in the heap from the game.\nIf any <strong>currents</strong> were removed from the game, add this asset to your score area as an agenda worth 0 agenda points.\n"
- :title "Controlling The Media
+ :title "Controlling The Media"
  :trash-cost 1
  :type :asset
  :uniqueness false}

@@ -5,6 +5,6 @@
  :influence-cost 3
  :side :runner 
  :text "The first time each turn you would take damage from a Corp card, force the Corp to “<strong>Trace<sup><strong>⁴</strong></sup></strong> – If unsuccessful, halve the amount of damage taken, rounded in the favor of the Runner, then trash this resource.“"
- :title "Intern Assistant
+ :title "Intern Assistant"
  :type :resource
  :uniqueness false}

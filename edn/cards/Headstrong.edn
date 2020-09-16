@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:run] 
  :text "Make a run on HQ or R&D. If successful, access 1 additional card for each point of brain damage suffered (max 4). When the run ends, suffer 1 brain damage (cannot be prevented)."
- :title "Headstrong
+ :title "Headstrong"
  :type :event
  :uniqueness false}

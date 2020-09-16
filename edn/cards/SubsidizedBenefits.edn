@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:government] 
  :text "You may draw 2 cards the first time each turn an advancement token is placed on a piece of ice.\nDraw 1 card the first time each turn an advancement token is placed on a card in a server."
- :title "Subsidized Benefits
+ :title "Subsidized Benefits"
  :trash-cost 4
  :type :asset
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "+1[link]\n<strong>[click],[click]:</strong> Reveal the top 5 cards of your stack. You may install any number of the revealed cards facedown, and add any number of them to your grip. Remove this resource from the game.\nYou may only use this ability if you have 3 or more <strong>virtual</strong> resources installed.\n<br/>\n"
- :title "Packet Compressor
+ :title "Packet Compressor"
  :type :resource
  :uniqueness false}

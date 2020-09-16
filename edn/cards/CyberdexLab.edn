@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:research :antivirus] 
  :text "Place 1 virus counter on Cyberdex Lab when your turn begins.\n[trash]: Purge virus counters and gain 1[credit] for each virus counter removed."
- :title "Cyberdex Lab
+ :title "Cyberdex Lab"
  :trash-cost 4
  :type :asset
  :uniqueness false}

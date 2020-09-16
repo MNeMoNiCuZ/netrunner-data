@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:sysop] 
  :text "In order to access other cards in this server, the Runner must lose a [click] for each card in the server. This applies even during the run on which the Runner trashes this card."
- :title "Taran Takach
+ :title "Taran Takach"
  :trash-cost 1
  :type :upgrade
  :uniqueness true}

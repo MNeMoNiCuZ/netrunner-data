@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:cybernetic :chip] 
  :text "When you install this hardware, suffer 1 brain damage.\nGain 1[credit] whenever the Corp advances a card."
- :title "Protest Chip
+ :title "Protest Chip"
  :type :hardware
  :uniqueness false}

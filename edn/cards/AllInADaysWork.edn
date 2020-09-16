@@ -5,6 +5,6 @@
  :influence-cost 3
  :side :runner 
  :text "Play only if you made 3 successful runs this turn.\nRemove one advancement counter from each installed card, or remove all advancement counters from one installed card."
- :title "All in a Day's work
+ :title "All in a Day's work"
  :type :event
  :uniqueness false}

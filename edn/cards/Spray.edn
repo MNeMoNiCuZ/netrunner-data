@@ -5,6 +5,6 @@
  :influence-cost 3
  :side :runner 
  :text "Choose up to 3 ice protecting different servers. Chosen ice has -2 strength this turn."
- :title "Spray
+ :title "Spray"
  :type :event
  :uniqueness false}

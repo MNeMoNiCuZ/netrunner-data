@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual :directive] 
  :text "Whenever you take damage, take 1 additional damage of the same type.\nPrevent the first point of damage from the Corp taken each turn."
- :title "Manage the Pain
+ :title "Manage the Pain"
  :type :resource
  :uniqueness true}

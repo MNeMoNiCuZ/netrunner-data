@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:black-ops :terminal] 
  :text "After you resolve this operation, your action phase ends.\nPlay only if the Runner stole an agenda during their last turn. <strong>Trace<sup><strong>³</strong></sup></strong> – If successful, do X net damage unless the Runner trashes 2 installed Runner cards.\nX is the number of agendas in the Runners score area."
- :title "Counter Strike
+ :title "Counter Strike"
  :trash-cost 3
  :type :operation
  :uniqueness false}

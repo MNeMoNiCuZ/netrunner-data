@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:facility] 
  :text "Your maximum hand size is increased by the number of ice protecting central servers."
- :title "Momentum Labs
+ :title "Momentum Labs"
  :trash-cost 3
  :type :asset
  :uniqueness true}

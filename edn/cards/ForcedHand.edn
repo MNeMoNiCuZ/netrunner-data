@@ -5,6 +5,6 @@
  :influence-cost 3
  :side :runner 
  :text "Play only if you made a successful run on HQ this turn.\nThe Corp must install or trash each card in HQ, or take 1 bad publicity. Remove Forced Hand from the game instead of trashing it."
- :title "Forced Hand
+ :title "Forced Hand"
  :type :event
  :uniqueness false}

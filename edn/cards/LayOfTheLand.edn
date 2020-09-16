@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual :directive :seedy] 
  :text "Only one <strong>when your turn begins</strong> effect triggers at the start of your turn.\n[click],[click],[click], 3[credit]: Trash this card. The Corp can use this ability."
- :title "Lay of the Land
+ :title "Lay of the Land"
  :type :resource
  :uniqueness true}

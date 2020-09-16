@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:duality] 
  :text "Your deck must contain 2 copies of this card.\nDraw 2 cards.\nWhen your turn ends, If this is the only card left in your grip, reveal it to draw 1 card."
- :title "Mutual Aid
+ :title "Mutual Aid"
  :type :event
  :uniqueness false}

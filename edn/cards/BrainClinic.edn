@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:advertisement :seedy] 
  :text "Whenever the Runner suffers brain damage, gain 4[credit]."
- :title "Brain Clinic
+ :title "Brain Clinic"
  :trash-cost 4
  :type :asset
  :uniqueness false}

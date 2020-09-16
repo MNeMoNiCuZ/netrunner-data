@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:ritzy :facility] 
  :text "When your turn begins, Gain 2[credit] if there are at least 3 <strong>ritzy</strong> cards installed faceup."
- :title "Luxury Tax Department
+ :title "Luxury Tax Department"
  :trash-cost 3
  :type :asset
  :uniqueness false}

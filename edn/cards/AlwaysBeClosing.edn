@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "The first time each turn you make a successful run on a server with at least one unrezzed ice, put 1 power counter on this resource.\nWhen this resource has 3 power counters, add it to your score area as an agenda worth 1 agenda point."
- :title "Always Be Closing
+ :title "Always Be Closing"
  :type :resource
  :uniqueness true}

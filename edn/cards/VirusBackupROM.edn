@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virus] 
  :text "[interrupt] Whenever virus counters would be purged, remove this hardware from the game and prevent that purge.\nLimit 1 per deck."
- :title "Virus Backup ROM
+ :title "Virus Backup ROM"
  :type :hardware
  :uniqueness true}

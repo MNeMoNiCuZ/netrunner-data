@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :corp 
  :text "The Runner may access 2 random cards in HQ. Otherwise add Open Invitation to the Runner's score area as agenda worth -1 agenda points."
- :title "Open Invitation
+ :title "Open Invitation"
  :type :operation
  :uniqueness false}

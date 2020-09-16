@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:facility] 
  :text "Place 3 power counters on Interrogation Wing when it is rezzed.\nWhen your turn begins, remove 1 power counter from Interrogation Wing.\nWhile there are no power counters left on this asset, all <strong>connection</strong> resources are considered blank."
- :title "Interrogation Wing
+ :title "Interrogation Wing"
  :trash-cost 1
  :type :asset
  :uniqueness false}

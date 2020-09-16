@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:antivirus :announcement] 
  :text "Rez only during your action phase.\nWhen you rez this card, choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> gains the <strong>virus</strong> subtype until the start of your next turn.\n[trash]: Virus cards can't be used until the end of the run. Trash only during a run on this server."
- :title "Wormgate
+ :title "Wormgate"
  :trash-cost 3
  :type :upgrade
  :uniqueness true}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:government] 
  :text "The cost to install, play and rez cards is lowered by 1[credit].\n[click], [trash]: Install a card from your grip and lower it's install cost by 2[credit]."
- :title "Tax Relief
+ :title "Tax Relief"
  :type :resource
  :uniqueness false}

@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "Shuffle up to 5 different <strong>virtual</strong> cards from your heap into your stack."
- :title "Scrounging
+ :title "Scrounging"
  :type :event
  :uniqueness false}

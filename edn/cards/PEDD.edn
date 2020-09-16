@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:mod] 
  :text "Host P.E.D.D. on an installed non-<strong>AI icebreaker</strong> when installed.\n[click]: Host P.E.D.D. on an installed non-<strong>AI icebreaker</strong>.\n[trash]: Host <strong>icebreaker</strong> gets +3 strength until the end of the run."
- :title "P.E.D.D.
+ :title "P.E.D.D."
  :type :hardware
  :uniqueness false}

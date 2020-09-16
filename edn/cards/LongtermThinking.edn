@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual :directive] 
  :text "The play and install cost of your 0 and 1-cost cards is increased by 1[credit].\nGain 1[credit] when you play or install cards costing 4 or more credits."
- :title "Long-term Thinking
+ :title "Long-term Thinking"
  :type :resource
  :uniqueness true}

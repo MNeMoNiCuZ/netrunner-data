@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:lockdown :injector] 
  :text "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nChoose a server. The runner gets :-2mu: during runs on the chosen server."
- :title "Self-Infected Node
+ :title "Self-Infected Node"
  :trash-cost 4
  :type :operation
  :uniqueness false}

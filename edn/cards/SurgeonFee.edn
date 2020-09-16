@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:transaction] 
  :text "Gain 5[credit] for each brain damage the Runner has suffered and draw 1 card.\n"
- :title "Surgeon Fee
+ :title "Surgeon Fee"
  :type :operation
  :uniqueness false}

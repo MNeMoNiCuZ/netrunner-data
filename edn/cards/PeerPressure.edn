@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:run] 
  :text "Make a run on HQ.\n[interrupt] - If successful, whenever you would access a card from HQ during this run, the Corp must install or trash that card."
- :title "Peer Pressure
+ :title "Peer Pressure"
  :type :event
  :uniqueness false}

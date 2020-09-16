@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:government] 
  :text "As an additional cost to play the first event each turn, the Runner must trash the top 3 cards of the stack."
- :title "Government Restrictions
+ :title "Government Restrictions"
  :trash-cost 4
  :type :asset
  :uniqueness false}

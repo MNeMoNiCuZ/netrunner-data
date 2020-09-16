@@ -5,7 +5,7 @@
  :influence-cost 4
  :side :corp 
  :text "The Runner cannot trash Corp cards other than this when accessing cards."
- :title "Clickbait
+ :title "Clickbait"
  :trash-cost 0
  :type :asset
  :uniqueness true}

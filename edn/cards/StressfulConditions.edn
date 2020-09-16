@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "Reduce the cost to play this card to 0 if the Corp has more scored agenda points than you.\nLook at the top 6 cards of your stack. Add 2 of those cards to your grip. Shuffle your stack."
- :title "Stressful Conditions
+ :title "Stressful Conditions"
  :type :event
  :uniqueness false}

@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp 
  :text "Whenever you take bad publicity, gain 2[credit]."
- :title "PR Defense Lawyer
+ :title "PR Defense Lawyer"
  :trash-cost 4
  :type :asset
  :uniqueness false}

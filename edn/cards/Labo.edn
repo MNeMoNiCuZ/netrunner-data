@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:console] 
  :text "+:2mu:\nUse the MU on Lab-o only for <strong>virus</strong> programs.\n[click]: Remove all virus counters from an installed :shaper:-card and place the same amount -1 on another installed :shaper:-card.\nLimit 1 <strong>console</strong> per player."
- :title "Lab-o
+ :title "Lab-o"
  :type :hardware
  :uniqueness true}

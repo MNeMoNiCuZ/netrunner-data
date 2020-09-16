@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp 
  :text "[click], X[credit]: Place 1 advancement token on each installed ice. Use this ability only once per turn and only if the Runner made no successful run during their last turn.\nX is the number of installed ice."
- :title "QBit Patent
+ :title "QBit Patent"
  :trash-cost 2
  :type :asset
  :uniqueness false}

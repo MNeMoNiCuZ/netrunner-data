@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "<strong>Trash 3 installed cards:</strong> Prevent an installed card from being trashed by the Corp.\nSacrificial Routine cannot trash itself as part of the trash cost."
- :title "Sacrificial Routine
+ :title "Sacrificial Routine"
  :type :resource
  :uniqueness false}

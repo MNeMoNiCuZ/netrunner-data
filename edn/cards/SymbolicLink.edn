@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:chip] 
  :text "The first time each turn you trash a Corp card, you may pay 1[credit] to expose 1 card."
- :title "Symbolic Link
+ :title "Symbolic Link"
  :type :hardware
  :uniqueness false}

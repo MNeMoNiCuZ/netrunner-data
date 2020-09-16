@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virus] 
  :text "The first time each turn you make a successful run on a remote server, place 1 virus counter on this hardware.\n<strong>Hosted virus counter</strong>: The Corp reveals 1 card at random from HQ."
- :title "Abandoned Drive
+ :title "Abandoned Drive"
  :type :hardware
  :uniqueness false}

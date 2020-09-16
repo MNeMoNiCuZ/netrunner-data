@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:lockdown] 
  :text "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.<br/>Choose an <strong>icebreaker</strong>. As an additional cost to use that card for the first time each encounter, the Runner must pay 2[credit]."
- :title "Enforced Firmware Updates
+ :title "Enforced Firmware Updates"
  :trash-cost 3
  :type :operation
  :uniqueness false}

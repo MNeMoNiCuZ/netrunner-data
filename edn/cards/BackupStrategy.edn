@@ -5,6 +5,6 @@
  :influence-cost 3
  :side :runner 
  :text "The first time each turn an installed resource is trashed, you may install a resource from your grip lowering it's install cost by 1[credit]."
- :title "Backup Strategy
+ :title "Backup Strategy"
  :type :resource
  :uniqueness true}

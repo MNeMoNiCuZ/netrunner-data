@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:character :cast] 
  :text "Whenever a <strong>trace</strong> subroutine is broken, gain 1[credit]."
- :title "Streaming Manager
+ :title "Streaming Manager"
  :trash-cost 4
  :type :asset
  :uniqueness false}

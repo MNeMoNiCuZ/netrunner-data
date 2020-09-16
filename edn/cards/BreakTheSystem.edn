@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:double] 
  :text "As an additional cost to play this event, spend [click].\nPlay only if you've already made a successful run on HQ this turn.\nMake a run on HQ. If successful, instead of accessing cards, you may force the Corp to trash 2 cards from HQ or the top of R&D."
- :title "Break the System
+ :title "Break the System"
  :type :event
  :uniqueness false}

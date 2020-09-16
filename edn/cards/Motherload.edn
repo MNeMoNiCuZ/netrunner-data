@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:ambush :press-release] 
  :text "This asset can be advanced.\nIf you pay 2[credit] when the Runner accesses this asset outside of Archives, reveal up to 3 cards from HQ.\nFor each card revealed:\nIf it was an <strong>upgrade</strong> or <strong>asset</strong>: The Runner must pay 3[credit] or access the revealed card.\nIf it was an <strong>ice</strong>: The Runner must pay 3[credit] or suffer 2 net damage."
- :title "Motherload
+ :title "Motherload"
  :trash-cost 2
  :type :asset
  :uniqueness false}

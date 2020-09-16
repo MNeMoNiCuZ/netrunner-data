@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "[click], <strong>remove 1 bad publicity</strong>: Make a run. For each ice rezzed during this run, gain 1 bad publicity.\n<flavor></flavor>"
- :title "Low Latency Router
+ :title "Low Latency Router"
  :type :hardware
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "[click]: All <strong>icebreakers</strong> have +1 strength during your next run this turn. Use this ability only once per turn."
- :title "Strength Bundle
+ :title "Strength Bundle"
  :type :resource
  :uniqueness false}

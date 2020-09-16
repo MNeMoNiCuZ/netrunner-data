@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:announcement :daily] 
  :text "Rez only during your action phase.\nWhenever the Runner makes a successful run on this server, they may remove 1 advancement token on a card.\nWhen your turn begins you may place an advancement token on a card that can be advanced if the Runner did not make a run on this server during their last turn."
- :title "Port Warehouse
+ :title "Port Warehouse"
  :trash-cost 3
  :type :asset
  :uniqueness false}

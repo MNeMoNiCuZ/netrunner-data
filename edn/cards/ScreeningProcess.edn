@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp 
  :text "Your cards cannot be exposed.\nThe first time each turn you rez a card, gain 1[credit]."
- :title "Screening Process
+ :title "Screening Process"
  :trash-cost 3
  :type :asset
  :uniqueness false}

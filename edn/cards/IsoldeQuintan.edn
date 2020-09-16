@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:sysop :injector] 
  :text "Whenever the Runner breaks all subroutines on a piece of <strong>AP</strong> ice protecting this server, they get :-1mu: until the end of the run."
- :title "Isolde Quintan
+ :title "Isolde Quintan"
  :trash-cost 2
  :type :upgrade
  :uniqueness true}

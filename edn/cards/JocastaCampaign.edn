@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:advertisement] 
  :text "When your turn begins, gain 1[credit].\nWhen the Runner accesses this card while installed, they may force the Corp to add all faceup cards in Archives to HQ.\nAs an additional cost for the Runner to trash this card while installed, the Runner must pay 1[credit] for each faceup card in Archives.\n"
- :title "Jocasta Campaign
+ :title "Jocasta Campaign"
  :trash-cost 1
  :type :asset
  :uniqueness false}

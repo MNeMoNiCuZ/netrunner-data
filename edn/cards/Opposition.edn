@@ -5,6 +5,6 @@
  :influence-cost 1
  :side :corp 
  :text "Play only if the Runner made a successful run during their last turn.\nLook at the top 10 cards of the stack and rearrange them."
- :title "Opposition
+ :title "Opposition"
  :type :operation
  :uniqueness false}

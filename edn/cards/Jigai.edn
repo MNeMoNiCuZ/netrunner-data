@@ -5,7 +5,7 @@
  :influence-cost 3
  :side :corp 
  :text "At the end of each Runner turn, the Runner trashes a card that was installed that turn and places 1 power counter on this asset. Trash this asset if it has 3 power counters on it."
- :title "Jigai
+ :title "Jigai"
  :trash-cost 4
  :type :asset
  :uniqueness false}

@@ -5,6 +5,6 @@
  :influence-cost 3
  :side :runner 
  :text "Ignore your <strong>console</strong> limit until the end of the turn.\nInstall a <strong>console</strong> from your heap or grip, lowering it's install cost by 4[credit]."
- :title "Multiboxing
+ :title "Multiboxing"
  :type :event
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "[click]: Draw 2 cards. Use this ability only once per turn."
- :title "Meditation Server
+ :title "Meditation Server"
  :type :resource
  :uniqueness true}

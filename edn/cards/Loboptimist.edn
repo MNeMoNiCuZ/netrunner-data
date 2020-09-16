@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:seedy] 
  :text "Gain 8[credit] if the Runner has suffered damage this turn."
- :title "Loboptimist
+ :title "Loboptimist"
  :type :operation
  :uniqueness false}

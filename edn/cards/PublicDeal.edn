@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:advertisement] 
  :text "Whenever a Corp card is revealed, gain 1[credit]."
- :title "Public Deal
+ :title "Public Deal"
  :trash-cost 3
  :type :asset
  :uniqueness false}

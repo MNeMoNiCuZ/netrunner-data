@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:region] 
  :text "3[recurring-credit]\nUse these credits to rez ice protecting this server.\nTrash this upgrade if you install a piece of ice protecting this server."
- :title "Temporary Force Field
+ :title "Temporary Force Field"
  :trash-cost 3
  :type :upgrade
  :uniqueness false}

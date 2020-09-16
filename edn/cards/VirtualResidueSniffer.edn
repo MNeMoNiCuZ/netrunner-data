@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:ambush :duality] 
  :text "Your deck must contain 2 copies of this card.\nIf this asset is accessed from R&D, the Runner must reveal it.\nIf you pay 1[credit] when the Runner accesses this asset, host it on the Runner's identity as a condition counter with the text: “If there are 2 copies of this card hosted, it gains: [click][click][click]: Do 4 net damage and remove this hosted condition counter from the game.“ Ignore this ability if this asset is accessed from Archives."
- :title "Virtual Residue Sniffer
+ :title "Virtual Residue Sniffer"
  :trash-cost 2
  :type :asset
  :uniqueness false}

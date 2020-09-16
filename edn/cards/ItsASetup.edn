@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:priority] 
  :text "Play only as your first [click].\nWhen this turn ends, you may install 1 card for each successful run you made on different servers, lowering the install cost of the cards by X.\nX is the number of different servers you made successful runs on this turn."
- :title "It's a Set-up!
+ :title "It's a Set-up!"
  :type :event
  :uniqueness false}

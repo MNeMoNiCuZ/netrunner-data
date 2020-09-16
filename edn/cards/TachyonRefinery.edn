@@ -5,7 +5,7 @@
  :influence-cost 4
  :side :corp 
  :text "[click]: Play an operation from HQ, reducing the additional [click]-costs of <strong>double</strong> and <strong>triple</strong> cards by [click]. Use this ability only once per turn."
- :title "Tachyon Refinery
+ :title "Tachyon Refinery"
  :trash-cost 3
  :type :asset
  :uniqueness false}

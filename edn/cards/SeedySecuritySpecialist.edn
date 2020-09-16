@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:connection :seedy] 
  :text "[click]: Make a run. If successful, instead treat it as a successful run on a different server with the same number of ice as the one that was run. Use this ability only once per turn."
- :title "Seedy Security Specialist
+ :title "Seedy Security Specialist"
  :type :resource
  :uniqueness true}

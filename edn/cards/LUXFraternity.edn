@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:ritzy :facility] 
  :text "Gain 3[credit] whenever the Runner trashes a <strong>ritzy</strong> card, including this one."
- :title "L.U.X. Fraternity
+ :title "L.U.X. Fraternity"
  :trash-cost 4
  :type :asset
  :uniqueness false}

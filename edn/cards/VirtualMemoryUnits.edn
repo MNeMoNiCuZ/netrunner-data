@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:chip :virtual] 
  :text "+:2mu:\n[click], 4[credit]: Trash this resource. Only the Corp can use this ability."
- :title "Virtual Memory Units
+ :title "Virtual Memory Units"
  :type :resource
  :uniqueness false}

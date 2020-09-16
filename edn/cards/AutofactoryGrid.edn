@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:region] 
  :text "During encounters with ice protecting this server, the Runner is considered tagged.\nLimit 1 <strong>region</strong> per server."
- :title "Autofactory Grid
+ :title "Autofactory Grid"
  :trash-cost 2
  :type :upgrade
  :uniqueness false}

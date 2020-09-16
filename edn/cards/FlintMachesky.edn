@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:character] 
  :text "When your turn begins <strong>trace<sup><strong>²</strong></sup></strong> – If successful, the Runner loses 1[credit] and the Corp gains 1[credit]. After the trace, place 1 power counter on this asset.\nTrash this asset when it has 3 or more power counters on it."
- :title "Flint Machesky
+ :title "Flint Machesky"
  :trash-cost 1
  :type :asset
  :uniqueness true}

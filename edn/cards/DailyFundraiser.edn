@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:terminal] 
  :text "After you resolve this operation, your action phase ends.\nGain 8[credit]. The Runner gains 2[credit]."
- :title "Daily Fundraiser
+ :title "Daily Fundraiser"
  :type :operation
  :uniqueness false}

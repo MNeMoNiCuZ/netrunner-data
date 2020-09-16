@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:onrez] 
  :text "Can only be rezzed during the Runner's action phase.\nWhen you rez this card, the Runner gains [click][click].\nThe Runner cannot spend [click] to break subroutines on <strong>bioroid</strong> ice."
- :title "Watch Control
+ :title "Watch Control"
  :trash-cost 5
  :type :asset
  :uniqueness false}

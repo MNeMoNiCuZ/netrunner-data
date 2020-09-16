@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:daily] 
  :text "When your turn begins you may draw 1 card if the Runner did not make any successful runs on this server during their last turn."
- :title "Favorable Licence Agreement
+ :title "Favorable Licence Agreement"
  :trash-cost 4
  :type :asset
  :uniqueness false}

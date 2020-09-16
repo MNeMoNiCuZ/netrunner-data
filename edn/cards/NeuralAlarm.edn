@@ -5,6 +5,6 @@
  :influence-cost 1
  :side :runner 
  :text "The first time on each of your turns you play a <strong>priority</strong> event, gain [click]."
- :title "Neural Alarm
+ :title "Neural Alarm"
  :type :hardware
  :uniqueness false}

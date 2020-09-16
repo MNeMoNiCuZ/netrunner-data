@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp 
  :text "The Runner can only access 1 card in, or in the root of this server. This applies even during the run on which the Runner trashes this upgrade."
- :title "Base Defenses
+ :title "Base Defenses"
  :trash-cost 3
  :type :upgrade
  :uniqueness false}

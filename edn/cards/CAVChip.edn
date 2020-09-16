@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:chip :link] 
  :text "+1[link]\nWhenever the Corp purges virus counters, you may trash an installed <strong>virus</strong> Runner card to install a <strong>virus</strong> card from your grip, lowering the install cost of that card by the number of virus counters on the trashed card."
- :title "C.A.V-chip
+ :title "C.A.V-chip"
  :type :hardware
  :uniqueness false}

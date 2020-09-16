@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:sysop] 
  :text "When your turn begins, you may install an ice from HQ protecting this server, paying 2[credit] less.\n[click]: Move Security Consultant to another server."
- :title "Security Consultant
+ :title "Security Consultant"
  :trash-cost 3
  :type :upgrade
  :uniqueness false}

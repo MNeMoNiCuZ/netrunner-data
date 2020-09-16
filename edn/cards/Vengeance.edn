@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:terminal :reprisal] 
  :text "After you resolve this operation, your action phase ends.\nPlay only if the Runner made at least 3 successful runs during their last turn.\nThe Runner may suffer 2 brain damage. If they didn't, you have 3 additional [click] to spend on your next turn."
- :title "Vengeance
+ :title "Vengeance"
  :trash-cost 4
  :type :operation
  :uniqueness false}

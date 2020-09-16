@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:covert] 
  :text "This card can only be rezzed if their server has 1 or fewer ice protecting it. If the server has 2 or more ice protecting it, derez this card.\n[click]: Gain 1 credit for each bad publicity you have. Use this ability only once per turn."
- :title "Shadow Facility
+ :title "Shadow Facility"
  :trash-cost 4
  :type :asset
  :uniqueness false}

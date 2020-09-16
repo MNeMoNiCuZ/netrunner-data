@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:condition] 
  :text "Install this operation on a rezzed piece of <strong>barrier</strong>, <strong>code gate</strong> or <strong>sentry</strong> ice as a hosted condition counter with the text: “Host ice has +3 strength and cannot be bypassed or have it's subroutines broken by <strong>AI icebreakers</strong>.“"
- :title "Day 1 Patch
+ :title "Day 1 Patch"
  :type :operation
  :uniqueness false}

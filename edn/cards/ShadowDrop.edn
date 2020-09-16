@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:ambush :press-release] 
  :text "If Shadow Drop is accessed from R&D, the Runner must reveal it.\nIf you pay 1[credit] when the Runner accesses Shadow Drop, the Runner may trash Shadow Drop.Otherwise, choose 1 installed card, or one card in HQ that the Runner must access.\nIgnore this ability if this asset is accessed from Archives."
- :title "Shadow Drop
+ :title "Shadow Drop"
  :trash-cost 6
  :type :asset
  :uniqueness false}

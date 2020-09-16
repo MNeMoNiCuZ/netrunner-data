@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:daily] 
  :text "Rez only during your action phase.\nThe Runner cannot use programs during the turn in which they are installed."
- :title "Early Adopter “Glitches“
+ :title "Early Adopter “Glitches“"
  :trash-cost 3
  :type :asset
  :uniqueness false}

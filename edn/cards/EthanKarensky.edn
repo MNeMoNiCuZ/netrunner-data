@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:sysop :injector] 
  :text "As an additional cost to initiate a run on this server, the Runner gets :-1mu: until the end of the run."
- :title "Ethan Karensky
+ :title "Ethan Karensky"
  :trash-cost 2
  :type :upgrade
  :uniqueness true}

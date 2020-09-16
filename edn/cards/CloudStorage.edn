@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "[click][click] or 4[credit]: Host an installed program ([click] or 2[credit] if you have at least 2[link]).\n[click][click]: Add 1 hosted card to your play area ([click] if you have at least 2 [link]).\nAll hosted card's text boxes are blank and their memory cost does not count against your memory limit."
- :title "Cloud Storage
+ :title "Cloud Storage"
  :type :resource
  :uniqueness false}

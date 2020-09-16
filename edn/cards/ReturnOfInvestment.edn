@@ -5,6 +5,6 @@
  :influence-cost 4
  :side :corp 
  :text "Place 1 advancement token on a card that was not installed this turn for each agenda in the Runner's score area. Remove Return of Investment from the game instead of trashing it."
- :title "Return of Investment
+ :title "Return of Investment"
  :type :operation
  :uniqueness false}

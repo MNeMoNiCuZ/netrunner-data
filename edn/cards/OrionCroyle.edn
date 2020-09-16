@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:executive] 
  :text "Whenever agenda counters are placed on an agenda, place 1 extra."
- :title "Orion Croyle
+ :title "Orion Croyle"
  :trash-cost 3
  :type :asset
  :uniqueness true}

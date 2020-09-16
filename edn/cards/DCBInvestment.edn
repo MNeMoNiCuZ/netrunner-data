@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:ritzy] 
  :text "When your turn begins, if you have at least 5[credit] more than the Runner, you may install a card from HQ."
- :title "DCB Investment
+ :title "DCB Investment"
  :trash-cost 3
  :type :asset
  :uniqueness false}

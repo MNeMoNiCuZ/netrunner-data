@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:job] 
  :text "Gain 1[credit] for each agenda in all score areas."
- :title "Prep Work
+ :title "Prep Work"
  :type :event
  :uniqueness false}

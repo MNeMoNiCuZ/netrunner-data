@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:transaction :antivirus] 
  :text "Place or remove up to 3 virus counters on an installed card with hosted virus counters.\nGain 5[credit]."
- :title "Viral Burst
+ :title "Viral Burst"
  :type :operation
  :uniqueness false}

@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:antivirus] 
  :text "[click],1[credit]: Remove all virus counter from an installed card."
- :title "Cleanse
+ :title "Cleanse"
  :trash-cost 4
  :type :upgrade
  :uniqueness false}

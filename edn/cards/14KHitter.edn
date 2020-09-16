@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:announcement :seedy] 
  :text "Rez only during your action phase.\nThe Runner takes 1 meat damage at the end of their turn."
- :title "14K Hitter
+ :title "14K Hitter"
  :trash-cost 3
  :type :asset
  :uniqueness true}

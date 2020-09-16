@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:transaction :expansion :terminal] 
  :text "After you resolve this operation, your action phase ends.\nGain 1[credit] for each card in and protecting one of your servers."
- :title "Remote Inspection
+ :title "Remote Inspection"
  :type :operation
  :uniqueness false}

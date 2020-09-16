@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:gray-ops :terminal] 
  :text "After you resolve this operation, end your action phase.\nPlay only if the Runner stole an agenda during their last turn. <strong>Trace<sup><strong>⁴</strong></sup></strong> – If successful, give the Runner 1 tag for each agenda in the Runners score area."
- :title "R.E.P.O. Delegate
+ :title "R.E.P.O. Delegate"
  :trash-cost 3
  :type :operation
  :uniqueness false}

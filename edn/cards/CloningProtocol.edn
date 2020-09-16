@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:clone :onrez] 
  :text "When Cloning Protocol is rezzed, host a rezzed <strong>character</strong>, <strong>sysop</strong> or <strong>executive</strong> on it. Cloning Protocol becomes an exact copy of host card. Host card is considered blank."
- :title "Cloning Protocol
+ :title "Cloning Protocol"
  :trash-cost 3
  :type :asset
  :uniqueness false}

@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp 
  :text "All <strong>tracer</strong> ice have their base trace strength increased by 1.\nAs an additional cost for the Runner to trash this asset, take 1 tag."
- :title "Aryabhata Data Farm
+ :title "Aryabhata Data Farm"
  :trash-cost 2
  :type :asset
  :uniqueness false}

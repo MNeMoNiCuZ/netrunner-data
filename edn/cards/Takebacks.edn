@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp 
  :text "Install only in the root of Archives.\nWhenever there's a successful run on this server you may add 1 card from Archives to HQ."
- :title "Takebacks
+ :title "Takebacks"
  :trash-cost 4
  :type :upgrade
  :uniqueness true}

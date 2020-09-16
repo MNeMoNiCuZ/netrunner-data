@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:seedy] 
  :text "When your turn begins, remove 1 bad publicity and place 1 power counter on this asset.\nTrash this asset when it has 3 or more power counters on it.\nWhen the Runner trashes this asset, remove 1 bad publicity."
- :title "Under The Table
+ :title "Under The Table"
  :trash-cost 5
  :type :asset
  :uniqueness false}

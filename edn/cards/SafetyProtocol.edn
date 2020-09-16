@@ -5,6 +5,6 @@
  :influence-cost 3
  :side :runner 
  :text "The first time you successfully run a server each turn, you may remove one advancement token on a card installed in, or protecting that server."
- :title "Safety Protocol
+ :title "Safety Protocol"
  :type :hardware
  :uniqueness false}

@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:facility] 
  :text "Your maximum hand size is increased by 2."
- :title "Expanded Labs
+ :title "Expanded Labs"
  :trash-cost 5
  :type :asset
  :uniqueness false}

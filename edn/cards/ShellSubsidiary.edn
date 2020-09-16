@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:duality :subsidiary] 
  :text "Your deck must contain 2 copies of this card.\n[trash]: Remove 1 bad publicity. Remove 1 additional bad publicity if there is another copy of this card rezzed or faceup in Archives."
- :title "Shell Subsidiary
+ :title "Shell Subsidiary"
  :trash-cost 4
  :type :asset
  :uniqueness false}

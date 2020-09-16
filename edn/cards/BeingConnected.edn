@@ -5,6 +5,6 @@
  :influence-cost 1
  :side :runner 
  :text "Gain X[credit].\nX is equal to your [link]."
- :title "Being Connected
+ :title "Being Connected"
  :type :event
  :uniqueness false}

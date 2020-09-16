@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "Trash 1 card from your grip.\nDraw 5 cards.\nTrash 1 card from your grip."
- :title "Biennio Rosso
+ :title "Biennio Rosso"
  :type :event
  :uniqueness false}

@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:covert :advertisement] 
  :text "This card can only be rezzed if their server has 1 or fewer ice protecting it. If the server has 2 or more ice protecting it, derez this card.\nWhen your turn begins, gain 2[credit]."
- :title "Quentin Campaign
+ :title "Quentin Campaign"
  :trash-cost 2
  :type :asset
  :uniqueness false}

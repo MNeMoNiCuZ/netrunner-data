@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:condition :ap] 
  :text "Install Genetic Conditioning on a piece of ice as a hosted condition counter with the text: “Host ice gains <strong>sentry</strong> and '[subroutine] Do 1 net damage', for each <strong>condition counter</strong> hosted on ice.“"
- :title "Genetic Conditioning
+ :title "Genetic Conditioning"
  :type :operation
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:double :press-release] 
  :text "As an additional cost to play this operation, spend [click].\nReveal any number of agendas or <strong>ambush</strong> cards. For each card revealed, you may install 1 card from HQ and place 2 advancement tokens on them in a new remote. You cannot score or rez those cards until your next turn begins."
- :title "No Peace of Mind
+ :title "No Peace of Mind"
  :type :operation
  :uniqueness false}

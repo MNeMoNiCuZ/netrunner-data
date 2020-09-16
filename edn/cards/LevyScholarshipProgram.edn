@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp 
  :text "Install only in the root of R&D.\nWhen your turn begins, you may pay 1[credit] to search R&D for an ice. Reveal it and add it to HQ. Shuffle R&D."
- :title "Levy Scholarship Program
+ :title "Levy Scholarship Program"
  :trash-cost 2
  :type :upgrade
  :uniqueness true}

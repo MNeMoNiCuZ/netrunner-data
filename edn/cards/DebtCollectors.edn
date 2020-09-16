@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:transaction] 
  :text "Play only if the Runner made at least 2 runs during their last turn.\nGain 6[credit]."
- :title "Debt Collectors
+ :title "Debt Collectors"
  :type :operation
  :uniqueness false}

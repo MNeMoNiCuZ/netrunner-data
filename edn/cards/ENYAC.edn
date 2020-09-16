@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:console] 
  :text "+:1mu:\nEach non-AI icebreaker has +1 strength for every 4 tags you have.\n[click]: Remove 1 tag. Only the Corp can use this ability.\nLimit 1 <strong>console</strong> per player.\n"
- :title "ENYAC
+ :title "ENYAC"
  :type :hardware
  :uniqueness true}

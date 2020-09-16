@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:advertisement] 
  :text "Whenever an agenda is scored or stolen, gain 1[credit] and you may draw 1 card."
- :title "Public Streaming Plaza
+ :title "Public Streaming Plaza"
  :trash-cost 4
  :type :asset
  :uniqueness false}

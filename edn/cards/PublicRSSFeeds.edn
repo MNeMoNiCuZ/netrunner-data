@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:console] 
  :text "+:1mu:\nX[recurring-credit]\nUse these credits to pay for using <strong>icebreakers</strong>.\nX is the amount of bad publicity the Corp has.\nLimit 1 <strong>console</strong> per player."
- :title "Public RSS Feed
+ :title "Public RSS Feed"
  :type :hardware
  :uniqueness true}

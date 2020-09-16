@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:triple] 
  :text "As an additional cost to play this event, spend [click][click] and remove 3 bad publicity from the Corp.\nAdd this event to your score area as an agenda worth 1 agenda point."
- :title "Exposing The Truth
+ :title "Exposing The Truth"
  :type :event
  :uniqueness false}

@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp 
  :text "The Runner cannot play <strong>run</strong> or <strong>sabotage</strong> events."
- :title "Curfew Squad
+ :title "Curfew Squad"
  :trash-cost 3
  :type :asset
  :uniqueness false}

@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:ritzy :character] 
  :text "When your turn begins you may spend an agenda counter from any card to gain 3[credit]."
- :title "Investment Banker
+ :title "Investment Banker"
  :trash-cost 1
  :type :asset
  :uniqueness true}

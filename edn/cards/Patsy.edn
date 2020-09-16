@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:connection] 
  :text "[click]: Add 1 or 2 power counters to this card.\n[trash]: Prevent damage of exactly the number of power counters on this card."
- :title "Patsy
+ :title "Patsy"
  :type :resource
  :uniqueness false}

@@ -5,7 +5,7 @@
  :influence-cost 3
  :side :corp 
  :text "When your turn begins, gain 2[credit] and the Runner gains 1[credit].\nAs an additional requirement to trash this asset, the Runner must have more credits than the Corp."
- :title "Credit Chip
+ :title "Credit Chip"
  :trash-cost 3
  :type :asset
  :uniqueness false}

@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "Trash an installed Runner card to draw 5 cards."
- :title "Anthropophagy
+ :title "Anthropophagy"
  :type :event
  :uniqueness false}

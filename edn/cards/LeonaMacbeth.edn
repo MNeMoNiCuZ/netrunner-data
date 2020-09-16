@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:executive] 
  :text "Whenever this asset is trashed while accessed, the Runner may take 2 tags to add it to their score area as an agenda worth 1 agenda point.\nAll 4 and 5-requirement agendas require 1 fewer advancement tokens to score."
- :title "Leona Macbeth
+ :title "Leona Macbeth"
  :trash-cost 4
  :type :asset
  :uniqueness true}

@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:bioroid] 
  :text "[interrupt] [trash]: When another Corp card would be trashed by the Runner, prevent it from being trashed. The trash cost is still paid."
- :title "Model TR-45.H
+ :title "Model TR-45.H"
  :trash-cost 2
  :type :asset
  :uniqueness false}

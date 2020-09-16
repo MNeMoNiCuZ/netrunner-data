@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:cybernetic] 
  :text "When you install Neural Link Dampener, suffer 1 brain damage.\nThe first time you take a brain damage each turn, draw 2 cards (including the damage taken by installing Neural Link Dampener)."
- :title "Neural Link Dampener
+ :title "Neural Link Dampener"
  :type :hardware
  :uniqueness true}

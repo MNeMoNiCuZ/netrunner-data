@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:region] 
  :text "The first time each turn you place at least 1 advancement token on an installed piece of ice protecting this server, place 1 additional advancement token on it. \nLimit 1 <strong>region</strong> per server."
- :title "Wernher Grid
+ :title "Wernher Grid"
  :trash-cost 4
  :type :upgrade
  :uniqueness false}

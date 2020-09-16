@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual :stealth] 
  :text "[click]: Make a run and place X[credit] on this resource. During this run, hosted credits are considered to be in your credit pool.\nX is the number of <strong>directive</strong> resources installed.\nAfter the run is completed, return to the bank any hosted credits on this resource and trash an installed <strong>directive</strong> resource.Using this card counts as playing a <strong>run</strong> event.\n"
- :title "Directive Protocol
+ :title "Directive Protocol"
  :type :resource
  :uniqueness false}

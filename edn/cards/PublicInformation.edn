@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:black-ops :announcement :press-release] 
  :text "Rez only during your action phase.\nWhen your turn begins you may trash this asset and reveal up to 3 cards from HQ.\nTrash an installed non-<strong>icebreaker</strong> Runner card with an install cost up to the number of revealed cards with a trash cost.\nFor each <strong>agenda</strong> or <strong>operation</strong> revealed: Draw 2 cards. Add 1 card from HQ to the bottom of R&D.\n"
- :title "Public Information
+ :title "Public Information"
  :trash-cost 2
  :type :asset
  :uniqueness false}

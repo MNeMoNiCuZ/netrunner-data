@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:job] 
  :text "Gain X[credit].\nX is equal to the amount of bad publicity the Corp has +2."
- :title "Cashing Out
+ :title "Cashing Out"
  :type :event
  :uniqueness false}

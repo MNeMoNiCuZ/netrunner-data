@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "Install only if you made a successful run on HQ and R&D this turn.\n[click]: Look at the second or third card from the top of R&D."
- :title "Research Pad
+ :title "Research Pad"
  :type :hardware
  :uniqueness false}

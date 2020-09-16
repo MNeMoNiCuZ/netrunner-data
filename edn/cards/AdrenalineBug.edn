@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:chip] 
  :text "[interrupt] [trash]: When you would take damage, trash your grip and draw 5 cards. Take double the damage."
- :title "Adrenaline Bug
+ :title "Adrenaline Bug"
  :type :hardware
  :uniqueness false}

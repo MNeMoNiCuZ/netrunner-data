@@ -5,6 +5,6 @@
  :influence-cost 3
  :side :runner 
  :text "Install a card from your grip, reducing it's cost by 4.\nTrash your grip."
- :title "Provocate
+ :title "Provocate"
  :type :event
  :uniqueness false}

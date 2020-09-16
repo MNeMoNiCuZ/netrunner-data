@@ -5,6 +5,6 @@
  :influence-cost 1
  :side :runner 
  :text "Gain 1[credit] for each card with the text “<strong>Limit 6 per deck</strong>“, in your heap.\nLimit 6 per deck."
- :title "Well-timed Bet
+ :title "Well-timed Bet"
  :type :event
  :uniqueness false}

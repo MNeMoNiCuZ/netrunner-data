@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:government] 
  :text "The cost to play operations and install ice is reduced by 1[credit]."
- :title "Worldwide Grant
+ :title "Worldwide Grant"
  :trash-cost 4
  :type :asset
  :uniqueness false}

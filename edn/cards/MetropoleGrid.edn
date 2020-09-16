@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:region :cast] 
  :text "All ice protecting this server has +2 strength.\nLimit 1 remote server.\nLimit 1 <strong>region</strong> per server."
- :title "Métropole Grid
+ :title "Métropole Grid"
  :trash-cost 3
  :type :upgrade
  :uniqueness true}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:job] 
  :text "Gain 1[credit] for each <strong>job</strong> card with different names in the heap."
- :title "Stacked Resume
+ :title "Stacked Resume"
  :type :event
  :uniqueness false}

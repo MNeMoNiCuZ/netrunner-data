@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:sabotage] 
  :text "Trash an installed Runner card with hosted virus counters.\nTrash a rezzed non-ice Corp card with a rez cost equal to or less than the number of virus counters on the trashed Runner card.\nPlay only if you made a successful run on R&D this turn."
- :title "Infected Memory Stick
+ :title "Infected Memory Stick"
  :type :event
  :uniqueness false}

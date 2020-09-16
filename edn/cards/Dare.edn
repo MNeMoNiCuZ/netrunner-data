@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:run] 
  :text "Make a run. If successful, before accessing cards, gain 2[credit] or draw 1 card per advancement token on one card in the server."
- :title "Dare
+ :title "Dare"
  :type :event
  :uniqueness false}

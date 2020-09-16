@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp 
  :text "The Runner cannot use <strong>AI</strong> programs to break <strong>code gate</strong> subroutines on ice during runs on this server.\nAll <strong>mythic</strong> ice protecting this server gains <strong>code gate</strong> and have +2 strength."
- :title "Encrypted Vault
+ :title "Encrypted Vault"
  :trash-cost 3
  :type :upgrade
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virus :companion :virtual] 
  :text "When your turn begins or you steal an agenda, add 1 virus counter to this resource. If this card has 3 or fewer virus counters on it, look at the top X cards of your stack and add one to your grip. Otherwise trash the top X cards of the stack or trash this card.\nX is the number of hosted virus counters."
- :title "Oracle Olive
+ :title "Oracle Olive"
  :type :resource
  :uniqueness true}

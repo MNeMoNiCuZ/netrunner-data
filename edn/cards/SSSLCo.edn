@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:injector :corporation] 
  :text "As an additional cost to make a successful run, the Runner must suffer :-1mu: until the end of the turn."
- :title "SSSLCo
+ :title "SSSLCo"
  :trash-cost 2
  :type :asset
  :uniqueness true}

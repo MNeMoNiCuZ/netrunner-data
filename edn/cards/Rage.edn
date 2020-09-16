@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "Draw 4 cards.\nWhen this turn ends, trash 2 cards from your grip if able."
- :title "Rage™
+ :title "Rage™"
  :type :event
  :uniqueness false}

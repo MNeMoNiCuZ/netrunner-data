@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:duality] 
  :text "Your deck must contain 2 copies of this card.\nIf you have 2 copies of the same card rezzed, they cannot be trashed."
- :title "Parity Protocol
+ :title "Parity Protocol"
  :trash-cost 2
  :type :asset
  :uniqueness true}

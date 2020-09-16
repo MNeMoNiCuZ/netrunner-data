@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:connection] 
  :text "The first time each turn you expose a card, the Corp must pay 1[credit]. Otherwise, you may pay 3[credit] to give the Corp 1 bad publicity."
- :title "Subterfuge Journalist
+ :title "Subterfuge Journalist"
  :type :resource
  :uniqueness true}

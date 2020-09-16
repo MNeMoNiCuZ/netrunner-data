@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:advertisement] 
  :text "This asset can be advanced.\n[trash]: Gain 3[credit] and draw 2 cards. The Runner loses 1[credit]. Use this ability only during runs on this server.\nLimit 6 per deck."
- :title "Upgraded Game Servers!
+ :title "Upgraded Game Servers!"
  :trash-cost 1
  :type :asset
  :uniqueness false}

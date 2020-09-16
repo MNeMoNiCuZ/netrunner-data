@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp 
  :text "When an event is played, remove it from the game instead of trashing it after resolving."
- :title "Trash Compactor
+ :title "Trash Compactor"
  :trash-cost 5
  :type :asset
  :uniqueness false}

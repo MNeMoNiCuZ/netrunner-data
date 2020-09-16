@@ -5,7 +5,7 @@
  :influence-cost 3
  :side :corp 
  :text "Agendas require 1 fewer advancement tokens to be scored.\nAgendas cannot be scored or stolen on the same turn they are installed."
- :title "Efficiency Hivemind
+ :title "Efficiency Hivemind"
  :trash-cost 1
  :type :asset
  :uniqueness true}

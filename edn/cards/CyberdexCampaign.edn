@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:triple :transaction :antivirus] 
  :text "As an additional cost to play this operation, spend [click][click].\nPurge virus counters. Gain 1[credit] for each virus counter removed."
- :title "Cyberdex Campaign
+ :title "Cyberdex Campaign"
  :type :operation
  :uniqueness false}

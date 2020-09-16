@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp 
  :text "When you install a card, you may install a non-agenda card from HQ. Use this ability only once each turn."
- :title "Double Up
+ :title "Double Up"
  :trash-cost 3
  :type :asset
  :uniqueness false}

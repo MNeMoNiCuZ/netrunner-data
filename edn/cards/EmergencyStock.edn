@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:press-release :double] 
  :text "As an additional cost to play this operation, spend [click].\nChoose a card type.\nReveal the top 6 cards of R&D and secretly install any number of revealed cards matching the chosen card type."
- :title "Emergency Stock
+ :title "Emergency Stock"
  :type :operation
  :uniqueness false}

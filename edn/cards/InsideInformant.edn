@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:connection :seedy] 
  :text "Place 3 power counters on this resource when it is installed.\n<strong>Hosted power counter</strong>: -2 strength to an ice being encountered. Use this ability only once per turn."
- :title "Inside Informant
+ :title "Inside Informant"
  :type :resource
  :uniqueness true}

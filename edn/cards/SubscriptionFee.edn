@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:advertisement] 
  :text "As an additional cost to initiate a run, the Runner must pay 1[credit]."
- :title "Subscription Fee
+ :title "Subscription Fee"
  :trash-cost 3
  :type :asset
  :uniqueness false}

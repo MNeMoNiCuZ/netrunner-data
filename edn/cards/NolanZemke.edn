@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:advertisement :executive] 
  :text "Gain 2[credit] the first time each turn you play a <strong>transaction</strong> operation."
- :title "Nolan Zemke
+ :title "Nolan Zemke"
  :trash-cost 3
  :type :asset
  :uniqueness true}

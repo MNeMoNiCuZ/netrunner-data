@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:ambush] 
  :text "If this upgrade is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses this upgrade, end the run unless the Runner pays 4[credit]."
- :title "Failed Gambit
+ :title "Failed Gambit"
  :trash-cost 0
  :type :upgrade
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:console] 
  :text "+:2mu:\nThe first time each turn after you access a card, you may pay 2[credit] to force the Corp to shuffle it into R&D.\nLimit 1 <strong>console</strong> per player."
- :title "AR Recon Bot
+ :title "AR Recon Bot"
  :type :hardware
  :uniqueness true}

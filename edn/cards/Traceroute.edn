@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:gray-ops] 
  :text "Play only if the Runner made a successful run during their last turn.\n<strong>Trace<sup><strong>³</strong></sup></strong> – If successful, add an installed Runner card that was installed during the Runners last turn to the grip.\nThe Runner may take tags equal to the install cost of the returned card. Otherwise add Traceroute to the Runner's score area as an agenda worth -1 agenda point."
- :title "Traceroute
+ :title "Traceroute"
  :trash-cost 2
  :type :operation
  :uniqueness false}

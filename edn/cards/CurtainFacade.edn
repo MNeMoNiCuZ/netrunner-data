@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp 
  :text "The outermost piece of ice protecting each server has +1 strength."
- :title "Curtain Facade
+ :title "Curtain Facade"
  :trash-cost 4
  :type :asset
  :uniqueness false}

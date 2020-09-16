@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:priority] 
  :text "Play only as your first [click].\nName a card type. Reveal the top 5 cards from the stack. You may install one of the revealed cards of the named card type paying its install cost. Return the rest of the cards in any order."
- :title "Just What I Wanted!
+ :title "Just What I Wanted!"
  :type :event
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:console] 
  :text "+:1mu:\n2[recurring-credit]\nUse these credits to pay for using programs.\nLimit 1 <strong>console</strong> per player."
- :title "Recursion Drive
+ :title "Recursion Drive"
  :type :hardware
  :uniqueness true}

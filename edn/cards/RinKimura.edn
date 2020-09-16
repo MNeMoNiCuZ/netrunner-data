@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:executive] 
  :text "When the Runner turn begins, you may trash a card from HQ to swap the number of advancement tokens on two installed Corp cards."
- :title "Rin Kimura
+ :title "Rin Kimura"
  :trash-cost 2
  :type :asset
  :uniqueness true}

@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:transaction :seedy :illicit] 
  :text "Reveal any number of <strong>illicit</strong>, <strong>black ops</strong> or <strong>seedy</strong> cards in HQ, gain 3[credit] for each card revealed.\nTake 1 bad publicity."
- :title "Slush Funds
+ :title "Slush Funds"
  :type :operation
  :uniqueness false}

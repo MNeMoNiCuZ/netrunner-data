@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:advertisement] 
  :text "The first time each turn you install an ice, gain 1[credit]."
- :title "Security Convention
+ :title "Security Convention"
  :trash-cost 4
  :type :asset
  :uniqueness false}

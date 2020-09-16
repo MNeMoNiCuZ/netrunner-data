@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:facility] 
  :text "When your turn begins, gain 2[credit] if the Runner does not have cards in their grip equal to their maximum hand size.\nThe Runner's maximum hand size is increased by 3."
- :title "Hyoubu Health Facility
+ :title "Hyoubu Health Facility"
  :trash-cost 5
  :type :asset
  :uniqueness false}

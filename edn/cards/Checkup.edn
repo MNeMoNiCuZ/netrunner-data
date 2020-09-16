@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:black-ops :double] 
  :text "Cannot be included in a :jinteki: deck.\nAs an additional cost to play this operation, spend [click].\nDo 2 net damage if the Runner has suffered damage this turn."
- :title "Check-up
+ :title "Check-up"
  :type :operation
  :uniqueness false}

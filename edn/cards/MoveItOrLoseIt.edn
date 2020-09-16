@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:sabotage] 
  :text "The Corp may shuffle any number of cards from HQ into R&D. Gain 1[credit] for each card shuffled into R&D.\nGain 3[credit] for each card in HQ."
- :title "Move It Or Lose It
+ :title "Move It Or Lose It"
  :type :event
  :uniqueness false}

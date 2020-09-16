@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:seedy :announcement :sysop] 
  :text "Rez only during your action phase and only if the Runner made an unsuccessful run during their last turn.\n[trash]: End the run. Use this ability only during runs on this server and if the Runner hasn't broken any subroutines using <strong>icebreakers</strong> during the run."
- :title "Monitor Intern
+ :title "Monitor Intern"
  :trash-cost 4
  :type :upgrade
  :uniqueness false}

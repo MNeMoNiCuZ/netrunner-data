@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:clone :executive :announcement] 
  :text "Rez only during your action phase.\nAll additional costs for the Runner to trash or steal Corp cards must be paid twice.\nAll effects to add <strong>executives</strong> to the Runner's score area must be triggered twice."
- :title "Clone Executive
+ :title "Clone Executive"
  :trash-cost 1
  :type :asset
  :uniqueness false}

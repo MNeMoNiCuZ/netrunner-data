@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:double] 
  :text "As an additional cost to play this operation, spend [click].\nMove any number of advancement tokens from any number of cards to another card. This card cannot be scored or used by the Corp until the start of your next turn."
- :title "Hard Priorities
+ :title "Hard Priorities"
  :type :operation
  :uniqueness false}

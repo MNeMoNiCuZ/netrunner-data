@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :corp 
  :text "After you resolve this operation, your action phase ends.\nLook at the top 8 cards of R&D. You may add up to 2 of them to HQ."
- :title "Scoops Week
+ :title "Scoops Week"
  :type :operation
  :uniqueness false}

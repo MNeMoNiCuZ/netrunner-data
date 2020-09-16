@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:press-release] 
  :text "Reveal and trash faceup any number of <strong>illicit</strong>, <strong>black ops</strong> or <strong>seedy</strong> cards from HQ.\nGain 2[credit] per card trashed and remove bad publicity up to the number of cards trashed."
- :title "Public Apology
+ :title "Public Apology"
  :type :operation
  :uniqueness false}

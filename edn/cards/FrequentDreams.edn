@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual :directive] 
  :text "You can not use credits from your credit pool to pay for events.\nYou can use any [recurring-credit] to pay for events."
- :title "Frequent Dreams
+ :title "Frequent Dreams"
  :type :resource
  :uniqueness true}

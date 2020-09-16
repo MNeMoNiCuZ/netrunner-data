@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:mod :virus] 
  :text "Host Viral Wrapper on a non-<strong>AI</strong> icebreaker.\nHost icebreaker gains <strong>virus</strong> and: “<strong>Virus counter from any installed card</strong>: Break subroutine</strong>. Use this ability only during one encounter per run.“"
- :title "Viral Wrapper
+ :title "Viral Wrapper"
  :type :hardware
  :uniqueness true}

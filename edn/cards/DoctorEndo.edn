@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:sysop] 
  :text "Whenever the Runner takes damage during runs on this server, ice protecting it has +2 strength for the duration of the run."
- :title "Doctor Endo
+ :title "Doctor Endo"
  :trash-cost 4
  :type :upgrade
  :uniqueness true}

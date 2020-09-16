@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp 
  :text "As an additional cost to initiate the first run each turn, if there's a rezzed:\n<strong>Facility</strong>: Pay 1[click].\n<strong>Clone</strong>: Suffer 1 net damage.\n<strong>Sysop</strong>: Pay 2[credit].\n<strong>Executive</strong>: Return an installed Runner card to the grip."
- :title "CyNet Data Vault
+ :title "CyNet Data Vault"
  :trash-cost 1
  :type :asset
  :uniqueness true}

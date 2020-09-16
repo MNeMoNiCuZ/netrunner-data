@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:reprisal :injector] 
  :text "Play only if the Runner stole an agenda during their last turn.\nThe Runner has :-2mu: until the end of their next turn."
- :title "OS Command Injection
+ :title "OS Command Injection"
  :type :operation
  :uniqueness false}

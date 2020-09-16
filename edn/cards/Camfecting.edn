@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virus] 
  :text "Whenever a card is advanced, place 1 virus counter on this hardware.\nWhen an agenda is scored or stolen, remove all virus counters from this card to reveal the same number of cards randomly from HQ, or from the top of R&D."
- :title "Camfecting
+ :title "Camfecting"
  :type :hardware
  :uniqueness false}

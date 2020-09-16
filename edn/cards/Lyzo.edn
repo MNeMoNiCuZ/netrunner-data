@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virus :companion :virtual] 
  :text "When your turn begins or you steal an agenda, add 1 virus counter to this resource. If there are 3 or more hosted virus counters, move 1 virus counter to an installed <strong>virus</strong> card, then pay 2[credit] or trash this resource.\nDuring the Corp's turn, whenever virus counters are removed, only remove half (rounded up), and trash this resource."
- :title "Lyzo
+ :title "Lyzo"
  :type :resource
  :uniqueness true}

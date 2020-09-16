@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:political] 
  :text "When your turn begins, place 1 advancement token on an installed Corp card if there is no ice protecting this server."
- :title "Project X
+ :title "Project X"
  :trash-cost 3
  :type :asset
  :uniqueness false}

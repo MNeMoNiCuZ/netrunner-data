@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "Your <strong>companion</strong> cards' <i>tribute</i> threshold is increased by 1."
- :title "Friends With Benefits
+ :title "Friends With Benefits"
  :type :resource
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "[click]: Install the top card of the stack facedown.\n[click]: Install or trash the top card of the stack paying it's install cost."
- :title "Unattended Installation
+ :title "Unattended Installation"
  :type :resource
  :uniqueness false}

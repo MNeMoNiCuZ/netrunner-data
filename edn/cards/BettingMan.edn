@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:connection] 
  :text "The first time each turn you and the Corp secretly spend credits and you spent the same amount, gain 2[credit]."
- :title "Betting Man
+ :title "Betting Man"
  :type :resource
  :uniqueness false}

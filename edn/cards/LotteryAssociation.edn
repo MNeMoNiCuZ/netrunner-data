@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:announcement] 
  :text "Rez only during your action phase.\nWhen your turn begins you may trash this asset and add an agenda with advancement requirement up to the number of tags the Runner has, from HQ to your score area."
- :title "Lottery Association
+ :title "Lottery Association"
  :trash-cost 1
  :type :asset
  :uniqueness true}

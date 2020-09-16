@@ -5,6 +5,6 @@
  :influence-cost 3
  :side :corp 
  :text "Forfeit an agenda to add up to 2 power counters to a card with at least 1 power counter on it."
- :title "For the Greater Good
+ :title "For the Greater Good"
  :type :operation
  :uniqueness false}

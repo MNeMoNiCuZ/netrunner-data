@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:condition] 
  :text "Install Strength In Numbers on a piece of ice as a hosted condition counter with the text: “Host ice has +1 strength, +1 additional strength for each Strength In Numbers condition counter."
- :title "Strength In Numbers
+ :title "Strength In Numbers"
  :trash-cost 3
  :type :operation
  :uniqueness false}

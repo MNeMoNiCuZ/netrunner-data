@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:remote] 
  :text "This asset can only be rezzed if you have at least 3 remote servers.\nIce protecting central servers have +1 strength for each remote server."
- :title "Distant
+ :title "Distant"
  :trash-cost 3
  :type :asset
  :uniqueness false}

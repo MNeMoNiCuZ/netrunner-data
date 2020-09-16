@@ -5,6 +5,6 @@
  :influence-cost 2
  :side :runner 
  :text "Trash your grip.\nDraw 5 cards."
- :title "Stand Up
+ :title "Stand Up"
  :type :event
  :uniqueness false}

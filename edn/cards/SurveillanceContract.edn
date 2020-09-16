@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp 
  :text "When your turn begins, gain 1[credit] and draw 1 card.\nYour maximum hand size is reduced by 1."
- :title "Surveillance Contract
+ :title "Surveillance Contract"
  :trash-cost 4
  :type :asset
  :uniqueness false}

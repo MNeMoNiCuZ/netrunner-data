@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:run] 
  :text "Make a run on R&D. If successful, instead of accessing cards, reveal cards equal to the number of cards you would have accessed.\nThe Corp may trash all revealed cards. Otherwise add them to HQ and the Runner gains 10[credit]."
- :title "Extortion
+ :title "Extortion"
  :type :event
  :uniqueness false}

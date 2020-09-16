@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:job] 
  :text "Play only if you made a successful run on HQ this turn.\nGain 8[credit].\nAdd Dummy Project to the Corp's score area as an agenda worth 1 agenda points with the text: “[click][click][click]: Remove this agenda from the game. This ability can only be used by the Runner.“"
- :title "Dummy Project
+ :title "Dummy Project"
  :type :event
  :uniqueness false}

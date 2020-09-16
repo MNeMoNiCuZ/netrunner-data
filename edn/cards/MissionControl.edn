@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp 
  :text "When you forfeit an agenda, gain 2[credit].\nThe Runner cannot host or forfeit agendas.\n<strong>Forfeit an agenda:</strong> Gain 3[credit]."
- :title "Mission Control
+ :title "Mission Control"
  :trash-cost 3
  :type :asset
  :uniqueness false}

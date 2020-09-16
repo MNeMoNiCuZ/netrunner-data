@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:run] 
  :text "Make a run. If successful, gain 1[credit] for each ice that you passed and make another run."
- :title "Rerun
+ :title "Rerun"
  :type :event
  :uniqueness false}

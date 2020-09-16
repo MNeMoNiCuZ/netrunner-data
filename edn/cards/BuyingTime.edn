@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:run] 
  :text "Make a run. If successful, gain 4[credit] and draw 2 cards."
- :title "Buying Time
+ :title "Buying Time"
  :type :event
  :uniqueness false}

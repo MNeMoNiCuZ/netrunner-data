@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virus :companion :virtual] 
  :text "When your turn begins or you steal an agenda, add 1 virus counter to this resource.\n<strong>Hosted virus counter:</strong> Lower the cost of a resource being installed by 1[credit].\nWhen your turn ends, if there are 3 or more hosted virus counters on this card, trash 2 installed resources."
- :title "Lylat
+ :title "Lylat"
  :type :resource
  :uniqueness true}

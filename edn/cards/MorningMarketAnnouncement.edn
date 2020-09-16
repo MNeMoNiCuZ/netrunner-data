@@ -6,7 +6,7 @@
  :side :corp
  :subtype [:political] 
  :text "When your turn begins, the Runner loses 1[credit] if there is no ice protecting this server."
- :title "Morning Market Announcement
+ :title "Morning Market Announcement"
  :trash-cost 1
  :type :asset
  :uniqueness false}

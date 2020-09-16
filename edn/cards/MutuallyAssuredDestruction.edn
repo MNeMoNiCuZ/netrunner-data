@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual] 
  :text "<strong>Forfeit an agenda, [click]: </strong>Gain 4[credit]. The Corp loses 4[credit]."
- :title "Mutually Assured Destruction
+ :title "Mutually Assured Destruction"
  :type :resource
  :uniqueness false}

@@ -5,6 +5,6 @@
  :influence-cost 0
  :side :runner 
  :text "+1[link]\n[trash]: Prevent 2 damage if able.\n[trash] 1[credit]: Prevent a program from being trashed."
- :title "Break Point
+ :title "Break Point"
  :type :hardware
  :uniqueness false}

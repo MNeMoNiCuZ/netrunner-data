@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp 
  :text "1[recurring-credit]\nUse this credit to pay for <strong>transaction</strong> operations.\nThe first time each turn the Runner forces you to lose credits, lose 1[credit] less."
- :title "Operational Cuts
+ :title "Operational Cuts"
  :trash-cost 3
  :type :upgrade
  :uniqueness true}

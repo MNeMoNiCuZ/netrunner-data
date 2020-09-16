@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:seedy] 
  :text "Play only if you have more installed <strong>seedy</strong> cards than the Corp.\nMake a run on Archives. If successful, instead treat it as a successful run on HQ and access 1 additional card."
- :title "Backdoor
+ :title "Backdoor"
  :type :event
  :uniqueness false}

@@ -6,6 +6,6 @@
  :side :runner
  :subtype [:virtual :directive] 
  :text "Only one Runner card with [recurring-credit] is refilled each of your turns.\n1[recurring-credit]\nUse this credit for installing cards."
- :title "Iterative Loop
+ :title "Iterative Loop"
  :type :resource
  :uniqueness true}

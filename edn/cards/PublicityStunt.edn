@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:transaction] 
  :text "This operation can only be played if you have at least 1 bad publicity.\nGain 5[credit].\nRemove 1 bad publicity."
- :title "Publicity Stunt
+ :title "Publicity Stunt"
  :type :operation
  :uniqueness false}

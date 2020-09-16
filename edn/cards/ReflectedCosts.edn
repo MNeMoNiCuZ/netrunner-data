@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:duality :transaction] 
  :text "Your deck must contain 2 copies of this card.\nGain 5[credit].\nGain 5[credit] if the other copy of this card is faceup in Archives."
- :title "Reflected Costs
+ :title "Reflected Costs"
  :type :operation
  :uniqueness false}
