@@ -4,6 +4,7 @@
  :faction :NBN
  :id "PoisonedWell"
  :side :corp
+ :subtype [:initiative]
  :text "This agenda cannot be stolen by the Runner.\nWhenever this agenda is accessed from R&D, trash it.\nWhenever this agenda is accessed from HQ or in a remote server, the Runner gains 5[credit] and the Corp shuffles it into R&D.\n"
  :title "Poisoned Well"
  :type :agenda

@@ -4,6 +4,7 @@
  :faction :NBN
  :id "CityDroneContract"
  :side :corp
+ :subtype [:security]
  :text "At the end of the Runner's turn, do 1 meat damage for each tag they have."
  :title "City Drone Contract"
  :type :agenda

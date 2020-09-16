@@ -4,6 +4,7 @@
  :faction :neutral-corp
  :id "BackupScenario"
  :side :corp
+ :subtype [:initiative]
  :text "When this agenda is scored, you may swap it for a different agenda in the Runner's score area and resolve any “when scored“ ability on the swapped agenda."
  :title "Backup Scenario"
  :type :agenda

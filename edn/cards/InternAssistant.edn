@@ -1,6 +1,6 @@
 {:cost 0
  :deck-limit 3
- :faction :sunny
+ :faction :sunny-lebeau
  :id "InternAssistant"
  :influence-cost 3
  :side :runner 

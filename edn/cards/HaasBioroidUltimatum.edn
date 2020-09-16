@@ -4,6 +4,7 @@
  :faction :haas-bioroid
  :id "HaasBioroidUltimatum"
  :side :corp
+ :subtype [:ultimatum]
  :text "<strong>[click][click][click][click]:</strong> Place 1 agenda counter on this card.\nThis agenda is worth 1 additional agenda point while it has at least 1 agenda counter on it."
  :title "Haas-Bioroid Ultimatum"
  :type :agenda

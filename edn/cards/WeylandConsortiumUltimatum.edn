@@ -4,6 +4,7 @@
  :faction :weyland-consortium
  :id "WeylandConsortiumUltimatum"
  :side :corp
+ :subtype [:ultimatum]
  :text "<strong>[click][click][click], derez an ice:</strong> Search R&D for 1 ice, install and rez it, ignoring all costs."
  :title "Weyland Consortium Ultimatum"
  :type :agenda

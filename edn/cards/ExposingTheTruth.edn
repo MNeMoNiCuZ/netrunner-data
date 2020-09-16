@@ -1,6 +1,6 @@
 {:cost 3
  :deck-limit 3
- :faction :sunny
+ :faction :sunny-lebeau
  :id "ExposingTheTruth"
  :influence-cost 5
  :side :runner

@@ -1,6 +1,6 @@
 {:cost 0
  :deck-limit 3
- :faction :sunny
+ :faction :sunny-lebeau
  :id "CashingOut"
  :influence-cost 1
  :side :runner

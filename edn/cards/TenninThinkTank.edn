@@ -4,6 +4,7 @@
  :faction :jinteki
  :id "TenninThinkTank"
  :side :corp
+ :subtype [:research]
  :text "When Tennin Think Tank is scored, place 2 advancement tokens on any number of unrezzed cards installed in servers without advancement tokens on them.\nYou cannot rez or score any cards where advancement tokens were placed until your next turn begins."
  :title "Tennin Think Tank"
  :type :agenda

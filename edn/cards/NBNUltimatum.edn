@@ -4,6 +4,7 @@
  :faction :NBN
  :id "NBNUltimatum"
  :side :corp
+ :subtype [:ultimatum]
  :text "<strong>[click][click][click], remove 1 tag:</strong> Give the Runner 2 tags and gain 2[credit]."
  :title "NBN Ultimatum"
  :type :agenda

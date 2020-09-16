@@ -4,6 +4,7 @@
  :faction :jinteki
  :id "BackupWipes"
  :side :corp
+ :subtype [:security]
  :text "[trash]: Shuffle archives and this agenda into R&D. Your identity gains the text “When your turn begins, trash the top card of R&D“."
  :title "Backup Wipes"
  :type :agenda

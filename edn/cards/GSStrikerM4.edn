@@ -1,6 +1,6 @@
 {:cost 5
  :deck-limit 3
- :faction :sunny
+ :faction :sunny-lebeau
  :id "GSStrikerM4"
  :influence-cost 2
  :memory-cost 2

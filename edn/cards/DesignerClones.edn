@@ -4,6 +4,7 @@
  :faction :jinteki
  :id "DesignerClones"
  :side :corp
+ :subtype [:clone]
  :text "[interrupt] When this agenda would be scored, the Corp may give it the name and printed text of an agenda in the Corp's score area.\n[interrupt] When this agenda would be stolen, the Corp may give it the name and printed text of an agenda in the Runner's score area."
  :title "Designer Clones"
  :type :agenda

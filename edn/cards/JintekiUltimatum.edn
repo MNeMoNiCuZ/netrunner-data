@@ -4,6 +4,7 @@
  :faction :jinteki
  :id "JintekiUltimatum"
  :side :corp
+ :subtype [:ultimatum]
  :text "<strong>[click][click][click], trash a card from HQ</strong>: Do 2 net damage."
  :title "Jinteki Ultimatum"
  :type :agenda

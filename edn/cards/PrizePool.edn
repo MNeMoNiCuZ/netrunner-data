@@ -4,6 +4,7 @@
  :faction :haas-bioroid
  :id "PrizePool"
  :side :corp
+ :subtype [:ritzy]
  :text "When your turn begins, gain 1[credit]."
  :title "Prize Pool"
  :type :agenda

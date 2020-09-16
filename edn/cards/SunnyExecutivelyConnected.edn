@@ -1,6 +1,6 @@
 {:base-link 1
  :deck-limit 1
- :faction :sunny
+ :faction :sunny-lebeau
  :id "SunnyExecutivelyConnected"
  :influence-limit 25
  :minimum-deck-size 45

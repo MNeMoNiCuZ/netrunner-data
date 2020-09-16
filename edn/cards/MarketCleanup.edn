@@ -4,6 +4,7 @@
  :faction :weyland-consortium
  :id "MarketCleanup"
  :side :corp
+ :subtype [:public]
  :text "Install this agenda faceup.\nThe first time each turn you advance this agenda, the Runner may suffer 2 meat damage. Otherwise gain 3[credit]."
  :title "Market Cleanup"
  :type :agenda

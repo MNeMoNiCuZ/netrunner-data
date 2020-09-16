@@ -4,6 +4,7 @@
  :faction :weyland-consortium
  :id "DarkSideFacility"
  :side :corp
+ :subtype [:facility]
  :text "When you score this agenda, you may derez up to 2 ice. For each ice derezzed this way, rez another ice, ignoring all rez costs.\nWhen this agenda is stolen, you may derez 1 ice. If you did, rez another ice, ignoring all rez costs."
  :title "Dark Side Facility"
  :type :agenda

@@ -4,6 +4,7 @@
  :faction :NBN
  :id "QuantumEncryption"
  :side :corp
+ :subtype [:security]
  :text "If the Runner accesses this agenda, they may install it as a :2mu:-cost program with the text “[click][click][click]: Add this agenda to your score area.“\nThe Runner cannot steal this agenda."
  :title "Quantum Encryption"
  :type :agenda

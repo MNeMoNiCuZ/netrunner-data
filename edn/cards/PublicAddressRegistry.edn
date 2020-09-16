@@ -4,6 +4,7 @@
  :faction :neutral-corp
  :id "PublicAddressRegistry"
  :side :corp
+ :subtype [:security]
  :text "This agenda cannot be scored or stolen if a copy is in a score area."
  :title "Public Address Registry"
  :type :agenda

@@ -4,6 +4,7 @@
  :faction :weyland-consortium
  :id "BeanstalkRenovation"
  :side :corp
+ :subtype [:press-release :beanstalk]
  :text "When you score Beanstalk Renovation, reveal up to 3 cards from HQ.\nFor each card revealed:\nIf it was an <strong>agenda</strong>: Gain 3[credit].\nIf it was an <strong>upgrade</strong>, <strong>ice</strong> <strong>asset</strong> or <strong>operation</strong>: Rez a card, lowering the rez cost by 2[credit]."
  :title "Beanstalk Renovation"
  :type :agenda

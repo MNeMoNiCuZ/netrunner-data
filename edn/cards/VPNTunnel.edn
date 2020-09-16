@@ -1,6 +1,6 @@
 {:cost 1
  :deck-limit 3
- :faction :sunny
+ :faction :sunny-lebeau
  :id "VPNTunnel"
  :influence-cost 2
  :memory-cost 1

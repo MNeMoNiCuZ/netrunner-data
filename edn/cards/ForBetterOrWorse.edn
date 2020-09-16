@@ -4,6 +4,7 @@
  :faction :jinteki
  :id "ForBetterOrWorse"
  :side :corp
+ :subtype [:security]
  :text "When For Better or Worse is scored or stolen, the Runner draws 5 cards and reveals their grip.\nThe Runner trashes all except 3 of the revealed cards."
  :title "For Better or Worse"
  :type :agenda

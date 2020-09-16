@@ -4,6 +4,7 @@
  :faction :weyland-consortium
  :id "SSOThinkTank"
  :side :corp
+ :subtype [:research]
  :text "When SSO Think Tank is scored, place 2 advancement tokens each on up to 3 different ice with no advancement counters on it."
  :title "SSO Think Tank"
  :type :agenda

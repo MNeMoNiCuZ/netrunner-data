@@ -4,6 +4,7 @@
  :faction :jinteki
  :id "MassMigration"
  :side :corp
+ :subtype [:ritzy]
  :text "If you have 4 or more remote servers when this agenda is scored, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> Install any number of cards from HQ, ignoring all costs."
  :title "Mass Migration"
  :type :agenda

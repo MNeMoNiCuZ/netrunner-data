@@ -4,6 +4,7 @@
  :faction :jinteki
  :id "MarsMiningNode"
  :side :corp
+ :subtype [:initiative]
  :text "1[recurring-credit]\nUse this credit for anything."
  :title "Mars Mining Node"
  :type :agenda

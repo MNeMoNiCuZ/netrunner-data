@@ -4,6 +4,7 @@
  :faction :NBN
  :id "ModeratorBots"
  :side :corp
+ :subtype [:security]
  :text "[interrupt]Once per turn, when this agenda would be accessed while installed and if it is advanced, reveal the agenda, remove all advancement counters on it and end the run."
  :title "Moderator Bots"
  :type :agenda

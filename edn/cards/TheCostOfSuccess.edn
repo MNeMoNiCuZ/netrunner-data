@@ -4,6 +4,7 @@
  :faction :weyland-consortium
  :id "TheCostOfSuccess"
  :side :corp
+ :subtype [:initiative]
  :text "[trash]: Place 2 advancement counters on an installed card."
  :title "The Cost of Success"
  :type :agenda
