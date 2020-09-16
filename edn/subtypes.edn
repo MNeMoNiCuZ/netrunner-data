@@ -217,4 +217,10 @@
  {:id :repo
   :name "Repo"}
  {:id :trending
-  :name "Trending"}]
+  :name "Trending"}
+ {:id :injector
+  :name "Injector"}
+ {:id :antivirus
+  :name "Antivirus"}
+ {:id :ultimatum
+  :name "Ultimatum"}]
