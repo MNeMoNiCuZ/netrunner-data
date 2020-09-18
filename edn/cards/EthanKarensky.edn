@@ -1,6 +1,6 @@
 {:cost 2
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "EthanKarensky"
  :influence-cost 2
  :side :corp

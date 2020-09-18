@@ -1,6 +1,6 @@
 {:cost 1
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "Warrant"
  :influence-cost 4
  :side :corp

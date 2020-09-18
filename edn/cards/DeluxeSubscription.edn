@@ -1,6 +1,6 @@
 {:cost 3
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "DeluxeSubscription"
  :influence-cost 2
  :side :corp

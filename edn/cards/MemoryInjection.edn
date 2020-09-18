@@ -1,6 +1,6 @@
 {:cost 4
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "MemoryInjection"
  :influence-cost 4
  :side :corp

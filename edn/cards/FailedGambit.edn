@@ -1,6 +1,6 @@
 {:cost 0
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "FailedGambit"
  :influence-cost 2
  :side :corp

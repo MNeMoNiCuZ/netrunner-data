@@ -1,6 +1,6 @@
 {:cost 1
  :deck-limit 6
- :faction :NBN
+ :faction :nbn
  :id "UpgradedGameServers"
  :influence-cost 1
  :side :corp

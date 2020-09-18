@@ -1,7 +1,7 @@
 {:advancement-requirement 3
  :agenda-points 1
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "PaparazziManipulation"
  :side :corp
  :subtype [:security]

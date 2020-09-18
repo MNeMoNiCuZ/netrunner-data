@@ -1,6 +1,6 @@
 {:cost 5
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "SecurityGates"
  :influence-cost 2
  :side :corp

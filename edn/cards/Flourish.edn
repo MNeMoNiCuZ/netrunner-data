@@ -1,6 +1,6 @@
 {:cost 7
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "Flourish"
  :influence-cost 2
  :side :corp

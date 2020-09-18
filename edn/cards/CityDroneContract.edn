@@ -1,7 +1,7 @@
 {:advancement-requirement 4
  :agenda-points 2
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "CityDroneContract"
  :side :corp
  :subtype [:security]

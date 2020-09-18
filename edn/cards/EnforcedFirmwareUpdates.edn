@@ -1,6 +1,6 @@
 {:cost 0
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "EnforcedFirmwareUpdates"
  :influence-cost 3
  :side :corp

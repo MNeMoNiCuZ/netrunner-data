@@ -1,6 +1,6 @@
 {:cost 5
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "PortalService"
  :influence-cost 3
  :side :corp

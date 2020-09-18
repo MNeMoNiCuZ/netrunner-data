@@ -1,5 +1,5 @@
 {:deck-limit 1
- :faction :NBN
+ :faction :nbn
  :id "QuerioINC"
  :influence-limit 15
  :minimum-deck-size 45

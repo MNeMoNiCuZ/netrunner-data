@@ -1,6 +1,6 @@
 {:cost 2
  :deck-limit 2
- :faction :NBN
+ :faction :nbn
  :id "Pulse"
  :influence-cost 2
  :side :corp

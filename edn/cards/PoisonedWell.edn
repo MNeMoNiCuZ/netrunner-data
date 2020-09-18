@@ -1,7 +1,7 @@
 {:advancement-requirement 5
  :agenda-points 1
  :deck-limit 3
- :faction :NBN
+ :faction :nbn
  :id "PoisonedWell"
  :side :corp
  :subtype [:initiative]
