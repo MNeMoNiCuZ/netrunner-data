@@ -1364,8 +1364,7 @@ Never get on her bad side."
 {:card-id "XSS"
  :code "99171"
  :flavor "Don't worry about it. If you don't know what you're missing, you haven't really lost anything."
- :illustrator "Louis Dyer
-"
+ :illustrator "Louis Dyer"
  :image-url "https://www.goty-games.com/netrunner/jinteki/cards/images/XSS.jpg"
  :position 171
  :quantity 3
@@ -4359,8 +4358,7 @@ Fortunately we no longer have to make those calls ourselves."
 {:card-id "ForcedHand"
  :code "99543"
  :flavor ""
- :illustrator "Johann Goutard
-"
+ :illustrator "Johann Goutard"
  :image-url "https://www.goty-games.com/netrunner/jinteki/cards/images/ForcedHand.jpg"
  :position 543
  :quantity 3
