@@ -6,7 +6,7 @@
  :side :corp
  :strength 4
  :subtype [:code-gate] 
- :text "Printed subroutines on this ice can only be broken and fired once per turn.\n[subroutine] The Runner gains 1[click]. You have an additional [click] to spend during your next turn.\n[subroutine] The Runner gains 1[click]. You have an additional [click] to spend during your next turn.\n"
+ :text "Printed subroutines on this piece of ice can only be broken and fired once per turn.\n[subroutine] The Runner gains 1[click]. You have an additional [click] to spend during your next turn.\n[subroutine] The Runner gains 1[click]. You have an additional [click] to spend during your next turn.\n"
  :title "Veni"
  :type :ice
  :uniqueness true}

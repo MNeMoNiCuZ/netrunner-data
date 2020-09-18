@@ -1,12 +1,12 @@
-{:cost 0
+{:cost 2
  :deck-limit 2
  :faction :weyland-consortium
  :id "ShellSubsidiary"
- :influence-cost 1
+ :influence-cost 2
  :side :corp
  :subtype [:duality :subsidiary] 
- :text "Your deck must contain 2 copies of this card.\n[trash]: Remove 1 bad publicity. Remove 1 additional bad publicity if there is another copy of this card rezzed or faceup in Archives."
+ :text "Your deck must contain 2 copies of this card.\n[trash]: Remove 2 bad publicity. Remove 2 additional bad publicity if there is another copy of this card rezzed or faceup in Archives."
  :title "Shell Subsidiary"
- :trash-cost 4
+ :trash-cost 5
  :type :asset
  :uniqueness false}

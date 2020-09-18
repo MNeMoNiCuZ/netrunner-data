@@ -5,7 +5,7 @@
  :minimum-deck-size 45
  :side :corp
  :subtype [:megacorp] 
- :text "When deck-building, you may have a <strong>side board</strong> of up to 5 non-agenda cards. Before drawing your starting hand, you may swap cards from the <strong>side board</strong> and your deck, costing the same amount of influence."
+ :text "When deck-building, you may have a <strong>side board</strong> of up to 5 non-agenda cards. Before drawing your starting hand, you may swap cards from your <strong>side board</strong> and your deck, as long as your total influence is not affected."
  :title "Haas-Bioroid : The Board"
  :type :identity
  :uniqueness false}

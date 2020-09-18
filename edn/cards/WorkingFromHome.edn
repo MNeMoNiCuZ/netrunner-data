@@ -1,11 +1,11 @@
-{:cost 2
+{:cost 5
  :deck-limit 3
  :faction :NBN
  :id "WorkingFromHome"
  :influence-cost 3
  :side :corp
  :subtype [:priority :terminal :lockdown] 
- :text "Play only as your first [click].\nAfter you resolve this operation, end your action phase.\nPlay only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nGain 8[credit].\nAs an additional cost to initiate a run, the Runner must lose [click][click] or 5[credit]."
+ :text "Play only as your first [click].\nAfter you resolve this operation, end your action phase.\nPlay only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nGain 10[credit].\nAs an additional cost to initiate a run, the Runner must lose [click][click] or 5[credit]."
  :title "Working From Home"
  :trash-cost 4
  :type :operation

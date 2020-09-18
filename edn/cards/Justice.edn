@@ -5,7 +5,7 @@
  :influence-cost 4
  :side :corp
  :subtype [:terminal :reprisal] 
- :text "After you resolve this operation, your action phase ends.\nPlay only if the Runner made at least 3 successful runs during their last turn.\nThe Runner may pay 8[credit]. If they didn't, gain 16[credit]."
+ :text "After you resolve this operation, your action phase ends.\nPlay only if the Runner made at least 3 successful runs during their last turn.\nThe Runner may pay 8[credit]. if they don't, gain 16[credit]."
  :title "Justice"
  :trash-cost 4
  :type :operation

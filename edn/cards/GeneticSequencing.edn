@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp
  :subtype [:condition] 
- :text "Install Genetic Sequencing on a rezzed piece of ice as a hosted condition counter with the text: “Host ice gains +1 strength, <strong>code gate</strong> and '[subroutine] The Runner cannot jack out for the remainder of the run', after all other subroutines.“"
+ :text "Install Genetic Sequencing on a rezzed piece of ice as a hosted condition counter with the text:\n“Host ice gains +1 strength, <strong>code gate</strong> and '[subroutine] The Runner cannot jack out for the remainder of the run', after all other subroutines.“"
  :title "Genetic Sequencing"
  :type :operation
  :uniqueness false}

@@ -4,7 +4,7 @@
  :id "ImplicatedActivities"
  :influence-cost 2
  :side :corp 
- :text "When a run ends where the Runner spent bad publicity credits, remove 1 bad publicity."
+ :text "When a run ends where the Runner spent bad publicity credits, remove 1 bad publicity. This applies even during the run on which the Runner trashes this asset."
  :title "Implicated Activities"
  :trash-cost 4
  :type :asset

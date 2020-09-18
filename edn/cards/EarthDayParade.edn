@@ -4,7 +4,7 @@
  :id "EarthDayParade"
  :influence-cost 3
  :side :corp 
- :text "Remove half of the faceup cards in Archives from the game (rounded up). Gain 1[credit] per removed card."
+ :text "Remove half of the faceup cards in Archives from the game (rounded up). Gain 1[credit] for each removed card."
  :title "Earth Day Parade"
  :type :operation
  :uniqueness false}

@@ -4,6 +4,7 @@
  :faction :weyland-consortium
  :id "FederalReserveContract"
  :side :corp
+ :subtype [:government]
  :text "2[recurring-credit]\nUse these credits to advance cards."
  :title "Federal Reserve Contract"
  :type :agenda

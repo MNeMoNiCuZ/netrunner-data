@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp
  :subtype [:reprisal :black-ops :terminal] 
- :text "After you resolve this operation, your action phase ends.\nInclude only in a :hb: deck.\nPlay this card only if the runner stole an agenda during their last turn.\nDo 2 net damage."
+ :text "After you resolve this operation, your action phase ends.\nPlay this card only if the Runner stole an agenda during their last turn.\nInclude only in a :hb: deck.\nDo 2 net damage."
  :title "Delayed Neural Reaction"
  :trash-cost 3
  :type :operation

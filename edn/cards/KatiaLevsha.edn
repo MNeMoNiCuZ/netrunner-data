@@ -1,0 +1,12 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :anarch
+ :id "KatiaLevsha"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:cyborg] 
+ :text "2[recurring-credit]\nUse these credits to pay for playing events.\nThis deck may only contain 10 non-event cards.\nWhen a Runner card is trashed, it is instead removed from the game."
+ :title "Katia “Levsha“ : Crafty and Resourceful"
+ :type :identity
+ :uniqueness false}

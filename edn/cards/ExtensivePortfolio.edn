@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp
  :subtype [:advertisement :press-release] 
- :text "Reveal any number of assets in HQ. Gain 2[credit] for each card revealed."
+ :text "Reveal any number of assets in HQ. Gain 3[credit] for each card revealed."
  :title "Extensive Portfolio"
  :type :operation
  :uniqueness false}

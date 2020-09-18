@@ -4,7 +4,7 @@
  :id "Seppuku"
  :influence-cost 5
  :side :corp 
- :text "This asset can be advanced while rezzed.\nIf there are at least 5 advancement tokens on Seppuku, it gains “[click][click][click]: Trash all installed Corp cards. The Runner must trash one installed card for each trashed Corp card.“"
+ :text "This asset can be advanced while rezzed.\nIf there are at least 5 advancement tokens on Seppuku, it gains “[click][click][click]: Trash all installed Corp cards. The Runner must trash one installed Runner card for each trashed Corp card, if able.“"
  :title "Seppuku"
  :trash-cost 1
  :type :asset

@@ -1,0 +1,12 @@
+{:base-link 0
+ :deck-limit 3
+ :faction :anarch
+ :id "Brandt"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:g-mod :cyborg] 
+ :text "[click]: Host the top card of the stack on this identity.\nIce are encountered with -1 strength for each card hosted on this identity.\nTrash hosted cards whenever the Corp purges."
+ :title "Brandt : Security Consultant"
+ :type :identity
+ :uniqueness false}

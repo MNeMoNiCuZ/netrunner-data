@@ -4,7 +4,7 @@
  :id "TrimafEnforcer"
  :influence-cost 4
  :side :corp
- :subtype [:illicit :character] 
+ :subtype [:illicit :seedy :character] 
  :text "Rez only during your turn.\nWhen you rez this asset, take 1 bad publicity.\nWhen your turn begins, the Runner must pay 2[credit], or trash an installed <strong>connection</strong>."
  :title "Tri-maf Enforcer"
  :trash-cost 2

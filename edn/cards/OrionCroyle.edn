@@ -4,7 +4,7 @@
  :id "OrionCroyle"
  :influence-cost 3
  :side :corp
- :subtype [:executive] 
+ :subtype [:executive :bioroid] 
  :text "Whenever agenda counters are placed on an agenda, place 1 extra."
  :title "Orion Croyle"
  :trash-cost 3

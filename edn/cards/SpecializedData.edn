@@ -5,7 +5,7 @@
  :minimum-deck-size 45
  :side :corp
  :subtype [:division] 
- :text "Resolve “when scored“ abilities on agendas when they are stolen.\nAny agenda with a “when scored“ ability, maintains it's printed text even while in the Runner's score area."
+ :text "Resolve <strong>when scored<strong> abilities on agendas when they are stolen.\nAny agenda with a <strong>when scored</strong> ability, maintains it's printed text even while in the Runner's score area."
  :title "Specialized Data : Your Data, Our Business"
  :type :identity
  :uniqueness false}

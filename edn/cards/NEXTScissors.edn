@@ -6,7 +6,7 @@
  :side :corp
  :strength 3
  :subtype [:sentry :next :ap] 
- :text "When the Runner encounters NEXT Scissors, he or she must pay 1[credit] for each rezzed piece of NEXT ice; otherwise do 1 brain damage."
+ :text "The first time each turn the Runner encounters this ice, they must pay 1[credit] for each rezzed piece of <strong>NEXT</strong> ice. Otherwise do 1 brain damage."
  :title "NEXT Scissors"
  :type :ice
  :uniqueness false}

@@ -6,7 +6,7 @@
  :side :corp
  :strength 5
  :subtype [:code-gate :bioroid :next] 
- :text "All <strong>NEXT</strong> and <strong>bioroid</strong> ice has +1 strength.\nThe Runner can spend [click][click][click] to break up to 2 subroutines on NEXT Rock.\n[subroutine]The Corp may rez a <strong>NEXT</strong> or <strong>bioroid</strong> ice, lowering its rez cost by 1 for each rezzed piece of <strong>NEXT</strong> ice.\n[subroutine]The Corp may rez a <strong>NEXT</strong> or <strong>bioroid</strong> ice, lowering its rez cost by 1 for each rezzed piece of <strong>NEXT</strong> ice.\n"
+ :text "All <strong>NEXT</strong> and <strong>bioroid</strong> ice have +1 strength.\nThe Runner can spend [click][click][click] to break up to 2 subroutines on NEXT Rock.\n[subroutine]The Corp may rez a <strong>NEXT</strong> or <strong>bioroid</strong> ice, lowering its rez cost by 1 for each rezzed piece of <strong>NEXT</strong> ice.\n[subroutine]The Corp may rez a <strong>NEXT</strong> or <strong>bioroid</strong> ice, lowering its rez cost by 1 for each rezzed piece of <strong>NEXT</strong> ice.\n"
  :title "NEXT Rock 3.0"
  :type :ice
  :uniqueness true}

@@ -3,7 +3,8 @@
  :faction :NBN
  :id "Clickbait"
  :influence-cost 4
- :side :corp 
+ :side :corp
+ :subtype [:advertisement] 
  :text "The Runner cannot trash Corp cards other than this when accessing cards."
  :title "Clickbait"
  :trash-cost 0

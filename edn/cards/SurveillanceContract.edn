@@ -3,7 +3,8 @@
  :faction :neutral-corp
  :id "SurveillanceContract"
  :influence-cost 0
- :side :corp 
+ :side :corp
+ :subtype [:government] 
  :text "When your turn begins, gain 1[credit] and draw 1 card.\nYour maximum hand size is reduced by 1."
  :title "Surveillance Contract"
  :trash-cost 4

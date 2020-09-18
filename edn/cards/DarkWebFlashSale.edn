@@ -3,7 +3,8 @@
  :faction :shaper
  :id "DarkWebFlashSale"
  :influence-cost 2
- :side :runner 
+ :side :runner
+ :subtype [:seedy] 
  :text "Gain 1[credit] for each <strong>virus</strong> card in your heap.\nRemove each <strong>virus</strong> card in your heap from the game.\n"
  :title "Dark Web Flash Sale"
  :type :event

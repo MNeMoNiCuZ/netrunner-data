@@ -4,7 +4,7 @@
  :id "TemporalFlux"
  :influence-cost 3
  :side :corp 
- :text "[click][click]: You have an additional [click] to spend during your next turn. Use this ability only once per turn."
+ :text "[click]: You have an additional [click] to spend during your next turn. Use this ability only once per turn."
  :title "Temporal Flux"
  :trash-cost 2
  :type :asset

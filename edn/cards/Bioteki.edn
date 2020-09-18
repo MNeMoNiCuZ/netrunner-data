@@ -5,7 +5,7 @@
  :minimum-deck-size 45
  :side :corp
  :subtype [:alliance] 
- :text "Can only spend influence on <strong>HB</strong> and <strong>neutral</strong> cards.\n<strong>Bioroid</strong> cards require 1 fewer influence."
+ :text "Can only spend influence on :hb: cards.\n<strong>Bioroid</strong> cards require 1 fewer influence."
  :title "Bioteki : Cybernetic Clones"
  :type :identity
  :uniqueness false}

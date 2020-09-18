@@ -6,7 +6,7 @@
  :side :corp
  :strength 4
  :subtype [:barrier :bioroid] 
- :text "When the Runner encounters this ice it gains: “[subroutine]End the run.“ for each rezzed piece of <strong>sentry</strong> ice for the remainder of this run.\nThe Runner may spend [click] to break any subroutine on this ice."
+ :text "When the Runner encounters this ice it gains: “[subroutine]End the run.“ for each rezzed piece of <strong>sentry</strong> ice, for the remainder of this run.\nThe Runner may spend [click] to break any subroutine on this ice."
  :title "Marco 1.0"
  :type :ice
  :uniqueness false}

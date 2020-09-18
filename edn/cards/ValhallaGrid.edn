@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp
  :subtype [:region] 
- :text "Each [click] lost or spent during runs on this server gives the Corp an additional [click] to spend during their next turn."
+ :text "Each [click] lost or spent during runs on this server gives the Corp an additional [click] to spend during their next turn.\nLimit 1 <strong>region</strong> per server."
  :title "Valhalla Grid"
  :trash-cost 3
  :type :upgrade

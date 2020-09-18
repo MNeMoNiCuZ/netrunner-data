@@ -1,8 +1,8 @@
-{:cost 2
+{:cost 1
  :deck-limit 3
  :faction :neutral-runner
  :id "Goldsmith"
- :influence-cost 1
+ :influence-cost 0
  :memory-cost 1
  :side :runner
  :subtype [:virus] 

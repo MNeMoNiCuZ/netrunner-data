@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:subsidiary] 
  :text "As an additional cost to steal an agenda, the Runner must get :-1mu: until the end of the turn. Ignore this effect if the Runner accesses an agenda in Archives."
- :title "Encryption INC. : "
+ :title "Encryption INC. : SME"
  :type :identity
  :uniqueness false}

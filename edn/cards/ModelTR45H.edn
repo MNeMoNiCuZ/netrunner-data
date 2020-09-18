@@ -1,11 +1,11 @@
-{:cost 1
+{:cost 2
  :deck-limit 3
  :faction :haas-bioroid
  :id "ModelTR45H"
  :influence-cost 1
  :side :corp
- :subtype [:bioroid] 
- :text "[interrupt] [trash]: When another Corp card would be trashed by the Runner, prevent it from being trashed. The trash cost is still paid."
+ :subtype [:bioroid :announcement] 
+ :text "Rez only during your action phase.\n[interrupt] [trash]: When another Corp card would be trashed by the Runner, prevent it from being trashed. The trash cost is still paid."
  :title "Model TR-45.H"
  :trash-cost 2
  :type :asset

@@ -4,7 +4,7 @@
  :id "OptimizedRoutine"
  :influence-cost 2
  :side :runner 
- :text "Trash an installed Runner card to gain 4[credit].\n<br/>\n<br/>\n<br/>\n"
+ :text "Trash an installed Runner card to gain 4[credit].\n<br/>\n<br/>\n"
  :title "Optimized Routine"
  :type :event
  :uniqueness false}

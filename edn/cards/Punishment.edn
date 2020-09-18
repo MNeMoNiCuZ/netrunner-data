@@ -5,7 +5,7 @@
  :influence-cost 4
  :side :corp
  :subtype [:terminal :reprisal] 
- :text "After you resolve this operation, your action phase ends.\nPlay only if the Runner made at least 3 successful runs during their last turn.\nChoose an installed Runner card. The Runner may trash that card. If they didn't, place up to 6 advancement tokens on cards."
+ :text "After you resolve this operation, your action phase ends.\nPlay only if the Runner made at least 3 successful runs during their last turn.\nChoose an installed Runner card. The Runner may trash that card. if they don't, place up to 6 advancement tokens on cards."
  :title "Punishment"
  :trash-cost 4
  :type :operation

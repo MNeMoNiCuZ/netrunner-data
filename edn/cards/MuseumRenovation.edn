@@ -5,7 +5,7 @@
  :id "MuseumRenovation"
  :side :corp
  :subtype [:initiative :public :security]
- :text "Install this agenda faceup.\nWhen you advance this agenda, place the top 2 cards (or top 3 cards if there are 5 or more advancement tokens this agenda), of the stack face-down hosted on this card.\nWhen this agenda is scored, uninstalled or hosted, shuffle the hosted cards into the stack.\nWhen this agenda is stolen, randomly trash 1 hosted card for each advancement counter on the agenda and shuffle the rest back into the stack."
+ :text "Install this agenda faceup.\nWhen you advance this agenda, place the top 2 cards (or top 3 cards if there are 5 or more advancement tokens this agenda), of the stack face-down hosted on this card.\nWhen this agenda leaves a remote server, shuffle the hosted cards into the stack.\nWhen this agenda is stolen, randomly trash 1 hosted card for each advancement counter on the agenda and shuffle the rest back into the stack."
  :title "Museum Renovation"
  :type :agenda
  :uniqueness false}

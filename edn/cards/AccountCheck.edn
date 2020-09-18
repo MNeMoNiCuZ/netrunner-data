@@ -4,7 +4,7 @@
  :id "AccountCheck"
  :influence-cost 2
  :side :corp
- :strength 3
+ :strength 4
  :subtype [:sentry] 
  :text "[subroutine] The Runner loses all their credits."
  :title "Account Check"

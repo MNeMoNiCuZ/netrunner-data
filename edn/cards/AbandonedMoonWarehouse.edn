@@ -5,7 +5,7 @@
  :id "AbandonedMoonWarehouse"
  :side :corp
  :subtype [:research]
- :text "[click][click]: Rez an ice, ignoring all costs."
+ :text "[click][click][click]: Rez an ice, ignoring the rez cost."
  :title "Abandoned Moon Warehouse"
  :type :agenda
  :uniqueness false}

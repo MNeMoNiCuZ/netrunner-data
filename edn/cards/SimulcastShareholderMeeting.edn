@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp
  :subtype [:cast] 
- :text "[trash][click]: Repeat the effect of an operation that was just played and remove that operation from the game. Use this ability immediately after playing a <strong>transaction</strong> operation. Remove this asset from the game instead of trashing it."
+ :text "[trash],[click]: Repeat the effect of an operation that was just played and remove that operation from the game. Use this ability immediately after playing a <strong>transaction</strong> operation. Remove this asset from the game instead of trashing it."
  :title "Simulcast Shareholder Meeting"
  :trash-cost 2
  :type :asset

@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:subsidiary] 
  :text "You can use agendas from all factions.\nYou may only include agendas worth 3 or more agenda points.\nAgendas are worth 1 fewer agenda points, and require 1 fewer advancement counters to score."
- :title "LCGroup : The Big Short"
+ :title "LC Group : The Big Short"
  :type :identity
  :uniqueness false}

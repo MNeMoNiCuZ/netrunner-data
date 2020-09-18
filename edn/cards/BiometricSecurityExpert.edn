@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp
  :subtype [:sysop :announcement] 
- :text "Rez only during your action phase.\nWhenever there is a successful run on this server, the Runner must pay 3[credit] or suffer 1 net damage."
+ :text "Rez only during your action phase.\nWhenever there is a successful run on this server, the Runner must pay 4[credit] or suffer 1 net damage."
  :title "Biometric Security Expert"
  :trash-cost 2
  :type :upgrade

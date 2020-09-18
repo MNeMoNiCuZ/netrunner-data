@@ -7,6 +7,6 @@
  :subtype [:daily] 
  :text "[click]: Gain 3[credit]. Use this ability only once per turn and only if the Runner did not make any successful runs on this server during their last turn."
  :title "Family Obligation"
- :trash-cost 2
+ :trash-cost 3
  :type :asset
  :uniqueness false}

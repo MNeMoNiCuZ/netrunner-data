@@ -4,8 +4,8 @@
  :id "DebtCollectors"
  :influence-cost 3
  :side :corp
- :subtype [:transaction] 
- :text "Play only if the Runner made at least 2 runs during their last turn.\nGain 6[credit]."
+ :subtype [:terminal :transaction :reprisal] 
+ :text "After you resolve this operation, your action phase ends.\nPlay only if the Runner made at least 2 runs during their last turn.\nThe Runner loses 4[credit], if able. If they did, gain 3[credit]."
  :title "Debt Collectors"
  :type :operation
  :uniqueness false}

@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :corp
  :subtype [:facility] 
- :text "Ice protecting this server cannot be trashed or have their strength reduced by the Runner.\n[trash]: Reveal up to 3 ice from Archives. The Runner removes 1 of the revealed ice from the game. Add the other revealed ice to HQ."
+ :text "Ice protecting this server cannot be trashed or have their strength reduced by the Runner.\n[trash]: Reveal up to 3 ice from Archives. The Runner removes 1 of the revealed ice from the game. Add the others to HQ."
  :title "Ice Backup Servers"
  :trash-cost 2
  :type :upgrade

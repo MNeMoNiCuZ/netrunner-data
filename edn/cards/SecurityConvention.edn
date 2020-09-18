@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp
  :subtype [:advertisement] 
- :text "The first time each turn you install an ice, gain 1[credit]."
+ :text "The first time each turn you install a piece of ice, gain 1[credit]."
  :title "Security Convention"
  :trash-cost 4
  :type :asset

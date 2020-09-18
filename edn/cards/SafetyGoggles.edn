@@ -4,7 +4,7 @@
  :id "SafetyGoggles"
  :influence-cost 1
  :side :runner 
- :text "The first time each turn you would take non-brain damage, you may instead take it as brain damage. If you do, draw 1 card per damage taken."
+ :text "The first time each turn you would take brain damage, prevent that damage and take the same amount in net damage."
  :title "“Safety“ Goggles"
  :type :hardware
  :uniqueness false}

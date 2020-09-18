@@ -1,7 +1,7 @@
 {:cost 2
  :deck-limit 3
  :faction :neutral-corp
- :id "vodnik"
+ :id "Vodnik"
  :influence-cost 0
  :side :corp
  :strength 2

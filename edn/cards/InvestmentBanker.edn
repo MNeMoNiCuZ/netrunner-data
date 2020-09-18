@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp
  :subtype [:ritzy :character] 
- :text "When your turn begins you may spend an agenda counter from any card to gain 3[credit]."
+ :text "When your turn begins you may spend an agenda counter from any card to gain 4[credit]."
  :title "Investment Banker"
  :trash-cost 1
  :type :asset

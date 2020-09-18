@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp
  :subtype [:region] 
- :text "2[recurring-credit] for each brain damage the Runner has.\nUse these credits to advance or rez cards in or protecting this server."
+ :text "2[recurring-credit] for each brain damage the Runner has.\nUse these credits to advance or rez cards in, in the root of, or protecting this server.\nLimit 1 <strong>region</strong> per server."
  :title "Moon Court Grid"
  :trash-cost 3
  :type :upgrade

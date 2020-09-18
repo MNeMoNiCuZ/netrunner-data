@@ -5,7 +5,7 @@
  :minimum-deck-size 45
  :side :corp
  :subtype [:corporation] 
- :text "The first time each turn you advance a card, place 1 advancement token on this identity.\n[click][click][click]: Install a card from HQ and move all hosted advancement tokens to the installed card.\nWhenever the Runner makes a successful run on HQ, they may spend 1[click] to remove all advancement tokens from this card."
+ :text "The first time each turn you advance a card, place 1 advancement token on this identity.\n[click][click][click]: Install a card from HQ and move all hosted advancement tokens to the installed card.\nWhenever the Runner makes a successful run on HQ, they may spend [click][click] to remove all advancement tokens from this card."
  :title "Tera System : Slow and Steady"
  :type :identity
  :uniqueness false}

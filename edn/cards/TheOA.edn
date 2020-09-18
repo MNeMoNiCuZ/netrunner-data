@@ -5,7 +5,7 @@
  :minimum-deck-size 45
  :side :corp
  :subtype [:subsidiary] 
- :text "Bad publicity credits are considered [recurring-credit] credits that can be used during runs."
+ :text "Bad publicity credits are instead considered [recurring-credit] credits that can be used during runs."
  :title "The O.A. : It Never Happened"
  :type :identity
  :uniqueness false}

@@ -5,7 +5,7 @@
  :influence-cost 4
  :side :corp
  :subtype [:terminal :reprisal] 
- :text "After you resolve this operation, your action phase ends.\nPlay only if the Runner made at least 3 successful runs during their last turn.\nThe Runner may suffer 3 net damage. If they didn't, your identity gains the text “Whenever the Runner suffers damage, do an extra damage.“"
+ :text "After you resolve this operation, your action phase ends.\nPlay only if the Runner made at least 3 successful runs during their last turn.\nThe Runner may suffer 3 net damage. if they don't, your identity gains the text “Whenever the Runner suffers damage, do an extra damage.“"
  :title "Revenge"
  :trash-cost 4
  :type :operation

@@ -5,7 +5,7 @@
  :influence-cost 3
  :side :runner
  :subtype [:chip] 
- :text "[interrupt] [trash]: When you would take damage, trash your grip and draw 5 cards. Take double the damage."
+ :text "[interrupt] [trash]: When you would take damage, trash your grip and draw 5 cards. When your next turn ends, take the same amount of damage again."
  :title "Adrenaline Bug"
  :type :hardware
  :uniqueness false}

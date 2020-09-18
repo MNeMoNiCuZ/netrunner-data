@@ -4,7 +4,7 @@
  :id "NeuralAlarm"
  :influence-cost 1
  :side :runner 
- :text "The first time on each of your turns you play a <strong>priority</strong> event, gain [click]."
+ :text "The first time on each of your turns you play a <strong>priority</strong> event, gain [click] and 1[credit]."
  :title "Neural Alarm"
  :type :hardware
  :uniqueness false}

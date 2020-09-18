@@ -5,7 +5,7 @@
  :id "FutureProofing"
  :side :corp
  :subtype [:initiative]
- :text "[trash]: Gain 1[click] Use this ability only during your turn."
+ :text "[trash]: Gain 1[click]. Use this ability only during your turn."
  :title "Future-Proofing"
  :type :agenda
  :uniqueness false}

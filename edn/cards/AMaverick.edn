@@ -6,7 +6,7 @@
  :minimum-deck-size 45
  :side :runner
  :subtype [:g-mod] 
- :text "When your turn begins, you may trash the top card of your stack to host the next card of your stack face-down as a <strong>virus</strong> card on a piece of ice. Trash cards hosted this way if the Corp purges virus counters.\nIce with hosted <strong>viruses</strong> have -1 strength."
+ :text "When your turn begins, install the top card of your stack face-down as a <strong>virus</strong> card on a piece of ice if able.\nIce with hosted <strong>viruses</strong> have -1 strength."
  :title "A. Maverick : Net Caster"
  :type :identity
  :uniqueness false}

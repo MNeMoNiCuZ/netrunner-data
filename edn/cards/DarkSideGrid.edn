@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp
  :subtype [:seedy :region] 
- :text "Whenever the Runner loses or spends [click] during runs on this server, give the Runner 2 tags."
+ :text "Whenever the Runner loses or spends [click] during runs on this server, give the Runner 2 tags.\nLimit 1 <strong>region</strong> per server."
  :title "Dark Side Grid"
  :trash-cost 2
  :type :upgrade

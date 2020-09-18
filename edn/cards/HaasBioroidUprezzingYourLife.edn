@@ -5,7 +5,7 @@
  :minimum-deck-size 45
  :side :corp
  :subtype [:megacorp] 
- :text "The first time on your turn you rez a card, you may derez another card to reduce the cost of the card being rezzed by the rez cost of the derezzed card."
+ :text "The first time each turn you rez a card, you may derez another card to lower the rez cost by the rez cost of the derezzed card."
  :title "Haas-Bioroid : Uprezzing Your Life"
  :type :identity
  :uniqueness false}

@@ -6,7 +6,7 @@
  :side :corp
  :strength 3
  :subtype [:code-gate] 
- :text "All <strong>code gate</strong> ice has +2 strength if there are at least 2 <strong>sentry</strong> ice rezzed.\n[subroutine]End the run."
+ :text "All <strong>code gate</strong> ice have +1 strength if there are at least 2 <strong>sentry</strong> ice rezzed.\n[subroutine]End the run."
  :title "Kabe no Chi"
  :type :ice
  :uniqueness true}

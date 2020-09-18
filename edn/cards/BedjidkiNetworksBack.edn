@@ -6,6 +6,6 @@
  :side :corp
  :subtype [:corporation] 
  :text "Ice cost 1[credit] less to rez.\n[click]: Flip this identity."
- :title "Bedjidki Networks : Heavy & Fast"
+ :title "Bedjidki Networks : Fast & Heavy"
  :type :identity
  :uniqueness false}
