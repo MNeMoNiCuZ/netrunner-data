@@ -64,23 +64,23 @@
  :set-id "mnemic"}
 {:card-id "OmegAlpha"
  :code "99009"
- :flavor "Twice as fun!"
+ :flavor "Twice as good as the competition!"
  :illustrator "Rob Brown"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/OmegAlpha.jpg"
  :position 9
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Perpetua"
+{:card-id "PerpetuaLabs"
  :code "99010"
  :flavor "An unstoppable force that can keep going forever."
  :illustrator "Maxim Ostapenko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/Perpetua.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/PerpetuaLabs.jpg"
  :position 10
  :quantity 3
  :set-id "mnemic"}
 {:card-id "SklarIndustries"
  :code "99011"
- :flavor "Before taking your first turn, you may search your deck for up to 2 pieces of ice, reveal and install them, paying any install cost."
+ :flavor "Alea iacta est."
  :illustrator "Alex Ichim"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/SklarIndustries.jpg"
  :position 11
@@ -136,7 +136,7 @@
  :set-id "mnemic"}
 {:card-id "GridControl"
  :code "99018"
- :flavor "Just keep doing what you're doing. You're already doing it great."
+ :flavor "Just keep doing what you're doing."
  :illustrator "Rico De Zoysa"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/GridControl.jpg"
  :position 18
@@ -176,7 +176,7 @@
  :set-id "mnemic"}
 {:card-id "RegistrationAct"
  :code "99023"
- :flavor "Voluntary Registration is available 24/7. Also true for our service compliance scanners. - L.O.B.O. Service Announcement."
+ :flavor "“Voluntary Registration is available 24/7. This is also true for our service compliance scanners.“ - L.O.B.O. Service Announcement."
  :illustrator "Pawel Nowakowski"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/RegistrationAct.jpg"
  :position 23
@@ -280,7 +280,7 @@
  :set-id "mnemic"}
 {:card-id "DigitalMRI"
  :code "99036"
- :flavor "If you're lucky, you can reap what someone else sowed."
+ :flavor "If you're lucky, you can reap what others already sowed."
  :illustrator "Alamy"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/DigitalMRI.jpg"
  :position 36
@@ -304,7 +304,8 @@
  :set-id "mnemic"}
 {:card-id "Vidi"
  :code "99039"
- :flavor "Can you see?"
+ :flavor "Can you see the pattern?(bbr)
+Can you see at all?"
  :illustrator "Elisabeth Fredriksson"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/Vidi.jpg"
  :position 39
@@ -336,7 +337,7 @@
  :set-id "mnemic"}
 {:card-id "ArchitectsVision"
  :code "99043"
- :flavor ""
+ :flavor "Anything designed in VR is twice as good."
  :illustrator "Laura Sava"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/ArchitectsVision.jpg"
  :position 43
@@ -344,7 +345,7 @@
  :set-id "mnemic"}
 {:card-id "DarkSideGrid"
  :code "99044"
- :flavor ""
+ :flavor "If it happens on the dark side of the moon and no-one was there to see it, did it actually happen?"
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/DarkSideGrid.jpg"
  :position 44
@@ -360,7 +361,7 @@
  :set-id "mnemic"}
 {:card-id "MoonCourtGrid"
  :code "99046"
- :flavor ""
+ :flavor "It only has everything."
  :illustrator "Chenxi Kang"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/MoonCourtGrid.jpg"
  :position 46
@@ -368,7 +369,7 @@
  :set-id "mnemic"}
 {:card-id "ValhallaGrid"
  :code "99047"
- :flavor ""
+ :flavor "“Better to fight and fall than to live without hope.“ ~Volsunga, c.12"
  :illustrator "Leon Tukker"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/ValhallaGrid.jpg"
  :position 47
@@ -376,7 +377,7 @@
  :set-id "mnemic"}
 {:card-id "TaranTakach"
  :code "99048"
- :flavor ""
+ :flavor "“No, not that one.“"
  :illustrator "Shadowrun"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/TaranTakach.jpg"
  :position 48
@@ -384,7 +385,7 @@
  :set-id "mnemic"}
 {:card-id "BrainClinic"
  :code "99049"
- :flavor ""
+ :flavor "The key is to have really soft chairs. The rest is fine once the straps grab them."
  :illustrator "Ian Llanas"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/BrainClinic.jpg"
  :position 49
@@ -400,7 +401,7 @@
  :set-id "mnemic"}
 {:card-id "DoubleDown"
  :code "99051"
- :flavor ""
+ :flavor "“All in on this one!“"
  :illustrator "Rasmus Poulsen"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/DoubleDown.jpg"
  :position 51
@@ -424,7 +425,7 @@
  :set-id "mnemic"}
 {:card-id "SecurityConvention"
  :code "99054"
- :flavor ""
+ :flavor "All sorts of nasty things can be purchased."
  :illustrator "Rasmus Poulsen"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/SecurityConvention.jpg"
  :position 54
@@ -448,7 +449,7 @@
  :set-id "mnemic"}
 {:card-id "DoubleUp"
  :code "99057"
- :flavor ""
+ :flavor "Another one, just to be safe."
  :illustrator "FJF Toledo"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/DoubleUp.jpg"
  :position 57
@@ -456,7 +457,7 @@
  :set-id "mnemic"}
 {:card-id "InvestmentBanker"
  :code "99058"
- :flavor ""
+ :flavor "I have a tiny giraffe. What more do you want?"
  :illustrator "Matt Zeilinger"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/InvestmentBanker.jpg"
  :position 58
@@ -464,7 +465,7 @@
  :set-id "mnemic"}
 {:card-id "LUXFraternity"
  :code "99059"
- :flavor ""
+ :flavor "Protecting our assets is a key part of our strategy."
  :illustrator "Star Citizen"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/LUXFraternity.jpg"
  :position 59
@@ -472,7 +473,7 @@
  :set-id "mnemic"}
 {:card-id "ModelTR45H"
  :code "99060"
- :flavor ""
+ :flavor "Those are not the bioroids you're looking for."
  :illustrator "Yujin Choo"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/ModelTR45H.jpg"
  :position 60
@@ -488,7 +489,7 @@
  :set-id "mnemic"}
 {:card-id "RemoteDistancing"
  :code "99062"
- :flavor "The government guidelines for server farms are pretty clear about it."
+ :flavor "The government guidelines for server farms are pretty clear about the distancing."
  :illustrator "Sanu Sagar"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/RemoteDistancing.jpg"
  :position 62
@@ -496,7 +497,7 @@
  :set-id "mnemic"}
 {:card-id "SecretProjectDrafts"
  :code "99063"
- :flavor ""
+ :flavor "It's interesting how the stars just keep on aligning."
  :illustrator "Mark Harrison"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/SecretProjectDrafts.jpg"
  :position 63
@@ -520,7 +521,9 @@
  :set-id "mnemic"}
 {:card-id "OrionCroyle"
  :code "99066"
- :flavor ""
+ :flavor "Her job is simple.(br)
+Her methods are effective.(bbr)
+Never get on her bad side."
  :illustrator "Omercan Cirit"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/OrionCroyle.jpg"
  :position 66
@@ -536,7 +539,7 @@
  :set-id "mnemic"}
 {:card-id "TemporalFlux"
  :code "99068"
- :flavor ""
+ :flavor "Den som spar han har."
  :illustrator "Unknown"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/TemporalFlux.jpg"
  :position 68
@@ -560,7 +563,7 @@
  :set-id "mnemic"}
 {:card-id "QuentinCampaign"
  :code "99071"
- :flavor ""
+ :flavor "Serving your every need."
  :illustrator "Leo Ren"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/QuentinCampaign.jpg"
  :position 71
@@ -568,7 +571,7 @@
  :set-id "mnemic"}
 {:card-id "ElizasDIYKit"
  :code "99072"
- :flavor ""
+ :flavor "Now with delivery."
  :illustrator "Wojciech Wilk"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/ElizasDIYKit.jpg"
  :position 72
@@ -584,17 +587,17 @@
  :set-id "mnemic"}
 {:card-id "Loboptimist"
  :code "99074"
- :flavor ""
+ :flavor "Let's keep the flow going!"
  :illustrator "Gintas Galvanauskas"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/Loboptimist.jpg"
  :position 74
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SurgeonFee"
+{:card-id "PrivateNeurosurgeon"
  :code "99075"
- :flavor ""
+ :flavor "Where they make the big bucks!"
  :illustrator "Luchenticius"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/SurgeonFee.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/HB/PrivateNeurosurgeon.jpg"
  :position 75
  :quantity 3
  :set-id "mnemic"}
@@ -784,7 +787,7 @@
  :set-id "mnemic"}
 {:card-id "Dilemma"
  :code "99099"
- :flavor ""
+ :flavor "Pain or misery? What will it be?"
  :illustrator "Fabián Jiménez"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/Dilemma.jpg"
  :position 99
@@ -840,7 +843,7 @@
  :set-id "mnemic"}
 {:card-id "Haji"
  :code "99106"
- :flavor ""
+ :flavor "A shameful act can be forgiven, but never forgotten."
  :illustrator "Fabián Jiménez"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/Haji.jpg"
  :position 106
@@ -896,7 +899,7 @@
  :set-id "mnemic"}
 {:card-id "Haunter"
  :code "99113"
- :flavor ""
+ :flavor "Cannot be unseen."
  :illustrator "Fabián Jiménez"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/Haunter.jpg"
  :position 113
@@ -912,7 +915,7 @@
  :set-id "mnemic"}
 {:card-id "BiometricSecurityExpert"
  :code "99115"
- :flavor ""
+ :flavor "“Halt! Who goes?“"
  :illustrator "Victor Cloux"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/BiometricSecurityExpert.jpg"
  :position 115
@@ -920,7 +923,7 @@
  :set-id "mnemic"}
 {:card-id "PrecogSeers"
  :code "99116"
- :flavor ""
+ :flavor "Try to catch them unaware."
  :illustrator "JiaYuan Song"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/PrecogSeers.jpg"
  :position 116
@@ -936,7 +939,7 @@
  :set-id "mnemic"}
 {:card-id "DoctorEndo"
  :code "99118"
- :flavor ""
+ :flavor "Strength is everything!"
  :illustrator "Anthony Wolff"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/DoctorEndo.jpg"
  :position 118
@@ -1000,7 +1003,7 @@
  :set-id "mnemic"}
 {:card-id "CloningProtocol"
  :code "99126"
- :flavor ""
+ :flavor "Don't worry, we made backups."
  :illustrator "Infinity - The Game"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/CloningProtocol.jpg"
  :position 126
@@ -1016,7 +1019,7 @@
  :set-id "mnemic"}
 {:card-id "FamilyObligation"
  :code "99128"
- :flavor ""
+ :flavor "Honour"
  :illustrator "Jason Heuser"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/FamilyObligation.jpg"
  :position 128
@@ -1032,7 +1035,7 @@
  :set-id "mnemic"}
 {:card-id "ProjectX"
  :code "99130"
- :flavor ""
+ :flavor "No-one knew what they were talking about. And then it was too late."
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/ProjectX.jpg"
  :position 130
@@ -1048,7 +1051,7 @@
  :set-id "mnemic"}
 {:card-id "GovernmentRestrictions"
  :code "99132"
- :flavor ""
+ :flavor "Certain measures has to be taken to protect the populous."
  :illustrator "Maxim Revin"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/GovernmentRestrictions.jpg"
  :position 132
@@ -1072,7 +1075,7 @@
  :set-id "mnemic"}
 {:card-id "MoralityChip"
  :code "99135"
- :flavor ""
+ :flavor "Keeping up the spirits!"
  :illustrator "Marius Siergiejew"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/MoralityChip.jpg"
  :position 135
@@ -1080,7 +1083,7 @@
  :set-id "mnemic"}
 {:card-id "PublicDeal"
  :code "99136"
- :flavor ""
+ :flavor "Nothing to hide, nothing to see."
  :illustrator "Pedro Sena"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/PublicDeal.jpg"
  :position 136
@@ -1088,73 +1091,73 @@
  :set-id "mnemic"}
 {:card-id "RinKimura"
  :code "99137"
- :flavor "“So far no-one has ever stopped her once she has set her eyes on a target.“"
+ :flavor "So far no-one has ever stopped her once she has set her eyes on a target."
  :illustrator "Modiphius Entertainment"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/RinKimura.jpg"
  :position 137
  :quantity 3
  :set-id "mnemic"}
-{:card-id "CounterStrike"
- :code "99138"
- :flavor ""
- :illustrator "Brian Valeza"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/CounterStrike.jpg"
- :position 138
- :quantity 3
- :set-id "mnemic"}
 {:card-id "GeneticSequencing"
- :code "99139"
+ :code "99138"
  :flavor ""
  :illustrator "Unknown"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/GeneticSequencing.jpg"
- :position 139
+ :position 138
  :quantity 3
  :set-id "mnemic"}
 {:card-id "GeneticConditioning"
- :code "99140"
+ :code "99139"
  :flavor ""
  :illustrator "Unknown"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/GeneticConditioning.jpg"
- :position 140
+ :position 139
  :quantity 3
  :set-id "mnemic"}
 {:card-id "OpenInvitation"
- :code "99141"
+ :code "99140"
  :flavor "“Our doors are always open to the public. We have nothing to hide.“ – Wana PR Representative"
  :illustrator "Ivan Tantsiura"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/OpenInvitation.jpg"
- :position 141
+ :position 140
  :quantity 3
  :set-id "mnemic"}
 {:card-id "CleanSlate"
- :code "99142"
+ :code "99141"
  :flavor ""
  :illustrator "Jarrod Owen"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/CleanSlate.jpg"
- :position 142
+ :position 141
  :quantity 3
  :set-id "mnemic"}
 {:card-id "DailyFundraiser"
- :code "99143"
- :flavor ""
+ :code "99142"
+ :flavor "“Let's have one of these “"
  :illustrator "Vinicius Menezes"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/DailyFundraiser.jpg"
- :position 143
+ :position 142
  :quantity 3
  :set-id "mnemic"}
 {:card-id "HonorableSacrifice"
- :code "99144"
+ :code "99143"
  :flavor "“She was like this when we got here.“"
  :illustrator "DoFresh"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/HonorableSacrifice.jpg"
- :position 144
+ :position 143
  :quantity 3
  :set-id "mnemic"}
 {:card-id "Revenge"
- :code "99145"
+ :code "99144"
  :flavor ""
  :illustrator "Savannah"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/Revenge.jpg"
+ :position 144
+ :quantity 3
+ :set-id "mnemic"}
+{:card-id "CounterStrike"
+ :code "99145"
+ :flavor ""
+ :illustrator "Brian Valeza"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/CounterStrike.jpg"
  :position 145
  :quantity 3
  :set-id "mnemic"}
@@ -1168,7 +1171,7 @@
  :set-id "mnemic"}
 {:card-id "ReturnOfInvestment"
  :code "99147"
- :flavor ""
+ :flavor "Sometimes you have to give to receive."
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Jinteki/ReturnOfInvestment.jpg"
  :position 147
@@ -1208,7 +1211,7 @@
  :set-id "mnemic"}
 {:card-id "GeonomicServices2"
  :code "99152"
- :flavor ""
+ :flavor "Management under restructuring."
  :illustrator "Sylvain Sarrailh"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/GeonomicServices2.jpg"
  :position 152
@@ -1240,7 +1243,7 @@
  :set-id "mnemic"}
 {:card-id "ThetaLinkGlobal"
  :code "99156"
- :flavor ""
+ :flavor "Nothing to hide."
  :illustrator "Leon Tukker"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/ThetaLinkGlobal.jpg"
  :position 156
@@ -1256,7 +1259,7 @@
  :set-id "mnemic"}
 {:card-id "CityDroneContract"
  :code "99158"
- :flavor ""
+ :flavor "If they know where you are., you will go down."
  :illustrator "Maxim Revin"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/CityDroneContract.jpg"
  :position 158
@@ -1320,7 +1323,7 @@
  :set-id "mnemic"}
 {:card-id "WhereYouAre"
  :code "99166"
- :flavor ""
+ :flavor "We're interrupting our regular programming to bring you this breaking news!"
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/WhereYouAre.jpg"
  :position 166
@@ -1336,7 +1339,7 @@
  :set-id "mnemic"}
 {:card-id "Captcha"
  :code "99168"
- :flavor ""
+ :flavor "Click this button to prove you're not a bioroid."
  :illustrator "Piai"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/Captcha.jpg"
  :position 168
@@ -1352,7 +1355,7 @@
  :set-id "mnemic"}
 {:card-id "Pulse"
  :code "99170"
- :flavor ""
+ :flavor "Harmonize with the pulse."
  :illustrator "J. R. Mayenco"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/Pulse.jpg"
  :position 170
@@ -1385,7 +1388,7 @@
  :set-id "mnemic"}
 {:card-id "EncryptionWall"
  :code "99174"
- :flavor ""
+ :flavor "It's our final offer. Take it or leave it."
  :illustrator "Poramet Panjaroen"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/EncryptionWall.jpg"
  :position 174
@@ -1409,7 +1412,7 @@
  :set-id "mnemic"}
 {:card-id "Taipan"
  :code "99177"
- :flavor ""
+ :flavor "Modelled after the most venomous creature."
  :illustrator "Mayra Richards"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/Taipan.jpg"
  :position 177
@@ -1457,7 +1460,7 @@
  :set-id "mnemic"}
 {:card-id "Prospector"
  :code "99183"
- :flavor ""
+ :flavor "Striking gold, leaving you cold."
  :illustrator "Dixon Jong"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/Prospector.jpg"
  :position 183
@@ -1489,7 +1492,7 @@
  :set-id "mnemic"}
 {:card-id "HoldingCell"
  :code "99187"
- :flavor ""
+ :flavor "Please stay a while and listen."
  :illustrator "Sanu Sagar"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/HoldingCell.jpg"
  :position 187
@@ -1497,7 +1500,7 @@
  :set-id "mnemic"}
 {:card-id "PortalService"
  :code "99188"
- :flavor ""
+ :flavor "It's a complete waste of time. And that's not always a bad thing."
  :illustrator "Mike Winkelmann"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/PortalService.jpg"
  :position 188
@@ -1530,7 +1533,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "FailedGambit"
  :code "99192"
- :flavor ""
+ :flavor "“Well, that was a complete waste of time.“"
  :illustrator "Wardenlight Studio"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/FailedGambit.jpg"
  :position 192
@@ -1546,7 +1549,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "MinervaWethern"
  :code "99194"
- :flavor ""
+ :flavor "The sponsor of trade."
  :illustrator "Matt Zeilinger"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/MinervaWethern.jpg"
  :position 194
@@ -1562,7 +1565,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "AutofactoryGrid"
  :code "99196"
- :flavor ""
+ :flavor "Part of the ACME Automotive Industry section. A big part of it."
  :illustrator "Vincentius Matthew"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/AutofactoryGrid.jpg"
  :position 196
@@ -1570,7 +1573,8 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "BountySleeper"
  :code "99197"
- :flavor ""
+ :flavor "“Profiting from others misery. It's the main reason we were stopped being cave-dwellers, wasn't it?“(br)
+“Yeah, well, not my problem.“"
  :illustrator "Mohamed Saad"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/BountySleeper.jpg"
  :position 197
@@ -1578,7 +1582,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "FavorableLicenceAgreement"
  :code "99198"
- :flavor ""
+ :flavor "Any deal is always favorable to someone. Otherwise, what's the point?"
  :illustrator "Mike Winkelmann"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/FavorableLicenceAgreement.jpg"
  :position 198
@@ -1602,7 +1606,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "AryabhataDataFarm"
  :code "99201"
- :flavor ""
+ :flavor "Storing all your information."
  :illustrator "Henrik5000"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/AryabhataDataFarm.jpg"
  :position 201
@@ -1618,7 +1622,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "FlintMachesky"
  :code "99203"
- :flavor "“No one is better at tracking you down and serving you up.“"
+ :flavor "“No one is better at tracking you down and serving you up. At least that's what Flint told me.“"
  :illustrator "Thomas Elliott"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/FlintMachesky.jpg"
  :position 203
@@ -1642,7 +1646,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "ScreeningProcess"
  :code "99206"
- :flavor ""
+ :flavor "We've discovered a new way of keeping the snoopers out. Or in, depending on what we want."
  :illustrator "Sam Chivers"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/ScreeningProcess.jpg"
  :position 206
@@ -1650,7 +1654,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "SSSLCo"
  :code "99207"
- :flavor "“All encryptions in the grids run through our data farms. We control all net speeds on this hemisphere.“"
+ :flavor "“All encryptions in the grids run through our data farms. If you have something you don't want seen, we'll take care of it.“"
  :illustrator "Tiago Sousa"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/SSSLCo.jpg"
  :position 207
@@ -1658,7 +1662,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "StreamingManager"
  :code "99208"
- :flavor ""
+ :flavor "These days it's important to stay relevant, even for the small mom and pop-shops."
  :illustrator "Jackson Tjota"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/StreamingManager.jpg"
  :position 208
@@ -1674,7 +1678,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "ParityProtocol"
  :code "99210"
- :flavor ""
+ :flavor "We've got your back."
  :illustrator "Atkins"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/ParityProtocol.jpg"
  :position 210
@@ -1690,7 +1694,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "Clickbait"
  :code "99212"
- :flavor ""
+ :flavor "You must check this one out!"
  :illustrator "Kez Laczin"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/Clickbait.jpg"
  :position 212
@@ -1698,7 +1702,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "LeonaMacbeth"
  :code "99213"
- :flavor ""
+ :flavor "“I've got it! Who would've thought quantum encryption would be this easy!“"
  :illustrator "Josh Calloway"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/LeonaMacbeth.jpg"
  :position 213
@@ -1706,7 +1710,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "LotteryAssociation"
  :code "99214"
- :flavor ""
+ :flavor "Bingo!"
  :illustrator "Sina P. Kasra"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/LotteryAssociation.jpg"
  :position 214
@@ -1762,7 +1766,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "ExtensivePortfolio"
  :code "99221"
- :flavor ""
+ :flavor "Managing your assets is the key to a successful business year."
  :illustrator "Victoria"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/ExtensivePortfolio.jpg"
  :position 221
@@ -1786,7 +1790,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "ThinkTank"
  :code "99224"
- :flavor ""
+ :flavor "The first thing the newly formed group came up with was that there should be more think tanks."
  :illustrator "Jedd Chevrier"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/ThinkTank.jpg"
  :position 224
@@ -1802,7 +1806,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "SubsidiaryAcquisition"
  :code "99226"
- :flavor ""
+ :flavor "Taking over the city, one profitable business at a time."
  :illustrator "Nick Hiatt"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/NBN/SubsidiaryAcquisition.jpg"
  :position 226
@@ -1834,7 +1838,7 @@ Wait... where are the other numbers?“"
  :set-id "mnemic"}
 {:card-id "FrontierDivision"
  :code "99230"
- :flavor ""
+ :flavor "Leading the way by reacting to the market."
  :illustrator "Darmo Juhola"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/FrontierDivision.jpg"
  :position 230
@@ -1859,7 +1863,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "StrataPublishing"
  :code "99233"
- :flavor ""
+ :flavor "Forgery is the sincerest form of flattery."
  :illustrator "Dontnod Entertainment"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/StrataPublishing.jpg"
  :position 233
@@ -1875,7 +1879,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "TheAlliance"
  :code "99235"
- :flavor ""
+ :flavor "Friends with everyone."
  :illustrator "José Arias"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/TheAlliance.jpg"
  :position 235
@@ -1891,7 +1895,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "TheHedgemony"
  :code "99237"
- :flavor "Playing with open cards can't possibly be malicious. Check for yourselves!"
+ :flavor "Playing with open cards can't possibly be malicious. Please come visit our headquarters and see for yourselves!"
  :illustrator "Pascal Heinzelmann"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/TheHedgemony.jpg"
  :position 237
@@ -1939,7 +1943,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "FederalReserveContract"
  :code "99243"
- :flavor ""
+ :flavor "Oh, we're just guarding it for the government. They won't mind if we invest just a little bit."
  :illustrator "Zaha Hadid"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/FederalReserveContract.jpg"
  :position 243
@@ -1971,7 +1975,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "PublicTransportControl"
  :code "99247"
- :flavor ""
+ :flavor "Some say having a monopoly like this would be too powerful. We disagree."
  :illustrator "RasmusPoulsen"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/PublicTransportControl.jpg"
  :position 247
@@ -1987,7 +1991,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "SSOThinkTank"
  :code "99249"
- :flavor ""
+ :flavor "“How creative. It must've taken them years of R&D to come up with that plan.“"
  :illustrator "Bioware"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/SSOThinkTank.jpg"
  :position 249
@@ -2027,7 +2031,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "Grower"
  :code "99254"
- :flavor ""
+ :flavor "Not a shower."
  :illustrator "Kez Laczin"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/Grower.jpg"
  :position 254
@@ -2035,7 +2039,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "PressProtocol"
  :code "99255"
- :flavor ""
+ :flavor "As long as we feed them the right information, we become stronger."
  :illustrator "AngryMallard"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/PressProtocol.jpg"
  :position 255
@@ -2051,7 +2055,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "STOP"
  :code "99257"
- :flavor ""
+ :flavor "Ban-hammer time!"
  :illustrator "Naked Monkey"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/STOP.jpg"
  :position 257
@@ -2086,7 +2090,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "0dayAnamorph"
  :code "99261"
- :flavor ""
+ :flavor "Exploiting vulnerabilities since day 1!"
  :illustrator "Lucas Samaras"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/0dayAnamorph.jpg"
  :position 261
@@ -2126,7 +2130,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "Wiper"
  :code "99266"
- :flavor ""
+ :flavor "“Ohh, that's why they call it wipewashing!“"
  :illustrator "Egor Pashkin"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/Wiper.jpg"
  :position 266
@@ -2142,7 +2146,7 @@ Whatever the cost, you will pay.“"
  :set-id "mnemic"}
 {:card-id "RapidGrowth"
  :code "99268"
- :flavor ""
+ :flavor "Expansion that everyone can afford."
  :illustrator "amp.vtc.vn"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/RapidGrowth.jpg"
  :position 268
@@ -2167,7 +2171,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "FractalFlash"
  :code "99271"
- :flavor ""
+ :flavor "More practical than people thought at first!"
  :illustrator "Lupsiberg - Deviantart"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/FractalFlash.jpg"
  :position 271
@@ -2191,7 +2195,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "WernherGrid"
  :code "99274"
- :flavor ""
+ :flavor "Aaaaaaaaaaaand takeoff!"
  :illustrator "Maxim Revin"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/WernherGrid.jpg"
  :position 274
@@ -2207,7 +2211,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "GroupPackets"
  :code "99276"
- :flavor ""
+ :flavor "Even the smallest of optimization can save you billions of credits yearly. Or lose you the same amount."
  :illustrator "Mike Winkelmann"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/GroupPackets.jpg"
  :position 276
@@ -2223,8 +2227,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "Wormgate"
  :code "99278"
- :flavor "Trial runs are not fun for everyone.(br)
-“Hey! Where's turtle?!“"
+ :flavor "Trial runs are not fun for everyone. “Hey! Where's turtle?!“"
  :illustrator "Alena Aenami"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/Wormgate.jpg"
  :position 278
@@ -2232,7 +2235,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "ShellSubsidiary"
  :code "99279"
- :flavor ""
+ :flavor "Covering your back."
  :illustrator "Pawel Podwojewski"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/ShellSubsidiary.jpg"
  :position 279
@@ -2248,7 +2251,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "CurtainFacade"
  :code "99281"
- :flavor "The extra touch."
+ :flavor "“Wow, they really want us out of these ones, there must be something of value in there.“"
  :illustrator "Guerilla Games"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/CurtainFacade.jpg"
  :position 281
@@ -2256,7 +2259,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "ImplicatedActivities"
  :code "99282"
- :flavor ""
+ :flavor "“Passpad and registration please.“"
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/ImplicatedActivities.jpg"
  :position 282
@@ -2264,7 +2267,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "MissionControl"
  :code "99283"
- :flavor ""
+ :flavor "“We have an appropriate target for termination, over.“"
  :illustrator "Cyberpunk"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/MissionControl.jpg"
  :position 283
@@ -2280,7 +2283,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "PRDefenseLawyer"
  :code "99285"
- :flavor ""
+ :flavor "It's all about the public facing part of the business."
  :illustrator "Loran DeSore"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/PRDefenseLawyer.jpg"
  :position 285
@@ -2288,7 +2291,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "PublicShareholders"
  :code "99286"
- :flavor ""
+ :flavor "Like a bad politician, you can't get rid of them."
  :illustrator "Achimstyle"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/PublicShareholders.jpg"
  :position 286
@@ -2296,7 +2299,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "PublicStock"
  :code "99287"
- :flavor "Public funds are fairly safe."
+ :flavor "Public funds are always a safe bet."
  :illustrator "Keywords Studios"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/PublicStock.jpg"
  :position 287
@@ -2304,7 +2307,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "ShadowFacility"
  :code "99288"
- :flavor ""
+ :flavor "Note to self: DO NOT MESS WITH THESE GUYS!"
  :illustrator "Tristin Ishmael"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/ShadowFacility.jpg"
  :position 288
@@ -2328,7 +2331,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "DCBInvestment"
  :code "99291"
- :flavor ""
+ :flavor "Decentralized banking was never more fruitful."
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/DCBInvestment.jpg"
  :position 291
@@ -2352,7 +2355,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "NolanZemke"
  :code "99294"
- :flavor "“There's no way this can backfire, it's a guaranteed win-win.“ – Nolan Zemke, Brand Manager"
+ :flavor "“A guaranteed win-win-win.“ – Nolan Zemke, Brand Manager"
  :illustrator "Frédéric Bennett"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/NolanZemke.jpg"
  :position 294
@@ -2384,7 +2387,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "TrimafEnforcer"
  :code "99298"
- :flavor ""
+ :flavor "Pay up or they will slice you up."
  :illustrator "Sergey Zabelin"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/TrimafEnforcer.jpg"
  :position 298
@@ -2392,7 +2395,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "IllegalDrugFactory"
  :code "99299"
- :flavor ""
+ :flavor "Just another leg of an already booming industry."
  :illustrator "Raben Aas"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/IllegalDrugFactory.jpg"
  :position 299
@@ -2408,7 +2411,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "TachyonRefinery"
  :code "99301"
- :flavor ""
+ :flavor "The amount of time they saved was astounding."
  :illustrator "Jan Urschel"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/TachyonRefinery.jpg"
  :position 301
@@ -2416,7 +2419,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "CyberdexCampaign"
  :code "99302"
- :flavor ""
+ :flavor "“Now, 33% off!“"
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/CyberdexCampaign.jpg"
  :position 302
@@ -2424,7 +2427,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "HighSpeedTrading"
  :code "99303"
- :flavor ""
+ :flavor "The faster you are to the source, the better."
  :illustrator "Neil Gowland"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/HighSpeedTrading.jpg"
  :position 303
@@ -2448,7 +2451,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "DebtCollectors"
  :code "99306"
- :flavor ""
+ :flavor "Everyone needs their cut."
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/DebtCollectors.jpg"
  :position 306
@@ -2456,7 +2459,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "EarthDayParade"
  :code "99307"
- :flavor ""
+ :flavor "Let's clean up our past!"
  :illustrator "Bang! Bang! Studio"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/EarthDayParade.jpg"
  :position 307
@@ -2464,7 +2467,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "ForTheGreaterGood"
  :code "99308"
- :flavor ""
+ :flavor "“Look, they all knew about the risks when they signed on.“"
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/ForTheGreaterGood.jpg"
  :position 308
@@ -2472,7 +2475,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "SlushFunds"
  :code "99309"
- :flavor ""
+ :flavor "Saved for a rainy day."
  :illustrator "Adam Burn"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/SlushFunds.jpg"
  :position 309
@@ -2496,7 +2499,8 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "PublicityStunt"
  :code "99312"
- :flavor ""
+ :flavor "Smile for the cameras!(br)
+“You too doggy!“"
  :illustrator "Thomas Chamberlain - Keen"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/PublicityStunt.jpg"
  :position 312
@@ -2520,7 +2524,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "ViralBurst"
  :code "99315"
- :flavor ""
+ :flavor "The growth rate on these ones are astounding! – Susie, Cyberdex Labs"
  :illustrator "Klavdiya Krinichnaya"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Weyland/ViralBurst.jpg"
  :position 315
@@ -2584,7 +2588,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "GridBank"
  :code "99323"
- :flavor ""
+ :flavor "Each region now has their own."
  :illustrator "Dong Kyun Ryu"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/GridBank.jpg"
  :position 323
@@ -2600,7 +2604,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "SanctionedProtest"
  :code "99325"
- :flavor ""
+ :flavor "Making sure everything is kept civil."
  :illustrator "Tazio Bettin"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/SanctionedProtest.jpg"
  :position 325
@@ -2608,7 +2612,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "SmearCampaign"
  :code "99326"
- :flavor ""
+ :flavor "It's not about what the opposition does, it's about how it appears that they did it."
  :illustrator "Ian Llanas"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/SmearCampaign.jpg"
  :position 326
@@ -2622,17 +2626,17 @@ lol...//"
  :position 327
  :quantity 3
  :set-id "mnemic"}
-{:card-id "vodnik"
+{:card-id "Vodnik"
  :code "99328"
- :flavor ""
+ :flavor "One vodyanoy, two vodníci."
  :illustrator "Ivan Bilibin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/vodnik.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/Vodnik.jpg"
  :position 328
  :quantity 3
  :set-id "mnemic"}
 {:card-id "CreditCheck"
  :code "99329"
- :flavor "Usually not a problem, unless you get your accounts reversed."
+ :flavor "Balance is usually not a problem, unless you get your accounts reversed."
  :illustrator "AGC"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/CreditCheck.jpg"
  :position 329
@@ -2640,25 +2644,25 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "CryptoLocker"
  :code "99330"
- :flavor ""
+ :flavor "Unbreakable!"
  :illustrator "Unknown"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/CryptoLocker.jpg"
  :position 330
  :quantity 3
  :set-id "mnemic"}
-{:card-id "wechuge"
+{:card-id "Wechuge"
  :code "99331"
- :flavor ""
+ :flavor "Unangam Tunudgusii"
  :illustrator "Barcotyi - DeviantArt"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/wechuge.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/Wechuge.jpg"
  :position 331
  :quantity 3
  :set-id "mnemic"}
-{:card-id "wetiko"
+{:card-id "Wetiko"
  :code "99332"
- :flavor ""
+ :flavor "It feels like it should be easy enough to capture one."
  :illustrator "Frederic Bennett"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/wetiko.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/Wetiko.jpg"
  :position 332
  :quantity 3
  :set-id "mnemic"}
@@ -2670,17 +2674,17 @@ lol...//"
  :position 333
  :quantity 3
  :set-id "mnemic"}
-{:card-id "vila"
+{:card-id "Vila"
  :code "99334"
- :flavor ""
+ :flavor "Being said to live in the clouds."
  :illustrator "Aaron Griffin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/vila.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/Vila.jpg"
  :position 334
  :quantity 3
  :set-id "mnemic"}
 {:card-id "BaseDefenses"
  :code "99335"
- :flavor ""
+ :flavor "“What do you mean we should look at that small hole? What could possibly fit through there?“"
  :illustrator "Leon Tukker"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/BaseDefenses.jpg"
  :position 335
@@ -2696,7 +2700,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "EncryptedVault"
  :code "99337"
- :flavor ""
+ :flavor "nVfo03QX8P2myIOlfxlvqS3KRqGh3hGbk7eq5UqF1Oc="
  :illustrator "Unknown"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/EncryptedVault.jpg"
  :position 337
@@ -2712,7 +2716,9 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "LevyScholarshipProgram"
  :code "99339"
- :flavor ""
+ :flavor "“So easy anyone could do it.“(br)
+“Yeah, that's why you're here.“(br)
+“....“"
  :illustrator "Wyn Lacabra"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/LevyScholarshipProgram.jpg"
  :position 339
@@ -2720,7 +2726,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "OperationalCuts"
  :code "99340"
- :flavor ""
+ :flavor "It's made out of silver and you can shoot it."
  :illustrator "Stephanie Böhm"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/OperationalCuts.jpg"
  :position 340
@@ -2728,7 +2734,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "Takebacks"
  :code "99341"
- :flavor ""
+ :flavor "Even trashcans should have proper encryption."
  :illustrator "Cloud Quinot"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/Takebacks.jpg"
  :position 341
@@ -2752,7 +2758,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "RemoteFacilities"
  :code "99344"
- :flavor ""
+ :flavor "Facilitating our facilities."
  :illustrator "Carl Holden"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/RemoteFacilities.jpg"
  :position 344
@@ -2760,7 +2766,7 @@ lol...//"
  :set-id "mnemic"}
 {:card-id "TrashCompactor"
  :code "99345"
- :flavor ""
+ :flavor "“Let's not do that again, shall we?“"
  :illustrator "
 Adam Tredowski"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/TrashCompactor.jpg"
@@ -2769,7 +2775,7 @@ Adam Tredowski"
  :set-id "mnemic"}
 {:card-id "CurfewSquad"
  :code "99346"
- :flavor ""
+ :flavor "“Nope nope nope nope nope!“"
  :illustrator "Sina Pakzad Kasra"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/CurfewSquad.jpg"
  :position 346
@@ -2777,7 +2783,7 @@ Adam Tredowski"
  :set-id "mnemic"}
 {:card-id "EarlyAdopterGlitches"
  :code "99347"
- :flavor ""
+ :flavor "I bet you didn't see that coming!"
  :illustrator "Vladimir Manyukhin"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/EarlyAdopterGlitches.jpg"
  :position 347
@@ -2801,7 +2807,7 @@ Adam Tredowski"
  :set-id "mnemic"}
 {:card-id "SurveillanceContract"
  :code "99350"
- :flavor ""
+ :flavor "Some bad parts, but at least the budgets are huge."
  :illustrator "Rasmus Poulsen"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Corp/Neutral-Corp/SurveillanceContract.jpg"
  :position 350
@@ -2863,1514 +2869,1524 @@ Adam Tredowski"
  :position 357
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Britney"
+{:card-id "Brandt"
  :code "99358"
- :flavor "Book afficionado!"
- :illustrator "Chate Noire"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Britney.jpg"
+ :flavor "“I'll fix it tomorrow.“"
+ :illustrator "Teo Yong Jin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Brandt.jpg"
  :position 358
  :quantity 3
  :set-id "mnemic"}
-{:card-id "HappyGohum"
+{:card-id "Britney"
  :code "99359"
- :flavor "“What a waste!“ – Words never uttered by Happy."
- :illustrator "Ni Yipeng"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/HappyGohum.jpg"
+ :flavor "Book afficionado!"
+ :illustrator "Chate Noire"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Britney.jpg"
  :position 359
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Nikita"
+{:card-id "HappyGohum"
  :code "99360"
- :flavor ""
- :illustrator "Dontnod Entertainment"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Nikita.jpg"
+ :flavor "“What a waste!“ – Words never uttered by Happy."
+ :illustrator "Ni Yipeng"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/HappyGohum.jpg"
  :position 360
  :quantity 3
  :set-id "mnemic"}
-{:card-id "TaraAlegre"
+{:card-id "Nikita"
  :code "99361"
  :flavor ""
- :illustrator "Fred Augis"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/TaraAlegre.jpg"
+ :illustrator "Dontnod Entertainment"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Nikita.jpg"
  :position 361
  :quantity 3
  :set-id "mnemic"}
-{:card-id "VetkaZamisha"
+{:card-id "TaraAlegre"
  :code "99362"
- :flavor "“I always go out with a bank!“"
- :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/VetkaZamisha.jpg"
+ :flavor "Run!"
+ :illustrator "Fred Augis"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/TaraAlegre.jpg"
  :position 362
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Acromegaly"
+{:card-id "KatiaLevsha"
  :code "99363"
- :flavor "“So very big!“"
- :illustrator "Damien Mammoliti"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Acromegaly.jpg"
+ :flavor ""
+ :illustrator "Matt Zeilinger"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/KatiaLevsha.jpg"
  :position 363
  :quantity 3
  :set-id "mnemic"}
-{:card-id "DevilsFork"
+{:card-id "Acromegaly"
  :code "99364"
- :flavor "“Can't live with em, can't live without em!“"
- :illustrator "MNeMiC"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/DevilsFork.jpg"
+ :flavor "“So very big!“"
+ :illustrator "Damien Mammoliti"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Acromegaly.jpg"
  :position 364
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SwanSong"
+{:card-id "DevilsFork"
  :code "99365"
- :flavor "Going out in flames!"
- :illustrator "Ilya Shapko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/SwanSong.jpg"
+ :flavor "“Can't live with em, can't live without em!“"
+ :illustrator "MNeMiC"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/DevilsFork.jpg"
  :position 365
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SPDRUN"
+{:card-id "SwanSong"
  :code "99366"
- :flavor "Gotta go fast!"
+ :flavor "Going out in flames!"
  :illustrator "Ilya Shapko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/SPDRUN.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/SwanSong.jpg"
  :position 366
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Anomia"
+{:card-id "SPDRUN"
  :code "99367"
+ :flavor "Gotta go fast!"
+ :illustrator "Ilya Shapko"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/SPDRUN.jpg"
+ :position 367
+ :quantity 3
+ :set-id "mnemic"}
+{:card-id "Anomia"
+ :code "99368"
  :flavor "“You must be at least this crazy to ride!(bbr)
 Don't worry, you'll grow into it!“"
  :illustrator "Andrew Mar"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Anomia.jpg"
- :position 367
- :quantity 3
- :set-id "mnemic"}
-{:card-id "Heron"
- :code "99368"
- :flavor "Nighttime. Daytime!"
- :illustrator "Uknown"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Heron.jpg"
  :position 368
  :quantity 3
  :set-id "mnemic"}
-{:card-id "HyenaBin"
+{:card-id "Heron"
  :code "99369"
- :flavor "“If sub-species were listed alphabetically, the aardwolves would outrank all other animals!“"
- :illustrator "Zuza Ruszecka"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/HyenaBin.jpg"
+ :flavor "Nighttime. Daytime!"
+ :illustrator "Uknown"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Heron.jpg"
  :position 369
  :quantity 3
  :set-id "mnemic"}
-{:card-id "AllEater"
+{:card-id "HyenaBin"
  :code "99370"
- :flavor "“A true heap breaker.“"
- :illustrator "Damien Mammoliti"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/AllEater.jpg"
+ :flavor "“If sub-species were listed alphabetically, the aardwolves would outrank all other animals!“"
+ :illustrator "Zuza Ruszecka"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/HyenaBin.jpg"
  :position 370
  :quantity 3
  :set-id "mnemic"}
-{:card-id "WreckingBall"
+{:card-id "AllEater"
  :code "99371"
- :flavor "“I swear it came from nowhere! First it wasn't there, and then it just was!“"
- :illustrator "Maxim Revin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/WreckingBall.jpg"
+ :flavor "“A true heap breaker.“"
+ :illustrator "Damien Mammoliti"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/AllEater.jpg"
  :position 371
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SafetyGoggles"
+{:card-id "WreckingBall"
  :code "99372"
- :flavor ""
- :illustrator "asvpshop"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/SafetyGoggles.jpg"
+ :flavor "“I swear it came from nowhere! First it wasn't there, and then it just was!“"
+ :illustrator "Maxim Revin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/WreckingBall.jpg"
  :position 372
  :quantity 3
  :set-id "mnemic"}
-{:card-id "NeuralLinkDampener"
+{:card-id "SafetyGoggles"
  :code "99373"
+ :flavor "It protects against what exactly?"
+ :illustrator "asvpshop"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/SafetyGoggles.jpg"
+ :position 373
+ :quantity 3
+ :set-id "Updated"}
+{:card-id "NeuralLinkDampener"
+ :code "99374"
  :flavor "“See, it ddn hrt su bd...“"
  :illustrator "Nadeera Gunasekara"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/NeuralLinkDampener.jpg"
- :position 373
- :quantity 3
- :set-id "mnemic"}
-{:card-id "ProtestChip"
- :code "99374"
- :flavor "**** ***"
- :illustrator "Tansie Stephens"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/ProtestChip.jpg"
  :position 374
  :quantity 3
  :set-id "mnemic"}
-{:card-id "AdrenalineBug"
+{:card-id "ProtestChip"
  :code "99375"
- :flavor ""
- :illustrator "Gintas Galvanauskas"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/AdrenalineBug.jpg"
+ :flavor "**** ***"
+ :illustrator "Tansie Stephens"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/ProtestChip.jpg"
  :position 375
  :quantity 3
  :set-id "mnemic"}
-{:card-id "TantrumChip"
+{:card-id "AdrenalineBug"
  :code "99376"
+ :flavor "Safe. For now."
+ :illustrator "Gintas Galvanauskas"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/AdrenalineBug.jpg"
+ :position 376
+ :quantity 3
+ :set-id "Updated"}
+{:card-id "TantrumChip"
+ :code "99377"
  :flavor "“Hit me with your best shot!“"
  :illustrator "Mariusz Baranowski"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/TantrumChip.jpg"
- :position 376
- :quantity 3
- :set-id "mnemic"}
-{:card-id "InformationTrader"
- :code "99377"
- :flavor "“Not to be confused with data dealers.“"
- :illustrator "Maik Beiersdorf"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/InformationTrader.jpg"
  :position 377
  :quantity 3
  :set-id "mnemic"}
-{:card-id "InsideInformant"
+{:card-id "InformationTrader"
  :code "99378"
- :flavor ""
- :illustrator "Thomas Elliott"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/InsideInformant.jpg"
+ :flavor "“Not to be confused with data dealers.“"
+ :illustrator "Maik Beiersdorf"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/InformationTrader.jpg"
  :position 378
  :quantity 3
  :set-id "mnemic"}
-{:card-id "BreakTheSystem"
+{:card-id "InsideInformant"
  :code "99379"
- :flavor ""
- :illustrator "David Barker"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/BreakTheSystem.jpg"
+ :flavor "There's always an inside man."
+ :illustrator "Thomas Elliott"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/InsideInformant.jpg"
  :position 379
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Bullheaded"
+{:card-id "BreakTheSystem"
  :code "99380"
  :flavor ""
- :illustrator "Makoto Tojiki"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Bullheaded.jpg"
+ :illustrator "David Barker"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/BreakTheSystem.jpg"
  :position 380
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Dare"
+{:card-id "Bullheaded"
  :code "99381"
- :flavor "Told you I could make it in!"
- :illustrator "Marc Sasso"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Dare.jpg"
+ :flavor "Again and again!"
+ :illustrator "Makoto Tojiki"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Bullheaded.jpg"
  :position 381
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Eventuality"
+{:card-id "Dare"
  :code "99382"
- :flavor "What took you so long?"
- :illustrator "Egle Zioma"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Eventuality.jpg"
+ :flavor "“Told you I could make it in!“"
+ :illustrator "Marc Sasso"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Dare.jpg"
  :position 382
  :quantity 3
  :set-id "mnemic"}
-{:card-id "MutualAid"
+{:card-id "Eventuality"
  :code "99383"
- :flavor ""
- :illustrator "Julie Dillon"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/MutualAid.jpg"
+ :flavor "What took you so long?"
+ :illustrator "Egle Zioma"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Eventuality.jpg"
  :position 383
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Provocate"
+{:card-id "MutualAid"
  :code "99384"
- :flavor ""
- :illustrator "El Rict"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Provocate.jpg"
+ :flavor "Public healthcare. For everyone."
+ :illustrator "Julie Dillon"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/MutualAid.jpg"
  :position 384
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Rage"
+{:card-id "Provocate"
  :code "99385"
- :flavor "What you do on rage is all on you, friend."
- :illustrator "MNeMiC"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Rage.jpg"
+ :flavor "“What did I ever do to you?“"
+ :illustrator "El Rict"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Provocate.jpg"
  :position 385
  :quantity 3
  :set-id "mnemic"}
-{:card-id "PeerPressure"
+{:card-id "Rage"
  :code "99386"
- :flavor ""
- :illustrator "Will Murai"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/PeerPressure.jpg"
+ :flavor "What you do on rage is all on you, friend."
+ :illustrator "MNeMiC"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Rage.jpg"
  :position 386
  :quantity 3
  :set-id "mnemic"}
-{:card-id "BiennioRosso"
+{:card-id "PeerPressure"
  :code "99387"
- :flavor "“Now repeat after me everyone!“"
- :illustrator "Kez Laczin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/BiennioRosso.jpg"
+ :flavor ""
+ :illustrator "Will Murai"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/PeerPressure.jpg"
  :position 387
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Headstrong"
+{:card-id "BiennioRosso"
  :code "99388"
- :flavor ""
- :illustrator "Carl Holden"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Headstrong.jpg"
+ :flavor "“Now repeat after me everyone!“"
+ :illustrator "Kez Laczin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/BiennioRosso.jpg"
  :position 388
  :quantity 3
  :set-id "mnemic"}
-{:card-id "StandUp"
+{:card-id "Headstrong"
  :code "99389"
- :flavor ""
- :illustrator "Simon Goinard"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/StandUp.jpg"
+ :flavor "Let's see what caves in first."
+ :illustrator "Carl Holden"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/Headstrong.jpg"
  :position 389
  :quantity 3
  :set-id "mnemic"}
-{:card-id "TribalTattoo"
+{:card-id "StandUp"
  :code "99390"
- :flavor "“One of us! One of us!“"
- :illustrator "Greg Opalinski"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/TribalTattoo.jpg"
+ :flavor "You get knocked down, but you get up again!"
+ :illustrator "Simon Goinard"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/StandUp.jpg"
  :position 390
  :quantity 3
  :set-id "mnemic"}
-{:card-id "DarellVoight"
+{:card-id "TribalTattoo"
  :code "99391"
- :flavor "“Who's a sell-out?“"
- :illustrator "Jarrett Rowe"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/DarellVoight.jpg"
+ :flavor "“One of us! One of us!“"
+ :illustrator "Greg Opalinski"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Anarch/TribalTattoo.jpg"
  :position 391
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Hawkin"
+{:card-id "DarellVoight"
  :code "99392"
- :flavor ""
- :illustrator "Dontnod Entertainment"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Hawkin.jpg"
+ :flavor "“Who's a sell-out?“"
+ :illustrator "Jarrett Rowe"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/DarellVoight.jpg"
  :position 392
  :quantity 3
  :set-id "mnemic"}
-{:card-id "JasperJohnston"
+{:card-id "Hawkin"
  :code "99393"
- :flavor "“No way you can touch this!“"
- :illustrator "Misha"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/JasperJohnston.jpg"
+ :flavor ""
+ :illustrator "Dontnod Entertainment"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Hawkin.jpg"
  :position 393
  :quantity 3
  :set-id "mnemic"}
-{:card-id "JiaoWunFront"
+{:card-id "JasperJohnston"
  :code "99394"
- :flavor "“See'ya on the flipside!“"
- :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/JiaoWunFront.jpg"
+ :flavor "“No way you can touch this!“"
+ :illustrator "Misha"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/JasperJohnston.jpg"
  :position 394
  :quantity 3
  :set-id "mnemic"}
-{:card-id "JiaoWunBack"
+{:card-id "JiaoWunFront"
  :code "99395"
- :flavor "“What a rush!“"
+ :flavor "“See'ya on the flipside!“"
  :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/JiaoWunBack.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/JiaoWunFront.jpg"
  :position 395
  :quantity 3
  :set-id "mnemic"}
-{:card-id "JillJackson"
+{:card-id "JiaoWunBack"
  :code "99396"
- :flavor "“Just a quickie peek, ok?“"
- :illustrator "Nise Loftsteinn"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/JillJackson.jpg"
+ :flavor "“What a rush!“"
+ :illustrator "Matt Zeilinger"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/JiaoWunBack.jpg"
  :position 396
  :quantity 3
  :set-id "mnemic"}
-{:card-id "KarlaMaille"
+{:card-id "JillJackson"
  :code "99397"
- :flavor ""
- :illustrator "Adrian Dadich"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/KarlaMaille.jpg"
+ :flavor "“Just a quickie peek, ok?“"
+ :illustrator "Nise Loftsteinn"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/JillJackson.jpg"
  :position 397
  :quantity 3
  :set-id "mnemic"}
-{:card-id "PhoebeSabine"
+{:card-id "KarlaMaille"
  :code "99398"
- :flavor "“Smile for the cameras!“"
- :illustrator "Samuel Aaron"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/PhoebeSabine.jpg"
+ :flavor "Woof Woof corpo asshole!"
+ :illustrator "Adrian Dadich"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/KarlaMaille.jpg"
  :position 398
  :quantity 3
  :set-id "mnemic"}
-{:card-id "QuelaTameron"
+{:card-id "PhoebeSabine"
  :code "99399"
- :flavor ""
- :illustrator "Ivan Yakushev"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/QuelaTameron.jpg"
+ :flavor "“Smile for the cameras!“"
+ :illustrator "Samuel Aaron"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/PhoebeSabine.jpg"
  :position 399
  :quantity 3
  :set-id "mnemic"}
-{:card-id "RegineAdler"
+{:card-id "QuelaTameron"
  :code "99400"
- :flavor "“It was a pleasure working with you!“"
- :illustrator "Bookvl"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/RegineAdler.jpg"
+ :flavor ""
+ :illustrator "Ivan Yakushev"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/QuelaTameron.jpg"
  :position 400
  :quantity 3
  :set-id "mnemic"}
-{:card-id "RipleyBukhari"
+{:card-id "RegineAdler"
  :code "99401"
- :flavor "Let's see what we get this time."
- :illustrator "Tony Foti"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/RipleyBukhari.jpg"
+ :flavor "“It was a pleasure working with you!“"
+ :illustrator "Bookvl"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/RegineAdler.jpg"
  :position 401
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Salut"
+{:card-id "RipleyBukhari"
  :code "99402"
- :flavor ""
- :illustrator "James Thew"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Salut.jpg"
+ :flavor "Let's see what we get this time."
+ :illustrator "Tony Foti"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/RipleyBukhari.jpg"
  :position 402
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Krays"
+{:card-id "Salut"
  :code "99403"
- :flavor "They grow up together. They die together."
- :illustrator "Ilya Shapko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Krays.jpg"
+ :flavor "See you next time!"
+ :illustrator "James Thew"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Salut.jpg"
  :position 403
  :quantity 3
  :set-id "mnemic"}
-{:card-id "FiveEyes"
+{:card-id "Krays"
  :code "99404"
- :flavor "Know thy enemy."
- :illustrator "Mike Winkelmann"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/FiveEyes.jpg"
+ :flavor "They grow up together. They die together."
+ :illustrator "Ilya Shapko"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Krays.jpg"
  :position 404
  :quantity 3
  :set-id "mnemic"}
-{:card-id "HorizonEffect"
+{:card-id "FiveEyes"
  :code "99405"
- :flavor ""
- :illustrator "Kayode"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/HorizonEffect.jpg"
+ :flavor "Know thy enemy."
+ :illustrator "Mike Winkelmann"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/FiveEyes.jpg"
  :position 405
  :quantity 3
  :set-id "mnemic"}
-{:card-id "VultureBin"
+{:card-id "HorizonEffect"
  :code "99406"
- :flavor "“A group of feeding vultures is called a wake.“"
- :illustrator "Lee Yamamura"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/VultureBin.jpg"
+ :flavor ""
+ :illustrator "Kayode"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/HorizonEffect.jpg"
  :position 406
  :quantity 3
  :set-id "mnemic"}
-{:card-id "AbandonedDrive"
+{:card-id "VultureBin"
  :code "99407"
- :flavor "Never plug in a drive you found on the ground."
- :illustrator "Pawel Nowakowski"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/AbandonedDrive.jpg"
+ :flavor "“A group of feeding vultures is called a wake.“"
+ :illustrator "Lee Yamamura"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/VultureBin.jpg"
  :position 407
  :quantity 3
  :set-id "mnemic"}
-{:card-id "NeuralAlarm"
+{:card-id "AbandonedDrive"
  :code "99408"
- :flavor ""
- :illustrator "PB: 2092512"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/NeuralAlarm.jpg"
+ :flavor "Never plug in a drive you found on the ground."
+ :illustrator "Pawel Nowakowski"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/AbandonedDrive.jpg"
  :position 408
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Camfecting"
+{:card-id "NeuralAlarm"
  :code "99409"
- :flavor "“Hah! And people though I was the paranoid one for taping up my pad!“"
- :illustrator "Julen Urrutia Perez"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Camfecting.jpg"
+ :flavor "Get your priorities straight!"
+ :illustrator "PB: 2092512"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/NeuralAlarm.jpg"
  :position 409
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Keylogger"
+{:card-id "Camfecting"
  :code "99410"
- :flavor "<b>asdf1234</b> - Don’t forget this time” – Admin"
- :illustrator "Fang-Chun Tsaiâ"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Keylogger.jpg"
+ :flavor "“Hah! And people though I was the paranoid one for taping up my pad!“"
+ :illustrator "Julen Urrutia Perez"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Camfecting.jpg"
  :position 410
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SymbolicLink"
+{:card-id "Keylogger"
  :code "99411"
+ :flavor "<b>asdf1234</b> - Don’t forget this time” – Admin"
+ :illustrator "Fang-Chun Tsaiâ"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Keylogger.jpg"
+ :position 411
+ :quantity 3
+ :set-id "mnemic"}
+{:card-id "SymbolicLink"
+ :code "99412"
  :flavor "....transmitting termination protocol...<br/>
 ...symbolically linked to file...<br/>
 ...submit query..."
  :illustrator "Tansie Stephens"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/SymbolicLink.jpg"
- :position 411
- :quantity 3
- :set-id "mnemic"}
-{:card-id "TrainingRig"
- :code "99412"
- :flavor ""
- :illustrator "Howard Schechtman"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/TrainingRig.jpg"
  :position 412
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ENYAC"
+{:card-id "TrainingRig"
  :code "99413"
  :flavor ""
- :illustrator "Carl Holden"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/ENYAC.jpg"
+ :illustrator "Howard Schechtman"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/TrainingRig.jpg"
  :position 413
  :quantity 3
  :set-id "mnemic"}
-{:card-id "CCPC"
+{:card-id "ENYAC"
  :code "99414"
- :flavor "“Knowing is half the battle.“"
- :illustrator "Sebastien Decoret"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/CCPC.jpg"
+ :flavor ""
+ :illustrator "Carl Holden"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/ENYAC.jpg"
  :position 414
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Loanshark"
+{:card-id "CCPC"
  :code "99415"
- :flavor ""
- :illustrator "David Stevenson"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Loanshark.jpg"
+ :flavor "“Knowing is half the battle.“"
+ :illustrator "Sebastien Decoret"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/CCPC.jpg"
  :position 415
  :quantity 3
  :set-id "mnemic"}
-{:card-id "InsuranceContact"
+{:card-id "Loanshark"
  :code "99416"
- :flavor "“Everything can be claimed as a loss. The key is to have enough dirt on the person signing the claim.”"
- :illustrator "Roberto Robert"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/InsuranceContact.jpg"
+ :flavor ""
+ :illustrator "David Stevenson"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Loanshark.jpg"
  :position 416
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Patsy"
+{:card-id "InsuranceContact"
  :code "99417"
- :flavor ""
- :illustrator "Nicole Cardiff"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Patsy.jpg"
+ :flavor "“Everything can be claimed as a loss. The key is to have enough dirt on the person signing the claim.”"
+ :illustrator "Roberto Robert"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/InsuranceContact.jpg"
  :position 417
  :quantity 3
  :set-id "mnemic"}
-{:card-id "FasterSpeeds"
+{:card-id "Patsy"
  :code "99418"
- :flavor "“Race ya to the finish line!“"
- :illustrator "Joey Camacho"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/FasterSpeeds.jpg"
+ :flavor "“He had no idea did he?“(br)
+“Noooooope. I still don't thinik he understands what happened.“"
+ :illustrator "Nicole Cardiff"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Patsy.jpg"
  :position 418
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SeedySecuritySpecialist"
+{:card-id "FasterSpeeds"
  :code "99419"
- :flavor "At this point it's harder to find protocols without backdoors."
- :illustrator "Cyberpunk 2077"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/SeedySecuritySpecialist.jpg"
+ :flavor "“Race ya to the finish line!“"
+ :illustrator "Joey Camacho"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/FasterSpeeds.jpg"
  :position 419
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Backdoor"
+{:card-id "SeedySecuritySpecialist"
  :code "99420"
- :flavor ""
- :illustrator "Valentina Remenar"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Backdoor.jpg"
+ :flavor "At this point it's harder to find protocols without backdoors."
+ :illustrator "Cyberpunk 2077"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/SeedySecuritySpecialist.jpg"
  :position 420
  :quantity 3
  :set-id "mnemic"}
-{:card-id "PrepWork"
+{:card-id "Backdoor"
  :code "99421"
- :flavor "“Only a fool rushes into the unknown.“"
- :illustrator "J Krueger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/PrepWork.jpg"
+ :flavor ""
+ :illustrator "Valentina Remenar"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Backdoor.jpg"
  :position 421
  :quantity 3
  :set-id "mnemic"}
-{:card-id "StackedResume"
+{:card-id "PrepWork"
  :code "99422"
- :flavor "“Of course it's real. What honest person would lie on their resume?“"
- :illustrator "Chris Bjors"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/StackedResume.jpg"
+ :flavor "“Only a fool rushes into the unknown.“"
+ :illustrator "J Krueger"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/PrepWork.jpg"
  :position 422
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Extortion"
+{:card-id "StackedResume"
  :code "99423"
- :flavor ""
- :illustrator "GuoXiang Qin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Extortion.jpg"
+ :flavor "“Of course it's real. What honest person would lie on their resume?“"
+ :illustrator "Chris Bjors"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/StackedResume.jpg"
  :position 423
  :quantity 3
  :set-id "mnemic"}
-{:card-id "EvidenceDestruction"
+{:card-id "Extortion"
  :code "99424"
  :flavor ""
- :illustrator "Tony Foti"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/EvidenceDestruction.jpg"
+ :illustrator "GuoXiang Qin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/Extortion.jpg"
  :position 424
  :quantity 3
  :set-id "mnemic"}
-{:card-id "StressfulConditions"
+{:card-id "EvidenceDestruction"
  :code "99425"
- :flavor ""
- :illustrator "Konstantin Bratishko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/StressfulConditions.jpg"
+ :flavor "“Yeah but how will they prove it?“"
+ :illustrator "Tony Foti"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/EvidenceDestruction.jpg"
  :position 425
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ServerLockdown"
+{:card-id "StressfulConditions"
  :code "99426"
  :flavor ""
- :illustrator "Hunter Liang"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/ServerLockdown.jpg"
+ :illustrator "Konstantin Bratishko"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/StressfulConditions.jpg"
  :position 426
  :quantity 3
  :set-id "mnemic"}
-{:card-id "DummyProject"
+{:card-id "ServerLockdown"
  :code "99427"
  :flavor ""
- :illustrator "Julie Dillon"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/DummyProject.jpg"
+ :illustrator "Hunter Liang"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/ServerLockdown.jpg"
  :position 427
  :quantity 3
  :set-id "mnemic"}
-{:card-id "AelaBonson"
+{:card-id "DummyProject"
  :code "99428"
- :flavor "“Let's go already!“"
- :illustrator "Darya Kozhemyakina"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/AelaBonson.jpg"
+ :flavor ""
+ :illustrator "Julie Dillon"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Criminal/DummyProject.jpg"
  :position 428
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Aesop"
+{:card-id "AelaBonson"
  :code "99429"
- :flavor ""
- :illustrator "Ralph Beisner"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Aesop.jpg"
+ :flavor "“Let's go already!“"
+ :illustrator "Darya Kozhemyakina"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/AelaBonson.jpg"
  :position 429
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ClydeDAcre"
+{:card-id "Aesop"
  :code "99430"
- :flavor "“What'chu lookin'at pleb?“"
- :illustrator "Yuan Cui"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ClydeDAcre.jpg"
+ :flavor ""
+ :illustrator "Ralph Beisner"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Aesop.jpg"
  :position 430
  :quantity 3
  :set-id "mnemic"}
-{:card-id "FaeFoxwell"
+{:card-id "ClydeDAcre"
  :code "99431"
- :flavor "“See you at the dancefloor!“"
- :illustrator "Unknown"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/FaeFoxwell.jpg"
+ :flavor "“What'chu lookin'at pleb?“"
+ :illustrator "Yuan Cui"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ClydeDAcre.jpg"
  :position 431
  :quantity 3
  :set-id "mnemic"}
-{:card-id "JayVironic"
+{:card-id "FaeFoxwell"
  :code "99432"
- :flavor "Stuck on repeat."
- :illustrator "jay2206 - DeviantArt"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/JayVironic.jpg"
+ :flavor "“See you at the dancefloor!“"
+ :illustrator "Unknown"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/FaeFoxwell.jpg"
  :position 432
  :quantity 3
  :set-id "mnemic"}
-{:card-id "KonKutaragu"
+{:card-id "JayVironic"
  :code "99433"
- :flavor "“Improving system response changes the relationship between computers and humans.“"
- :illustrator "Zefanya Maega"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/KonKutaragu.jpg"
+ :flavor "Stuck on repeat."
+ :illustrator "jay2206 - DeviantArt"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/JayVironic.jpg"
  :position 433
  :quantity 3
  :set-id "mnemic"}
-{:card-id "LynnaMattix"
+{:card-id "KonKutaragu"
  :code "99434"
- :flavor "“Prepare for the worst.“"
- :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/LynnaMattix.jpg"
+ :flavor "“Improving system response changes the relationship between computers and humans.“"
+ :illustrator "Zefanya Maega"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/KonKutaragu.jpg"
  :position 434
  :quantity 3
  :set-id "mnemic"}
-{:card-id "NewtonWynn"
+{:card-id "LynnaMattix"
  :code "99435"
- :flavor "“I don't have time for this.“"
- :illustrator "Zefanya Maega"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/NewtonWynn.jpg"
+ :flavor "“Prepare for the worst.“"
+ :illustrator "Matt Zeilinger"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/LynnaMattix.jpg"
  :position 435
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Robyn"
+{:card-id "NewtonWynn"
  :code "99436"
- :flavor "Plug in and pull the lever."
- :illustrator "Yiling Yeo"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Robyn.jpg"
+ :flavor "“I don't have time for this.“"
+ :illustrator "Zefanya Maega"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/NewtonWynn.jpg"
  :position 436
  :quantity 3
  :set-id "mnemic"}
-{:card-id "TobyFranke"
+{:card-id "Robyn"
  :code "99437"
- :flavor "“Now you see me, now you don't!“"
- :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/TobyFranke.jpg"
+ :flavor "Plug in and pull the lever."
+ :illustrator "Yiling Yeo"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Robyn.jpg"
  :position 437
  :quantity 3
  :set-id "mnemic"}
-{:card-id "EiseniaFetida"
+{:card-id "TobyFranke"
  :code "99438"
- :flavor "“These guys eat up whatever you put in the path. What would I do without it?“"
- :illustrator "Maurizio De Angelis"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/EiseniaFetida.jpg"
+ :flavor "“Now you see me, now you don't!“"
+ :illustrator "Matt Zeilinger"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/TobyFranke.jpg"
  :position 438
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Feedbug"
+{:card-id "EiseniaFetida"
  :code "99439"
- :flavor "“You shall not!“"
- :illustrator "The Lightwriter"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Feedbug.jpg"
+ :flavor "“These guys eat up whatever you put in the path. What would I do without it?“"
+ :illustrator "Maurizio De Angelis"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/EiseniaFetida.jpg"
  :position 439
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Barnacle"
+{:card-id "Feedbug"
  :code "99440"
- :flavor "Wait at least 30 minutes after eating before you make a run."
- :illustrator "Damien Mammoliti"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Barnacle.jpg"
+ :flavor "“You shall not!“"
+ :illustrator "The Lightwriter"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Feedbug.jpg"
  :position 440
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Wrapper"
+{:card-id "Barnacle"
  :code "99441"
- :flavor ""
- :illustrator "Kez Laczin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Wrapper.jpg"
+ :flavor "Wait at least 30 minutes after eating before you make a run."
+ :illustrator "Damien Mammoliti"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Barnacle.jpg"
  :position 441
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Lymfi"
+{:card-id "Wrapper"
  :code "99442"
  :flavor ""
- :illustrator "Ilya Shapko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Lymfi.jpg"
+ :illustrator "Kez Laczin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Wrapper.jpg"
  :position 442
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ResearchBackdoor"
+{:card-id "Lymfi"
  :code "99443"
- :flavor "Using datamining to your favor."
- :illustrator "thelightwriter"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ResearchBackdoor.jpg"
+ :flavor ""
+ :illustrator "Ilya Shapko"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Lymfi.jpg"
  :position 443
  :quantity 3
  :set-id "mnemic"}
-{:card-id "VirusCounter"
+{:card-id "ResearchBackdoor"
  :code "99444"
- :flavor "“I counter your counterspell!“ – Common phrase, often overheard in gaming parlors."
- :illustrator "MNeMiC"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/VirusCounter.jpg"
+ :flavor "Using datamining to your favor."
+ :illustrator "thelightwriter"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ResearchBackdoor.jpg"
  :position 444
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Raptor"
+{:card-id "VirusCounter"
  :code "99445"
- :flavor ""
- :illustrator "DJ Rogers"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Raptor.jpg"
+ :flavor "“I counter your counterspell!“ – Common phrase, often overheard in gaming parlors."
+ :illustrator "MNeMiC"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/VirusCounter.jpg"
  :position 445
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Urashima"
+{:card-id "Raptor"
  :code "99446"
- :flavor "Time sure flies when you're having fun!"
- :illustrator "Robert J. Lee"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Urashima.jpg"
+ :flavor ""
+ :illustrator "DJ Rogers"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Raptor.jpg"
  :position 446
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Mahanada"
+{:card-id "Urashima"
  :code "99447"
- :flavor ""
- :illustrator "Unknown"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Mahanada.jpg"
+ :flavor "Time sure flies when you're having fun!"
+ :illustrator "Robert J. Lee"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Urashima.jpg"
  :position 447
  :quantity 3
  :set-id "mnemic"}
-{:card-id "WolfBin"
+{:card-id "Mahanada"
  :code "99448"
- :flavor "“A hungry wolf can eat 20 pounds of meat in a single meal, which is akin to a human eating one hundred hamburgers.“"
- :illustrator "Jade Mere"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/WolfBin.jpg"
+ :flavor "One with everything."
+ :illustrator "Unknown"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Mahanada.jpg"
  :position 448
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Rex"
+{:card-id "WolfBin"
  :code "99449"
- :flavor ""
- :illustrator "Peggy Rogers"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Rex.jpg"
+ :flavor "“A hungry wolf can eat 20 pounds of meat in a single meal, which is akin to a human eating one hundred hamburgers.“"
+ :illustrator "Jade Mere"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/WolfBin.jpg"
  :position 449
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Trirose"
+{:card-id "Rex"
  :code "99450"
- :flavor "Impossibler!"
- :illustrator "Ricardo Cherem"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Trirose.jpg"
+ :flavor ""
+ :illustrator "Peggy Rogers"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Rex.jpg"
  :position 450
  :quantity 3
  :set-id "mnemic"}
-{:card-id "CAVChip"
+{:card-id "Trirose"
  :code "99451"
- :flavor ""
- :illustrator "Carl Holden"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/CAVChip.jpg"
+ :flavor "Impossibler!"
+ :illustrator "Ricardo Cherem"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Trirose.jpg"
  :position 451
  :quantity 3
  :set-id "mnemic"}
-{:card-id "eScape"
+{:card-id "CAVChip"
  :code "99452"
  :flavor ""
- :illustrator "Chris Bjors"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/eScape.jpg"
+ :illustrator "Carl Holden"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/CAVChip.jpg"
  :position 452
  :quantity 3
  :set-id "mnemic"}
-{:card-id "PEDD"
+{:card-id "eScape"
  :code "99453"
- :flavor "“I swear, it was just this one time!“"
- :illustrator "Nathan Barrett"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/PEDD.jpg"
+ :flavor ""
+ :illustrator "Chris Bjors"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/eScape.jpg"
  :position 453
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ResearchPad"
+{:card-id "PEDD"
  :code "99454"
- :flavor "Looking can be deceiving."
- :illustrator "Kimmo Kaunela"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ResearchPad.jpg"
+ :flavor "“I swear, it was just this one time!“"
+ :illustrator "Nathan Barrett"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/PEDD.jpg"
  :position 454
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Reverter"
+{:card-id "ResearchPad"
  :code "99455"
- :flavor "Undo :click:, Undo :click:, Undo :click:."
- :illustrator "Cedric Peyravernay"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Reverter.jpg"
+ :flavor "Looking can be deceiving."
+ :illustrator "Kimmo Kaunela"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ResearchPad.jpg"
  :position 455
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ViralWrapper"
+{:card-id "Reverter"
  :code "99456"
- :flavor ""
- :illustrator "Alice Bessoni"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ViralWrapper.jpg"
+ :flavor "Undo :click:, Undo :click:, Undo :click:."
+ :illustrator "Cedric Peyravernay"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Reverter.jpg"
  :position 456
  :quantity 3
  :set-id "mnemic"}
-{:card-id "YinYangSocket"
+{:card-id "ViralWrapper"
  :code "99457"
  :flavor ""
- :illustrator "Unknown"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/YinYangSocket.jpg"
+ :illustrator "Alice Bessoni"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ViralWrapper.jpg"
  :position 457
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Labo"
+{:card-id "YinYangSocket"
  :code "99458"
  :flavor ""
- :illustrator "Tansie Stephens"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Labo.jpg"
+ :illustrator "Unknown"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/YinYangSocket.jpg"
  :position 458
  :quantity 3
  :set-id "mnemic"}
-{:card-id "VirusBackupROM"
+{:card-id "Labo"
  :code "99459"
  :flavor ""
- :illustrator "Kirimitsu"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/VirusBackupROM.jpg"
+ :illustrator "Tansie Stephens"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Labo.jpg"
  :position 459
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ARReconBot"
+{:card-id "VirusBackupROM"
  :code "99460"
- :flavor ""
- :illustrator "Emmy Wahlbäck"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ARReconBot.jpg"
+ :flavor "“That's not a good idea.“"
+ :illustrator "Kirimitsu"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/VirusBackupROM.jpg"
  :position 460
  :quantity 3
  :set-id "mnemic"}
-{:card-id "BettingMan"
+{:card-id "ARReconBot"
  :code "99461"
  :flavor ""
- :illustrator "Gintas Galvanauskas"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/BettingMan.jpg"
+ :illustrator "Emmy Wahlbäck"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ARReconBot.jpg"
  :position 461
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Lyzo"
+{:card-id "BettingMan"
  :code "99462"
- :flavor ""
- :illustrator "Ilya Shapko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Lyzo.jpg"
+ :flavor "“Now, if I were a betting man, I would say that this is a safe bet.“"
+ :illustrator "Gintas Galvanauskas"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/BettingMan.jpg"
  :position 462
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Lylat"
+{:card-id "Lyzo"
  :code "99463"
  :flavor ""
  :illustrator "Ilya Shapko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Lylat.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Lyzo.jpg"
  :position 463
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Metamorphosis"
+{:card-id "Lylat"
  :code "99464"
- :flavor "One second it's there, the other it isn't. It's like magic."
- :illustrator "Alfred Pasieka"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Metamorphosis.jpg"
+ :flavor ""
+ :illustrator "Ilya Shapko"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Lylat.jpg"
  :position 464
  :quantity 3
  :set-id "mnemic"}
-{:card-id "DigitalAssistant"
+{:card-id "Metamorphosis"
  :code "99465"
- :flavor ""
- :illustrator "Дмитрий Майер"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/DigitalAssistant.jpg"
+ :flavor "One second it's there, the other it isn't. It's like magic."
+ :illustrator "Alfred Pasieka"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Metamorphosis.jpg"
  :position 465
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Peggy"
+{:card-id "DigitalAssistant"
  :code "99466"
  :flavor ""
- :illustrator "Kez Laczin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Peggy.jpg"
+ :illustrator "Дмитрий Майер"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/DigitalAssistant.jpg"
  :position 466
  :quantity 3
  :set-id "mnemic"}
-{:card-id "OracleOlive"
+{:card-id "Peggy"
  :code "99467"
  :flavor ""
- :illustrator "Damien Mammoliti"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/OracleOlive.jpg"
+ :illustrator "Kez Laczin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Peggy.jpg"
  :position 467
  :quantity 3
  :set-id "mnemic"}
-{:card-id "StrengthBundle"
+{:card-id "OracleOlive"
  :code "99468"
  :flavor ""
- :illustrator "Kez Laczin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/StrengthBundle.jpg"
+ :illustrator "Damien Mammoliti"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/OracleOlive.jpg"
  :position 468
  :quantity 3
  :set-id "mnemic"}
-{:card-id "AllInADaysWork"
+{:card-id "StrengthBundle"
  :code "99469"
- :flavor "“Phew, now that's out of the way.“"
- :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/AllInADaysWork.jpg"
+ :flavor "Compressed efficiency."
+ :illustrator "Kez Laczin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/StrengthBundle.jpg"
  :position 469
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Multiboxing"
+{:card-id "AllInADaysWork"
  :code "99470"
- :flavor "Akimbo-style!"
- :illustrator "Olga Dubovitskaya"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Multiboxing.jpg"
+ :flavor "“Phew, now that's out of the way.“"
+ :illustrator "Matt Zeilinger"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/AllInADaysWork.jpg"
  :position 470
  :quantity 3
  :set-id "mnemic"}
-{:card-id "DarkWebFlashSale"
+{:card-id "Multiboxing"
  :code "99471"
- :flavor ""
- :illustrator "Manuel Fuentes"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/DarkWebFlashSale.jpg"
+ :flavor "Akimbo-style!"
+ :illustrator "Olga Dubovitskaya"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/Multiboxing.jpg"
  :position 471
  :quantity 3
  :set-id "mnemic"}
-{:card-id "InfectedMemoryStick"
+{:card-id "DarkWebFlashSale"
  :code "99472"
- :flavor ""
- :illustrator "John Petersen"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/InfectedMemoryStick.jpg"
+ :flavor "“What happens on the dark web, probably is already exposed to some corpo spook.“"
+ :illustrator "Manuel Fuentes"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/DarkWebFlashSale.jpg"
  :position 472
  :quantity 3
  :set-id "mnemic"}
-{:card-id "JustWhatIWanted"
+{:card-id "InfectedMemoryStick"
  :code "99473"
- :flavor "“That one!“"
- :illustrator "Julie Dillon"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/JustWhatIWanted.jpg"
+ :flavor ""
+ :illustrator "John Petersen"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/InfectedMemoryStick.jpg"
  :position 473
  :quantity 3
  :set-id "mnemic"}
-{:card-id "BuyingTime"
+{:card-id "JustWhatIWanted"
  :code "99474"
- :flavor ""
- :illustrator "Emmy Wahlbäck"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/BuyingTime.jpg"
+ :flavor "“That one!“"
+ :illustrator "Julie Dillon"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/JustWhatIWanted.jpg"
  :position 474
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ItsASetup"
+{:card-id "BuyingTime"
  :code "99475"
- :flavor ""
- :illustrator "Ivan Shavrin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ItsASetup.jpg"
+ :flavor "“This should prove useful.“"
+ :illustrator "Emmy Wahlbäck"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/BuyingTime.jpg"
  :position 475
  :quantity 3
  :set-id "mnemic"}
-{:card-id "MoveItOrLoseIt"
+{:card-id "ItsASetup"
  :code "99476"
- :flavor "The time to act is now!"
- :illustrator "Daniel Brewer"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/MoveItOrLoseIt.jpg"
+ :flavor ""
+ :illustrator "Ivan Shavrin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/ItsASetup.jpg"
  :position 476
  :quantity 3
  :set-id "mnemic"}
-{:card-id "BraydonSilver"
+{:card-id "MoveItOrLoseIt"
  :code "99477"
- :flavor ""
- :illustrator "Steve Jung"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/BraydonSilver.jpg"
+ :flavor "The time to act is now!"
+ :illustrator "Daniel Brewer"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Shaper/MoveItOrLoseIt.jpg"
  :position 477
  :quantity 3
  :set-id "mnemic"}
-{:card-id "JoeLawrence"
+{:card-id "BraydonSilver"
  :code "99478"
- :flavor "Making the most of life."
- :illustrator "Unknown"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/JoeLawrence.jpg"
+ :flavor ""
+ :illustrator "Steve Jung"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/BraydonSilver.jpg"
  :position 478
  :quantity 3
  :set-id "mnemic"}
-{:card-id "PalhacadasVazio"
+{:card-id "JoeLawrence"
  :code "99479"
- :flavor "Many flavors of crazy!"
- :illustrator "Maxim Marenkov"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/PalhacadasVazio.jpg"
+ :flavor "Making the most of life."
+ :illustrator "Unknown"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/JoeLawrence.jpg"
  :position 479
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Goldsmith"
+{:card-id "PalhacadasVazio"
  :code "99480"
- :flavor ""
- :illustrator "Fabián Jiménez"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/Goldsmith.jpg"
+ :flavor "Many flavors of crazy!"
+ :illustrator "Maxim Marenkov"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/PalhacadasVazio.jpg"
  :position 480
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Maruf"
+{:card-id "Goldsmith"
  :code "99481"
- :flavor "Cobbling Runner support since the old days."
- :illustrator "Yue Wang"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/Maruf.jpg"
+ :flavor ""
+ :illustrator "Fabián Jiménez"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/Goldsmith.jpg"
  :position 481
  :quantity 3
  :set-id "mnemic"}
-{:card-id "BRGBRN"
+{:card-id "Maruf"
  :code "99482"
+ :flavor "Cobbling Runner support since the old days."
+ :illustrator "Yue Wang"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/Maruf.jpg"
+ :position 482
+ :quantity 3
+ :set-id "mnemic"}
+{:card-id "BRGBRN"
+ :code "99483"
  :flavor "“The hardest thing is to know which to cross and which to burn.“(br)
 Fortunately we no longer have to make those calls ourselves."
  :illustrator "Tim Simpson"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/BRGBRN.jpg"
- :position 482
- :quantity 3
- :set-id "mnemic"}
-{:card-id "BreakPoint"
- :code "99483"
- :flavor ""
- :illustrator "Tansie Stephens"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/BreakPoint.jpg"
  :position 483
  :quantity 3
  :set-id "mnemic"}
-{:card-id "VirtualMemoryUnits"
+{:card-id "BreakPoint"
  :code "99484"
- :flavor "The old saying: “Download more memory“, turned out to not be very accurate. VMU's just made it mainstream."
- :illustrator "Joey Camacho"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/VirtualMemoryUnits.jpg"
+ :flavor "It's a get out of jail free-card. Nothing wrong with keeping one around."
+ :illustrator "Tansie Stephens"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/BreakPoint.jpg"
  :position 484
  :quantity 3
  :set-id "mnemic"}
-{:card-id "CloudStorage"
+{:card-id "VirtualMemoryUnits"
  :code "99485"
- :flavor ""
+ :flavor "The old saying: “Download more memory“, turned out to not be very accurate. VMU's just made it mainstream."
  :illustrator "Joey Camacho"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/CloudStorage.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/VirtualMemoryUnits.jpg"
  :position 485
  :quantity 3
  :set-id "mnemic"}
-{:card-id "FriendsWithBenefits"
+{:card-id "CloudStorage"
  :code "99486"
- :flavor "Three you have some company, four we have a party!"
- :illustrator "Kez Laczin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/FriendsWithBenefits.jpg"
+ :flavor ""
+ :illustrator "Joey Camacho"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/CloudStorage.jpg"
  :position 486
  :quantity 3
  :set-id "mnemic"}
-{:card-id "TaxRelief"
+{:card-id "FriendsWithBenefits"
  :code "99487"
- :flavor "It benefits everyone. But some more than others."
- :illustrator "Lucy He"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/TaxRelief.jpg"
+ :flavor "Three you have some company, four we have a party!"
+ :illustrator "Kez Laczin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/FriendsWithBenefits.jpg"
  :position 487
  :quantity 3
  :set-id "mnemic"}
-{:card-id "MeditationServer"
+{:card-id "TaxRelief"
  :code "99488"
- :flavor "“5 minute no rush, kk?“ – g00ru"
- :illustrator "Anotherwanderer - Deviantart"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/MeditationServer.jpg"
+ :flavor "It benefits everyone. But some more than others."
+ :illustrator "Lucy He"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/TaxRelief.jpg"
  :position 488
  :quantity 3
  :set-id "mnemic"}
-{:card-id "WellTimedBet"
+{:card-id "MeditationServer"
  :code "99489"
+ :flavor "“5 minute no rush, kk?“ – g00ru"
+ :illustrator "Anotherwanderer - Deviantart"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/MeditationServer.jpg"
+ :position 489
+ :quantity 3
+ :set-id "mnemic"}
+{:card-id "WellTimedBet"
+ :code "99490"
  :flavor "Timing is everything. The rest is luck."
  :illustrator "Zefanya Maega & Kyle Movsessian"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/WellTimedBet.jpg"
- :position 489
+ :position 490
  :quantity 6
  :set-id "mnemic"}
 {:card-id "FallenComrades"
- :code "99490"
+ :code "99491"
  :flavor "Thank you for your services rendered."
  :illustrator "Mikko Kautto"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Neutral-Runner/FallenComrades.jpg"
- :position 490
- :quantity 3
- :set-id "mnemic"}
-{:card-id "AdamConsistentHacker"
- :code "99491"
- :flavor ""
- :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/AdamConsistentHacker.jpg"
  :position 491
  :quantity 3
  :set-id "mnemic"}
-{:card-id "AdamOstracizingHacker"
+{:card-id "AdamConsistentHacker"
  :code "99492"
  :flavor ""
  :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/AdamOstracizingHacker.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/AdamConsistentHacker.jpg"
  :position 492
  :quantity 3
  :set-id "mnemic"}
-{:card-id "InnerSelf"
+{:card-id "AdamOstracizingHacker"
  :code "99493"
  :flavor ""
- :illustrator "Dontnod"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/InnerSelf.jpg"
+ :illustrator "Matt Zeilinger"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/AdamOstracizingHacker.jpg"
  :position 493
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Passenger"
+{:card-id "InnerSelf"
  :code "99494"
  :flavor ""
- :illustrator "Thiago Almeida"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/Passenger.jpg"
+ :illustrator "Dontnod"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/InnerSelf.jpg"
  :position 494
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Hy5"
+{:card-id "Passenger"
  :code "99495"
- :flavor "“Is known to leave a fingerprint.“"
- :illustrator "Ilya Shapko"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/Hy5.jpg"
+ :flavor "No-one saw it coming."
+ :illustrator "Thiago Almeida"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/Passenger.jpg"
  :position 495
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SafetyProtocol"
+{:card-id "Hy5"
  :code "99496"
- :flavor "Traps are only a problem if you don't disarm them."
- :illustrator "Johnson Ting"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/SafetyProtocol.jpg"
+ :flavor "“Is known to leave a fingerprint.“"
+ :illustrator "Ilya Shapko"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/Hy5.jpg"
  :position 496
  :quantity 3
  :set-id "mnemic"}
-{:card-id "RecursionDrive"
+{:card-id "SafetyProtocol"
  :code "99497"
- :flavor "“Again and again and...“"
- :illustrator "Polygonatic"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/RecursionDrive.jpg"
+ :flavor "Traps are only a problem if you don't disarm them."
+ :illustrator "Johnson Ting"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/SafetyProtocol.jpg"
  :position 497
  :quantity 3
  :set-id "mnemic"}
-{:card-id "AtAnyCost"
+{:card-id "RecursionDrive"
  :code "99498"
- :flavor "“Streamlining makes you go faster.“"
- :illustrator "Javier & Carlos Cabrera"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/AtAnyCost.jpg"
+ :flavor "“Again and again and...“"
+ :illustrator "Polygonatic"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/RecursionDrive.jpg"
  :position 498
  :quantity 3
  :set-id "mnemic"}
-{:card-id "FrequentDreams"
+{:card-id "AtAnyCost"
  :code "99499"
- :flavor "“Do bioroids dream of electric sleep?“"
+ :flavor "“Streamlining makes you go faster.“"
  :illustrator "Javier & Carlos Cabrera"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/FrequentDreams.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/AtAnyCost.jpg"
  :position 499
  :quantity 3
  :set-id "mnemic"}
-{:card-id "IterativeLoop"
+{:card-id "FrequentDreams"
  :code "99500"
- :flavor "“Use it sparingly.“"
- :illustrator "FullRix"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/IterativeLoop.jpg"
+ :flavor "“Do bioroids dream of electric sleep?“"
+ :illustrator "Javier & Carlos Cabrera"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/FrequentDreams.jpg"
  :position 500
  :quantity 3
  :set-id "mnemic"}
-{:card-id "LayOfTheLand"
+{:card-id "IterativeLoop"
  :code "99501"
- :flavor "“Know your surroundings to maximize your efficiency in any space.“"
- :illustrator "Javier & Carlos Cabrera"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/LayOfTheLand.jpg"
+ :flavor "“Use it sparingly.“"
+ :illustrator "FullRix"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/IterativeLoop.jpg"
  :position 501
  :quantity 3
  :set-id "mnemic"}
-{:card-id "LongtermThinking"
+{:card-id "LayOfTheLand"
  :code "99502"
- :flavor "“Planning ahead is key. Only bring what you need.“"
- :illustrator "Aldo Katayanagi"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/LongtermThinking.jpg"
+ :flavor "“Know your surroundings to maximize your efficiency in any space.“"
+ :illustrator "Javier & Carlos Cabrera"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/LayOfTheLand.jpg"
  :position 502
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ManageThePain"
+{:card-id "LongtermThinking"
  :code "99503"
+ :flavor "“Planning ahead is key. Only bring what you need.“"
+ :illustrator "Aldo Katayanagi"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/LongtermThinking.jpg"
+ :position 503
+ :quantity 3
+ :set-id "mnemic"}
+{:card-id "ManageThePain"
+ :code "99504"
  :flavor "“It's just a scrape...
 (bbr)<br/>(bbr)<br/>(bbr)<br/>(bbr)<br/>(br)
 <flavorRight>Until it's not. “</flavorRight>"
  :illustrator "Javier & Carlos Cabrera"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/ManageThePain.jpg"
- :position 503
- :quantity 3
- :set-id "mnemic"}
-{:card-id "AlwaysBeClosing"
- :code "99504"
- :flavor "“You gotta learn your ABC!“"
- :illustrator "Pontus Ullbors"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/AlwaysBeClosing.jpg"
  :position 504
  :quantity 3
  :set-id "mnemic"}
-{:card-id "DirectiveProtocol"
+{:card-id "AlwaysBeClosing"
  :code "99505"
- :flavor ""
- :illustrator "Mariia Solianyk"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/DirectiveProtocol.jpg"
+ :flavor "“You gotta learn your ABC!“"
+ :illustrator "Pontus Ullbors"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/AlwaysBeClosing.jpg"
  :position 505
  :quantity 3
  :set-id "mnemic"}
-{:card-id "BackupStrategy"
+{:card-id "DirectiveProtocol"
  :code "99506"
- :flavor "“Always use what you've got to it's fullest potential. If that's not enough, get out.“"
- :illustrator "Maxim Revin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/BackupStrategy.jpg"
+ :flavor ""
+ :illustrator "Mariia Solianyk"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/DirectiveProtocol.jpg"
  :position 506
  :quantity 3
  :set-id "mnemic"}
-{:card-id "PrimeDirectives"
+{:card-id "BackupStrategy"
  :code "99507"
- :flavor "Always fear the one that makes their own laws."
- :illustrator "Robert Grafström"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/PrimeDirectives.jpg"
+ :flavor "“Always use what you've got to it's fullest potential. If that's not enough, get out.“"
+ :illustrator "Maxim Revin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/BackupStrategy.jpg"
  :position 507
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Rerun"
+{:card-id "PrimeDirectives"
  :code "99508"
- :flavor "“Let's do that again!“"
- :illustrator "Javier & Carlos Cabrera"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/Rerun.jpg"
+ :flavor "Always fear the one that makes their own laws."
+ :illustrator "Robert Grafström"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/PrimeDirectives.jpg"
  :position 508
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Scrounging"
+{:card-id "Rerun"
  :code "99509"
- :flavor "Let's get that back in there."
- :illustrator "Dirk Wachsmuth"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/Scrounging.jpg"
+ :flavor "“Let's do that again!“"
+ :illustrator "Javier & Carlos Cabrera"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/Rerun.jpg"
  :position 509
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ApexFragileMind"
+{:card-id "Scrounging"
  :code "99510"
- :flavor ""
- :illustrator "Liiga Smilshkalne"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/ApexFragileMind.jpg"
+ :flavor "Let's get that back in there."
+ :illustrator "Dirk Wachsmuth"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Adam/Scrounging.jpg"
  :position 510
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ApexPublicPredator"
+{:card-id "ApexFragileMind"
  :code "99511"
  :flavor ""
  :illustrator "Liiga Smilshkalne"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/ApexPublicPredator.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/ApexFragileMind.jpg"
  :position 511
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ApexVengeance"
+{:card-id "ApexPublicPredator"
  :code "99512"
  :flavor ""
  :illustrator "Liiga Smilshkalne"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/ApexVengeance.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/ApexPublicPredator.jpg"
  :position 512
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Necrophage"
+{:card-id "ApexVengeance"
  :code "99513"
- :flavor "ARISE"
- :illustrator "NPP2112 - Deviantart"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Necrophage.jpg"
+ :flavor ""
+ :illustrator "Liiga Smilshkalne"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/ApexVengeance.jpg"
  :position 513
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Regurgitate"
+{:card-id "Necrophage"
  :code "99514"
- :flavor "LOOK AWAY"
- :illustrator "Leon Tukker"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Regurgitate.jpg"
+ :flavor "ARISE"
+ :illustrator "NPP2112 - Deviantart"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Necrophage.jpg"
  :position 514
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Gorger"
+{:card-id "Regurgitate"
  :code "99515"
- :flavor "INSATIABLE"
- :illustrator "Dixon Jong"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Gorger.jpg"
+ :flavor "LOOK AWAY"
+ :illustrator "Leon Tukker"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Regurgitate.jpg"
  :position 515
  :quantity 3
  :set-id "mnemic"}
-{:card-id "GarbageCollector"
+{:card-id "Gorger"
  :code "99516"
- :flavor "FEED ME"
- :illustrator "fvckrender"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/GarbageCollector.jpg"
+ :flavor "INSATIABLE"
+ :illustrator "Dixon Jong"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Gorger.jpg"
  :position 516
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Automaton"
+{:card-id "GarbageCollector"
  :code "99517"
- :flavor ""
- :illustrator "Marius Siergiejew"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Automaton.jpg"
+ :flavor "FEED ME"
+ :illustrator "fvckrender"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/GarbageCollector.jpg"
  :position 517
  :quantity 3
  :set-id "mnemic"}
-{:card-id "MutuallyAssuredDestruction"
+{:card-id "Automaton"
  :code "99518"
- :flavor "IM M.A.D AT YOU"
- :illustrator "Tori Art"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/MutuallyAssuredDestruction.jpg"
+ :flavor ""
+ :illustrator "Marius Siergiejew"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Automaton.jpg"
  :position 518
  :quantity 3
  :set-id "mnemic"}
-{:card-id "PacketCompressor"
+{:card-id "MutuallyAssuredDestruction"
  :code "99519"
- :flavor "COMPRESSING EVERYTHING"
- :illustrator "Zhang Gan"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/PacketCompressor.jpg"
+ :flavor "IM M.A.D AT YOU"
+ :illustrator "Tori Art"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/MutuallyAssuredDestruction.jpg"
  :position 519
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SacrificialRoutine"
+{:card-id "PacketCompressor"
  :code "99520"
- :flavor "FOR THE GREATER GOOD"
- :illustrator "Freeda"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/SacrificialRoutine.jpg"
+ :flavor "COMPRESSING EVERYTHING"
+ :illustrator "Zhang Gan"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/PacketCompressor.jpg"
  :position 520
  :quantity 3
  :set-id "mnemic"}
-{:card-id "UnattendedInstallation"
+{:card-id "SacrificialRoutine"
  :code "99521"
- :flavor "BRB"
- :illustrator "Fantastic Design"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/UnattendedInstallation.jpg"
+ :flavor "FOR THE GREATER GOOD"
+ :illustrator "Freeda"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/SacrificialRoutine.jpg"
  :position 521
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Anthropophagy"
+{:card-id "UnattendedInstallation"
  :code "99522"
- :flavor "SACRIFICE YOURSELF"
- :illustrator "Andrada Saftescu"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Anthropophagy.jpg"
+ :flavor "BRB"
+ :illustrator "Fantastic Design"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/UnattendedInstallation.jpg"
  :position 522
  :quantity 3
  :set-id "mnemic"}
-{:card-id "OptimizedRoutine"
+{:card-id "Anthropophagy"
  :code "99523"
- :flavor "OPTIMAL ROUTING FOUND"
- :illustrator "Rabar Ruxzayî"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/OptimizedRoutine.jpg"
+ :flavor "SACRIFICE YOURSELF"
+ :illustrator "Andrada Saftescu"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Anthropophagy.jpg"
  :position 523
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Spray"
+{:card-id "OptimizedRoutine"
  :code "99524"
- :flavor "NOW PRAY"
- :illustrator "PikePicture"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Spray.jpg"
+ :flavor "OPTIMAL ROUTING FOUND"
+ :illustrator "Rabar Ruxzayî"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/OptimizedRoutine.jpg"
  :position 524
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SunnyInvestigator"
+{:card-id "Spray"
  :code "99525"
- :flavor ""
- :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/SunnyInvestigator.jpg"
+ :flavor "NOW PRAY"
+ :illustrator "PikePicture"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Apex/Spray.jpg"
  :position 525
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SunnyExecutivelyConnected"
+{:card-id "SunnyInvestigator"
  :code "99526"
- :flavor ""
+ :flavor "“Let's see what we can expose.“"
  :illustrator "Matt Zeilinger"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/SunnyExecutivelyConnected.jpg"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/SunnyInvestigator.jpg"
  :position 526
  :quantity 3
  :set-id "mnemic"}
-{:card-id "VPNTunnel"
+{:card-id "SunnyExecutivelyConnected"
  :code "99527"
- :flavor "“Just like you're right there.“"
- :illustrator "NOVA"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/VPNTunnel.jpg"
+ :flavor ""
+ :illustrator "Matt Zeilinger"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/SunnyExecutivelyConnected.jpg"
  :position 527
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Forgiveness"
+{:card-id "VPNTunnel"
  :code "99528"
- :flavor "“True forgiveness means you are given another chance to make a new beginning.“"
- :illustrator "Yue Wang"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/Forgiveness.jpg"
+ :flavor "“It's like you're right there.“"
+ :illustrator "NOVA"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/VPNTunnel.jpg"
  :position 528
  :quantity 3
  :set-id "mnemic"}
-{:card-id "8346L3807N37"
+{:card-id "Forgiveness"
  :code "99529"
- :flavor "“The larger the swarm, the greater the threat.“"
- :illustrator "Tansie Stephens"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/8346L3807N37.jpg"
+ :flavor "“True forgiveness gives you a chance to make a new beginning.“"
+ :illustrator "Yue Wang"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/Forgiveness.jpg"
  :position 529
  :quantity 3
  :set-id "mnemic"}
-{:card-id "GSShermanM6"
+{:card-id "8346L3807N37"
  :code "99530"
- :flavor "Nukes-capable."
- :illustrator "Ethan Patrick Harris"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/GSShermanM6.jpg"
+ :flavor "“The larger the swarm, the greater the threat.“"
+ :illustrator "Tansie Stephens"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/8346L3807N37.jpg"
  :position 530
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Seeker"
+{:card-id "GSShermanM6"
  :code "99531"
- :flavor "“Seeker and you shall find'er.“"
- :illustrator "Julie Dillon"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/Seeker.jpg"
+ :flavor "Nukes-capable."
+ :illustrator "Ethan Patrick Harris"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/GSShermanM6.jpg"
  :position 531
  :quantity 3
  :set-id "mnemic"}
-{:card-id "GSStrikerM4"
+{:card-id "Seeker"
  :code "99532"
- :flavor "Biggest."
- :illustrator "Ethan Patrick Harris"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/GSStrikerM4.jpg"
+ :flavor "“Seeker and you shall find'er.“"
+ :illustrator "Julie Dillon"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/Seeker.jpg"
  :position 532
  :quantity 3
  :set-id "mnemic"}
-{:card-id "GSShrikeM5"
+{:card-id "GSStrikerM4"
  :code "99533"
- :flavor "Insane."
- :illustrator "Donald Crank"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/GSShrikeM5.jpg"
+ :flavor "Biggest."
+ :illustrator "Ethan Patrick Harris"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/GSStrikerM4.jpg"
  :position 533
  :quantity 3
  :set-id "mnemic"}
-{:card-id "LowLatencyRouter"
+{:card-id "GSShrikeM5"
  :code "99534"
- :flavor "“Gaming gear can be surprisingly hi-tech.“"
- :illustrator "TP-Link"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/LowLatencyRouter.jpg"
+ :flavor "Insane."
+ :illustrator "Donald Crank"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/GSShrikeM5.jpg"
  :position 534
  :quantity 3
  :set-id "mnemic"}
-{:card-id "PublicRSSFeeds"
+{:card-id "LowLatencyRouter"
  :code "99535"
- :flavor "“Anything I find will be made public immediately.“"
- :illustrator "Shadowrun"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/PublicRSSFeeds.jpg"
+ :flavor "“Gaming gear can be surprisingly hi-tech.“"
+ :illustrator "TP-Link"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/LowLatencyRouter.jpg"
  :position 535
  :quantity 3
  :set-id "mnemic"}
-{:card-id "InternAssistant"
+{:card-id "PublicRSSFeeds"
  :code "99536"
- :flavor ""
- :illustrator "Carl Holden"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/InternAssistant.jpg"
+ :flavor "“Anything I find will be made public immediately.“"
+ :illustrator "Shadowrun"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/PublicRSSFeeds.jpg"
  :position 536
  :quantity 3
  :set-id "mnemic"}
-{:card-id "SubterfugeJournalist"
+{:card-id "InternAssistant"
  :code "99537"
- :flavor "“If you're lucky, all you need is a bag of cash.“"
- :illustrator "GuoXiang Qin"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/SubterfugeJournalist.jpg"
+ :flavor "“Hey, he's cheap!“"
+ :illustrator "Carl Holden"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/InternAssistant.jpg"
  :position 537
  :quantity 3
  :set-id "mnemic"}
-{:card-id "BeingConnected"
+{:card-id "SubterfugeJournalist"
  :code "99538"
- :flavor ""
- :illustrator "Angelique Shelley"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/BeingConnected.jpg"
+ :flavor "“If you're lucky, all you need is a bag of cash.“"
+ :illustrator "GuoXiang Qin"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/SubterfugeJournalist.jpg"
  :position 538
  :quantity 3
  :set-id "mnemic"}
-{:card-id "CashingOut"
+{:card-id "BeingConnected"
  :code "99539"
- :flavor "Multi-use credits."
- :illustrator "James Eugene"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/CashingOut.jpg"
+ :flavor "Most people won't last a day without a connection to the nets."
+ :illustrator "Angelique Shelley"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/BeingConnected.jpg"
  :position 539
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Debacle"
+{:card-id "CashingOut"
  :code "99540"
- :flavor "“Use what you have at your disposal.“"
- :illustrator "Carl Holden"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/Debacle.jpg"
+ :flavor "Multi-use credits."
+ :illustrator "James Eugene"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/CashingOut.jpg"
  :position 540
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Publicizing"
+{:card-id "Debacle"
  :code "99541"
- :flavor ""
- :illustrator "Dallas Williams"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/Publicizing.jpg"
+ :flavor "“Use what you have at your disposal.“"
+ :illustrator "Carl Holden"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/Debacle.jpg"
  :position 541
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ForcedHand"
+{:card-id "Publicizing"
  :code "99542"
+ :flavor ""
+ :illustrator "Dallas Williams"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/Publicizing.jpg"
+ :position 542
+ :quantity 3
+ :set-id "mnemic"}
+{:card-id "ForcedHand"
+ :code "99543"
  :flavor ""
  :illustrator "Johann Goutard
 "
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/ForcedHand.jpg"
- :position 542
- :quantity 3
- :set-id "mnemic"}
-{:card-id "UnnanouncedSecurityTest"
- :code "99543"
- :flavor ""
- :illustrator "Zefanya Maega & Kyle Movsessian"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/UnnanouncedSecurityTest.jpg"
  :position 543
  :quantity 3
  :set-id "mnemic"}
-{:card-id "ExposingTheTruth"
+{:card-id "UnnanouncedSecurityTest"
  :code "99544"
- :flavor "The truth out there... and send... now!"
- :illustrator "Wint Fox"
- :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/ExposingTheTruth.jpg"
+ :flavor ""
+ :illustrator "Zefanya Maega & Kyle Movsessian"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/UnnanouncedSecurityTest.jpg"
  :position 544
  :quantity 3
  :set-id "mnemic"}
-{:card-id "Incentive"
+{:card-id "ExposingTheTruth"
  :code "99545"
+ :flavor "The truth out there... and send... now!"
+ :illustrator "Wint Fox"
+ :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/ExposingTheTruth.jpg"
+ :position 545
+ :quantity 3
+ :set-id "mnemic"}
+{:card-id "Incentive"
+ :code "99546"
  :flavor "Win-Win."
  :illustrator "Dennis Darmody"
  :image-url "http://www.goty-games.com/netrunner/jinteki/cards/Runner/Sunny/Incentive.jpg"
- :position 545
+ :position 546
  :quantity 3
- :set-id "mnemic"}]
+ :set-id "mnemic"}
+]

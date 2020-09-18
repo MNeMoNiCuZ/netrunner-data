@@ -223,4 +223,6 @@
  {:id :antivirus
   :name "Antivirus"}
  {:id :ultimatum
-  :name "Ultimatum"}]
+  :name "Ultimatum"}
+ {:id :viral
+  :name "Viral"}]

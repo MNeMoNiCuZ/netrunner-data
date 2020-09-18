@@ -12,8 +12,7 @@
            "flashpoint"
            "red-sand"
            "kitara"
-           "ashes"
-		   "mnemic-cycle"]
+           "ashes"]
   :mwl "standard-ban-list-20-06"}
  {:id "eternal"
   :name "Eternal"
@@ -36,7 +35,76 @@
            "flashpoint"
            "red-sand"
            "kitara"
-           "ashes"
-		   "mnemic-cycle"]
+           "ashes"]
   :mwl "eternal-mwl-1-2"}
-  ]
+ {:id "core-experience"
+  :name "Core Experience"
+  :sets ["system-core-2019"]
+  :mwl nil}
+ {:id "snapshot"
+  :name "Snapshot"
+  :sets ["creation-and-control"
+         "honor-and-profit"
+         "order-and-chaos"
+         "data-and-destiny"
+         "terminal-directive"
+         "revised-core-set"
+         "reign-and-reverie"]
+  :cycles ["lunar"
+           "sansan"
+           "mumbad"
+           "flashpoint"
+           "red-sand"
+           "kitara"]
+  :mwl "napd-mwl-2-2"}
+ {:id "snapshot-plus"
+  :name "Snapshot Plus"
+  :sets ["creation-and-control"
+         "honor-and-profit"
+         "order-and-chaos"
+         "data-and-destiny"
+         "terminal-directive"
+         "revised-core-set"
+         "reign-and-reverie"]
+  :cycles ["lunar"
+           "sansan"
+           "mumbad"
+           "flashpoint"
+           "red-sand"
+           "kitara"
+           "magnum-opus"]
+  :mwl "napd-mwl-2-2"}
+ {:id "socr"
+  :name "Stimhack Online Cache Refresh"
+  :sets ["honor-and-profit"
+         "order-and-chaos"
+         "data-and-destiny"
+         "reign-and-reverie"
+         "system-core-2019"
+         "magnum-opus"]
+  :cycles ["kitara"
+           "ashes"]
+  :mwl "standard-mwl-3-4-b"}
+ {:id "classic"
+  :name "Classic"
+  :sets ["core-set"
+         "creation-and-control"
+         "honor-and-profit"
+         "order-and-chaos"
+         "data-and-destiny"
+         "terminal-directive"
+         "revised-core-set"
+         "reign-and-reverie"
+         "magnum-opus"
+         "system-core-2019"
+         "magnum-opus-reprint"]
+  :cycles ["genesis"
+           "spin"
+           "lunar"
+           "sansan"
+           "mumbad"
+           "flashpoint"
+           "red-sand"
+           "kitara"
+           "ashes"]
+  :mwl "classic-mwl-1-0"}]
