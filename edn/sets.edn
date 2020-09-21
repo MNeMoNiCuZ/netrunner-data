@@ -639,7 +639,7 @@
   :set-type :data-pack
   :size 65}
  {:code "mn"
-  :cycle-id "mnemic-cycle"
+  :cycle-id "mnemic"
   :date-release "2020-06-28"
   :deluxe false
   :ffg-id nil
