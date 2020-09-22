@@ -13,7 +13,7 @@
            "red-sand"
            "kitara"
            "ashes"
-		   "mnemic-cycle"]
+		   "mnemic"]
   :mwl "standard-ban-list-20-06"}
  {:id "eternal"
   :name "Eternal"
@@ -37,7 +37,7 @@
            "red-sand"
            "kitara"
            "ashes"
-		   "mnemic-cycle"]
+		   "mnemic"]
   :mwl "eternal-mwl-1-2"}
  {:id "core-experience"
   :name "Core Experience"
